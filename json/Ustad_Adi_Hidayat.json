@@ -1,0 +1,1662 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Q5l22kzGhVixWM14QO4aN0sRYgE\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "ID",
+ "pageInfo": {
+  "totalResults": 36484,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Go1mUaKFajbtzofz2XDjpsYt1a4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "13GhyvrnKyk"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-12T04:26:19.000Z",
+    "channelId": "UC5KW9VowHehb_jHAhDMZpEQ",
+    "title": "Channel Youtube Adi Hidayat Official - Ustadz Adi Hidayat",
+    "description": "Offical Sosial Media Ustadz Adi Hidayat, Lc., MA https://facebook.com/adihidayatofficial https://instagram.com/ustadzadihidayat.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/13GhyvrnKyk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/13GhyvrnKyk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/13GhyvrnKyk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Adi Hidayat Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IXK7pN-LhZRoNa8mf8HYTlppNy8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oDvkJlFgPa8"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T07:17:47.000Z",
+    "channelId": "UColwnlZGL6spOjgyAo0rywQ",
+    "title": "Ust. ADI HIDAYAT - Ramadhan Ala Rasulullah SAW.",
+    "description": "Tabligh Akbar Golden Week 2019 Ust. Adi Hidayat \" Ramadhan Ala Rasulullah Sallallahu Alaihi Wa Sallam\" Balai Indonesia Tokyo 29 April 2019.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oDvkJlFgPa8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oDvkJlFgPa8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oDvkJlFgPa8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "KMII Jepang",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jkt3VP6XFe-QlyIrvhiu7HB26Mo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "__8TGbeJItM"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-28T08:30:00.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "CERDAS‼️ Ditanya Pakai BAHASA INGGRIS, Lihat jawaban Ust. Adi hidayat LC MA",
+    "description": "Kalau kamu ditanya dalam bahasa inggris gimana? Simak Ditanya Pakai BAHASA INGGRIS, Lihat jawaban Ust. Adi hidayat LC MA. CERDAS‼",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/__8TGbeJItM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/__8TGbeJItM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/__8TGbeJItM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xBPvpHFKHIzUkFh57IWXzB-Cop8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ddMlgv98GNo"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T15:28:37.000Z",
+    "channelId": "UCfqnZBCABxXJcR-WHgt_gkg",
+    "title": "Reaksi Ust. Adi Hidayat setelah di Hina oleh Andre Taulany",
+    "description": "Sumber : https://www.wowkeren.com/berita/tampil/00254773.html Andre Taulany Mengeluarkan Guyonan 'Receh' Saat sedang menjadi host di acara Ini Talk ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ddMlgv98GNo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ddMlgv98GNo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ddMlgv98GNo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tagar Viral",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rDvlt1nJZqg9coL411CglYuH0Ro\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vyE3-xYIXSA"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-16T03:00:02.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "Perempuan WAJIB NONTON‼️ Pesan Ust. Adi Hidayat untuk WANITA",
+    "description": "Wanita memuliki ruang dan waktu sendiri dalam pikirannya. Apa yang dipikirkannya terkadang sulit dipahami. Simak untuk anda Perempuan WAJIB NONTON‼",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vyE3-xYIXSA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vyE3-xYIXSA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vyE3-xYIXSA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/w_hqgSTbn3FRdxNRK1ZKcn070iI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cQ1zAT5WrXw"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T08:38:25.000Z",
+    "channelId": "UC5KW9VowHehb_jHAhDMZpEQ",
+    "title": "Aku ingin Berhijrah  - Ustadz Adi Hidayat",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cQ1zAT5WrXw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cQ1zAT5WrXw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cQ1zAT5WrXw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Adi Hidayat Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mS3MRM0RnBrHVDpXKD4_adeAFlQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dtzucACuPkA"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-13T13:36:13.000Z",
+    "channelId": "UCjXYAYQ7GInIimbP8JWnSxg",
+    "title": "TERHARU !!! Nasehat Ustadz Adi Hidayat Kepada Prabowo Subianto",
+    "description": "DOA USTADZ ADI HIDAYAT UNTUK PRABOWO BIKIN MERINDING . Yaa Allah kabulkanlah doa para ulama soleh ini. Mereka bukan ulama yang ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dtzucACuPkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dtzucACuPkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dtzucACuPkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Solusi Umat",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7Sgr9ENLQtEI0wWS53z8iyRwkr0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7YIbw7kY4Ac"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T19:15:44.000Z",
+    "channelId": "UC99Jbl7Z6X3hUcYMWEuj-5g",
+    "title": "ANDRE MINTA MAAF KE USTADZ ADI HIDAYAT",
+    "description": "hari pertama ramadhan, dapet kabar baik Sahabat aya Andre Taulani, berniat meminta maaf atas segala kesalahan dan mohon doa semoga masyarakat bisa ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7YIbw7kY4Ac/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7YIbw7kY4Ac/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7YIbw7kY4Ac/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CERITA UNTUNGS",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LT7Ge-MM3QiifRBHTWvPmWn3ME4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sQbqWW7GsA8"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-20T13:15:00.000Z",
+    "channelId": "UC2gnRz3wT23xNgdOI7W1kcA",
+    "title": "5 Amalan Biar Hati Tenang | Ustad Adi Hidayat, Lc., MA",
+    "description": "5 Amalan Biar Hati Tenang | Ustad Adi Hidayat, Lc., MA Ceramah Ustad Adi Hidayat, Lc., MA terbaru kupas tuntas mengenai kehidupan dan rahasia 5 Amalan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sQbqWW7GsA8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sQbqWW7GsA8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sQbqWW7GsA8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SANTRI CYBER INDONESIA",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NXAz68XC2amtMzB53CImhNH8ecc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DZ4W-t0zDkY"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T00:00:00.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "BANYAK SALAH, Ceramah Tentang SHALAT TARAWIH. Ini yang Benar - Ustadz Adi Hidayat LC MA",
+    "description": "Jangan lupa shalat tarawih ya man-teman, setiap malam di bulan ramadhan. Simak sekarang BANYAK KESALAHAN Dilakukan, Ceramah Tentang SHALAT ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DZ4W-t0zDkY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DZ4W-t0zDkY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DZ4W-t0zDkY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cdQrDphB4ftgIkVCDtPHxUdWFYQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bmSyq0mBn54"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-31T09:55:57.000Z",
+    "channelId": "UCYgEgZNPzMFJjTx4C-CgTNg",
+    "title": "[FULL] Amalan Penggugur Banyak Dosa - Ceramah Ustadz Adi Hidayat Terbaru 2019",
+    "description": "Ustadz Adi Hidayat 2019 tentang amalan cerdas di waktu yang terbatas dimana kita berharap Allah menghadirkan ridho dan pahala besar untuk menutup ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bmSyq0mBn54/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bmSyq0mBn54/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bmSyq0mBn54/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Seuntai Manfaat",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yjtXmxhJvkfUlNomNxFiKaf72jw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qqwyZbv_sAQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-14T08:03:50.000Z",
+    "channelId": "UCW9V-B6E6POcnNeS0mxNoJA",
+    "title": "MENCINTAI DAN DICINTAI ALLAH (Ustadz Adi Hidayat Lc MA)",
+    "description": "LINK FULL : https://www.youtube.com/watch?v=zXukJOH64u8 -------------------------------------------------- Info Pemesanan Portable Speaker Al Akram WA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qqwyZbv_sAQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qqwyZbv_sAQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qqwyZbv_sAQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ceramah Pendek",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nYF2lctyBYwGjnwmbLlWFOaLSD4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZL6TUnie52A"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-16T08:00:02.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "JANGAN PUASA Sebelum Nonton ini‼️ Kupas Tuntas Makna RAMADHAN - Ustadz Adi Hidayat LC MA",
+    "description": "Ramadhan kurang dari sebulan lagi. Ada hal-hal yang harus kita ketahui sebelum memasuki bulan puasa tersebut. Simak dan JANGAN PUASA Sebelum ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZL6TUnie52A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZL6TUnie52A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZL6TUnie52A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qcrZYq2YPEXP8VpKIxjiN-XQ3WY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YOZeFRyXJBs"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-08T08:35:24.000Z",
+    "channelId": "UCQto-bA5OO_NkAtJ-hpxjWQ",
+    "title": "USTADZ ADI HIDAYAT DI KOREKSI OLEH ustadz kampung",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YOZeFRyXJBs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YOZeFRyXJBs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YOZeFRyXJBs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Harisun Abd Hadi",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vRmvmkrh2qZRJunyRXR-fWiwKxE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hsFUHZ-ZTEs"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-08T08:00:09.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "MASYAALLAH‼️ Ini Nasehat Terindah dari Ustadz Adi Hidayat LC MA",
+    "description": "Ceramah Ustadz Adi Hidayat begitu lembut dan sarat akan ilmu. Simak Ini Nasehat Terindah dari Ustadz Adi Hidayat LC MA. MASYAALLAH‼",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hsFUHZ-ZTEs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hsFUHZ-ZTEs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hsFUHZ-ZTEs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/p-a-LqpjoyAvZka8QOXGyNwp4h0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DuF7PJR4jew"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-11T17:00:03.000Z",
+    "channelId": "UChXyYnuYwDvaaGROZORQkoA",
+    "title": "MENGGETARKAN JIWA !!! FULL: Ceramah Ust. Adi Hidayat Lc.,MA. di Acara Hijrah Fest 2018",
+    "description": "ustadzAdiHidayat #Hijrahfest2018 Jakarta Convention Centre (JCC), Ahad 11 November 2018 pukul 19.50 - 20.50 WIB. | Ust. Adi Hidayat Lc.,MA. FB : Akhyar ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DuF7PJR4jew/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DuF7PJR4jew/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DuF7PJR4jew/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Semut Hitam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HDJFa49Jjdqi19W-QoHzeK_KVJs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ayKu_DJkab8"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-12T23:00:00.000Z",
+    "channelId": "UCXWtuh0hjgaYWqgCRTqQeAQ",
+    "title": "[FULL] Istri Mending Sholat dirumah Atau Masjid? - Ceramah Ustadz Adi Hidayat Terbaru 2019",
+    "description": "Ustadz Adi Hidayat 2019 tentang afdhalnya istri dalam melaksanakan sholat. https://youtu.be/ayKu_DJkab8 Live by AkhyarTV, Ceramah Ust. Adi Hidayat LC.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ayKu_DJkab8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ayKu_DJkab8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ayKu_DJkab8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pemuda Beriman",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Xg_zY4tQtkWEqn_7816Wtu0NEbg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sc-vlTZYiRk"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-06T09:12:15.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "KOCAK😂 UAH bicara CINTA, jama’ah wanita HISTERIS - Ustadz Adi Hidayat LC MA",
+    "description": "ada yang baper ketika mendengar masalah cinta? Simak momen KOCAK   UAH bicara CINTA, jama'ah wanita HISTERIS - Ustadz Adi Hidayat LC MA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sc-vlTZYiRk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sc-vlTZYiRk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sc-vlTZYiRk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fcaRmExrkIyjzInUiR5GBWyXBFg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XZZuZVMZ-MU"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-26T10:00:03.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "MISTERIUS‼️ Inilah PENAMPAKAN Saat Sakratul Maut - Ustadz Adi Hidayat LC MA",
+    "description": "Kematian merupakan sesuatu yang pasti. Ini akan dialami oleh setiap manusia yang hidup. Simak Inilah PENAMPAKAN Saat Sakratul Maut. MISTERIUS‼",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XZZuZVMZ-MU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XZZuZVMZ-MU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XZZuZVMZ-MU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/waxoB7UqCBchwBDUcrVf3_erdJo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "m8J9rnwIiqc"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-15T08:49:58.000Z",
+    "channelId": "UCRSYSoJ64_ksFRrysXvgf_Q",
+    "title": "Full! Sifat Shalat Tahajud Nabi - Ustadz Adi Hidayat",
+    "description": "Full! Sifat Shalat Tahajud Nabi - Ustadz Adi Hidayat Assalamualaikum Warahmatullahi Wabararakatuh Selamat datang di MUSLIM CHANNEL saluran youtube ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m8J9rnwIiqc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m8J9rnwIiqc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m8J9rnwIiqc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Muslim Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1-CYzF70neiapli7gtFu03HKbgc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KewXqGqszKQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T23:19:08.000Z",
+    "channelId": "UC7QLV_mFkDVR7d4mBBLbD4g",
+    "title": "Reaksi Ustad Adi Hidayat saat di Datangi Andre Taulany",
+    "description": "Reaksi Ust. Adi Hidayat saat di Datangi Andre Taulany dikediamannya untuk meminta maaf kepada sang ustad. Sumber : www. Brilio.net.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KewXqGqszKQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KewXqGqszKQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KewXqGqszKQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Portal One",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wApf0Wd00KzOulWKSXCH97kyZDM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oEztLawb5HA"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-26T13:00:06.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "MASYAALLAH, Amalan Setelah SUBUH yang Bikin Hati Tenang - Ustadz Adi Hidayat LC MA",
+    "description": "Pernah mengalami hati gelisah? rasa hampa 'gitu'?! Simak Amalan Setelah SUBUH yang Bikin Hati Tenang. MASYAALLAH - Ustadz Adi Hidayat LC MA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oEztLawb5HA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oEztLawb5HA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oEztLawb5HA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/avVThBBF5FsZO1E5Sq2kpIhpbdw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PxkUaaPDO2c"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-18T13:00:03.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "MERINDING‼️ Begini Suasana ALAM KUBUR. Simak Pesan Ust. Adi Hidayat",
+    "description": "Setiap dari kita pasti akan ke sana pada saatnya. Simak ini bikin MERINDING‼   Begini Suasana ALAM KUBUR. Simak Pesan Ust. Adi Hidayat ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PxkUaaPDO2c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PxkUaaPDO2c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PxkUaaPDO2c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yN0KK7NuOwExTF-RMfw9PcrHM30\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7PDArVnA54U"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T00:00:00.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "HADIST PALSU⁉️ Tidur Orang Puasa adalah IBADAH - Ustadz Adi Hidayat LC MA",
+    "description": "Banyak nih yang tidur saat sedang puasa, apalagi ketika ramadhan?! Simak Ternyata HADIST PALSU⁉   Tidur Orang Puasa adalah IBADAH - Ustadz Adi ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7PDArVnA54U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7PDArVnA54U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7PDArVnA54U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IhhL4iHVWBP28rhfE9Duwo-MyDk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ECeoUl0THMM"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-17T08:30:01.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "HATI-HATI dengan Permainan LOGIKA Seperti ini... - Ustadz Adi Hidayat LC MA",
+    "description": "Hal ini sering terjadi sekarang. Mengubah pola pikir orang dengan perbandingan logika yang cepat, sehingga membatasi waktu (sebagian orang) untuk ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ECeoUl0THMM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ECeoUl0THMM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ECeoUl0THMM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7biss1qEAfR44qM_WUUFIFHIo9w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "gBpPGZAoWDk"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-19T13:15:00.000Z",
+    "channelId": "UC2gnRz3wT23xNgdOI7W1kcA",
+    "title": "Motivasi kehidupan Untuk Yang Terus Dilanda Masalah | Ustad Adi Hidayat, Lc., MA",
+    "description": "Motivasi kehidupan Untuk Yang Terus Dilanda Masalah | Ustad Adi Hidayat, Lc., MA Ceramah Ustad Adi Hidayat, Lc., MA mengenai motivasi kehidupan.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gBpPGZAoWDk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gBpPGZAoWDk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gBpPGZAoWDk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SANTRI CYBER INDONESIA",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SvYp46RRhNxVAPJ8UZmkJcQX67c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qZawQXSI0I8"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-06T04:51:46.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "Ust. Adi Hidayat Bongkar Sejarah Indonesia yang DIHILANG-KAN di Buku Sejarah",
+    "description": "Indonesia Merupakan negara yang besar dengan sejarah yang panjang. Perjuangan Rakyat Indonesia untuk memperoleh kemerdekaan tidak luput dari peran ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qZawQXSI0I8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qZawQXSI0I8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qZawQXSI0I8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/v0AKcVQPMW5YDUTmeQKR6Ihwo_U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UiUnGVwdpho"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T05:57:41.000Z",
+    "channelId": "UCeTUCqbWph7YQVn9Jf4SuFQ",
+    "title": "TEORI REZEKI Berdasarkan QUR&#39;AN | Ustad Adi Hidayat",
+    "description": "Bantu kami berdakwah setiap bulannya: https://www.patreon.com/lampuislam → Donasi: https://kitabisa.com/dakwahlampuislam TOPIK Ustad Adi Hidayat ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UiUnGVwdpho/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UiUnGVwdpho/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UiUnGVwdpho/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Lampu Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_gj02VxZiOIlMwu7r0g1Ezfc71Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PhJG021-d-Q"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-11T12:18:18.000Z",
+    "channelId": "UCb6KgG96ZdotnIMv13z7Nww",
+    "title": "INILAH ORANG YANG DIJAMIN BAHAGIA | USTADZ ADI HIDAYAT, LC, MA",
+    "description": "USTADZ ADI HIDAYAT, LC, MA #UstadzAdiHidayat #UAH #UAS #Ceramah #islam #indonesia.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PhJG021-d-Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PhJG021-d-Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PhJG021-d-Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AL-FATIH Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WtjDIxPuRBb2Pv5d_C2DctZTp8s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QyETQeBg7jU"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-30T13:00:04.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "MENANGISLAH Menyambut Ramadhan➕Pesan SEDIH dari Ust. Adi Hidayat LC MA",
+    "description": "Guys, ramadhan tinggal sebulan lagi. Simak dan ini harus kamu lakukan, MENANGISLAH Menyambut Ramadhan➕Pesan SEDIH dari Ust. Adi Hidayat LC MA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QyETQeBg7jU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QyETQeBg7jU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QyETQeBg7jU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cjSBGbbqFHsbu5C_7qcO0YklKdY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4UvMVQRt4gQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-06-04T08:00:00.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "Hukum Makan Sahur Saat Azan &amp; Sejarah Imsak - Ustadz Adi Hidayat LC MA",
+    "description": "Pembahasan tentang fiqih puasa seakan tidak akan ada habisnya untuk dibahas. Menjelang awal ramadhan, berbagai pertanyaan muncul mulai dari yang ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4UvMVQRt4gQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4UvMVQRt4gQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4UvMVQRt4gQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gRJ124IQfuSK5-lmXUl_Uo9WwpQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4anWpb0BlNI"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-12T23:46:03.000Z",
+    "channelId": "UCkLn9FWSZTFsLvjCB08_cTg",
+    "title": "MENGEJUTKAN! Ustadz Adi Hidayat Sampaikan HAL RAHASIA ini Ke PRABOWO",
+    "description": "ALHAMDULILLAH hari ini Allah kembali anugerahkan sesuatu yg indah pada Pak Prabowo. Setelah tadi di Surabaya Pak Dahlan Iskan secara terang ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4anWpb0BlNI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4anWpb0BlNI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4anWpb0BlNI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Al-Muwatta",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CKg6MUsnwJJ9CedEQioIBW8NjS0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lJu3tArNE4Y"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-29T03:14:40.000Z",
+    "channelId": "UC3gwVja6I4e8Adyqv5Bn7ZQ",
+    "title": "NET JABAR - KISAH PERJALANAN DAKWAH USTAD ADI HIDAYAT",
+    "description": "Ustadz Adi Hidayat. Dikenal sebagai sosok Ustadz yang punya pengetahuan luar biasa dalam berbagai bidang ilmu agama islam. Ia menuntut ilmu agama ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lJu3tArNE4Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lJu3tArNE4Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lJu3tArNE4Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "NET BIRO JAWA BARAT",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_ey2kRGKqThW98Y57vYnJ2F4jKM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wCCI0Rh3U9Y"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-03T09:31:16.000Z",
+    "channelId": "UCowwLY4AWSeCgjYgUMswA0A",
+    "title": "LENGKAP! INI DIA ASAL USUL USTADZ ADI HIDAYAT!",
+    "description": "Bismillahirrahmanirrahiiim... bantu SUBSCRIBE untuk Kebaikan! biasakan baca deskripsi. (*Penting Ada RALAT!) KITA TIDAK LAGI KAGUM KEPADA USTADZ ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wCCI0Rh3U9Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wCCI0Rh3U9Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wCCI0Rh3U9Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Taat Tanpa Tapi",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1dQhwRaqOKhzggsMj3UpKG8L9gY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ONRyafmBvg4"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-10T09:00:06.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "BIKIN SENYUM² Sendiri😍 Kisah-kisah ROMANTIS saat Lamaran - Ustadz Adi Hidayat LC MA",
+    "description": "Mana nih, yang bentar lagi mau lamaran atau nikahan? Simak Kisah-kisah ROMANTIS saat Lamaran, BIKIN SENYUM² Sendiri   - Ustadz Adi Hidayat LC MA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ONRyafmBvg4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ONRyafmBvg4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ONRyafmBvg4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gM51tRY-56kwm8UdzG1ZIsOV0LY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "eSdmLF015Fk"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-10T03:15:00.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "BIKIN NANGIS😱 Nasehat Penting yang MENUSUK HATI dari Ustadz Adi Hidayat LC MA",
+    "description": "Sesekali coba renungkan bagaimana kehidupan kita. Simak Nasehat Penting yang MENUSUK HATI dari Ustadz Adi Hidayat LC MA. BIKIN NANGIS   ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eSdmLF015Fk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eSdmLF015Fk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eSdmLF015Fk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/S9HpSW7rq3o76PlzTeuxSVPQ_LE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IuebJTgxWxI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T10:40:57.000Z",
+    "channelId": "UCEku5zDGU-QMI4eoXaGxE5g",
+    "title": "ini Reaksi Ustadz Adi Hidayat Saat Bertemu Andre Taulany",
+    "description": "ini Reaksi Ustadz Adi Hidayat Saat Bertemu Andre Taulany Pelawak Andre Taulany mengunjungi kediaman Ustaz Adi Hidayat (UAH). Hal itu terungkap dalam ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IuebJTgxWxI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IuebJTgxWxI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IuebJTgxWxI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "HASBY ASH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZTqvjWkswD-8a7sjqK4b93-vLTk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GT16Uf-lcDM"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-04T08:00:01.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "Pertanyaan LUCU dari Seorang Istri➕Nasehat Romantis dari UAH - Ustadz Adi Hidayat LC MA",
+    "description": "Unik nih pertanyaan si Ibu. Langsung dikasih nasehat romantis oleh UAH. Simak Pertanyaan LUCU dari Seorang Istri➕Nasehat Romantis dari UAH - Ustadz ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GT16Uf-lcDM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GT16Uf-lcDM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GT16Uf-lcDM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JYSKSTSi0Xzugsl0j51ffhpGnV4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uZCOxc3a-6Q"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-12T06:30:52.000Z",
+    "channelId": "UCXWtuh0hjgaYWqgCRTqQeAQ",
+    "title": "Enak Jadi Laki   Laki Atau Perempuan? - Ceramah Ustadz Adi Hidayat Terbaru 2019",
+    "description": "Ustadz Adi Hidayat 2019 tentang pahala besar seorang istri jika melaksanakan hal ini (simak videonya) https://youtu.be/uZCOxc3a-6Q Live by AkhyarTV, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uZCOxc3a-6Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uZCOxc3a-6Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uZCOxc3a-6Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pemuda Beriman",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/uz1XiRHVmom0PCDXF_3ROEeNCus\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KJ6c8BTaGVE"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-20T11:37:22.000Z",
+    "channelId": "UCPRaiX9XPfzTjJiIW9yYzjA",
+    "title": "USTADZ ADI HIDAYAT KAJIAN MUSAWARAH (6/4/2019)",
+    "description": "Ustadz Adi Hidayat, Lc., MA. 6 April 2019.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KJ6c8BTaGVE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KJ6c8BTaGVE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KJ6c8BTaGVE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Musawarah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rdug0UuDGG9TmrWCdSZSIxaYXfo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NJS3sPe19XA"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T11:47:41.000Z",
+    "channelId": "UCVXC1rhE7dLKq-7Ws6YV5AQ",
+    "title": "Waktu yang istimewa ! Sangat mustajab ketika anda berdoa || Ustadz Adi Hidayat Lc, MA",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NJS3sPe19XA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NJS3sPe19XA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NJS3sPe19XA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Afterlife Fighters",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tsF9RG72Pvl6d_lvzlSdopIesLE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AuwkNo91_Uk"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-03T13:28:44.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "KLARIFIKASI‼️ Ustadz Adi Hidayat Dituduh &#39;WONG SESAT&#39;⁉️ 😱",
+    "description": "Cobaan juga bisa saja menghampiri para ustadz. Namun semuanya dimaknai sebagai sebuah masukan yang bisa mendekatkan diri kepada Allah.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AuwkNo91_Uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AuwkNo91_Uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AuwkNo91_Uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/n_r2F3lWktTjLDuZhFWfBOhV5O8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Xy-ccdyTvKA"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-11T03:00:01.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "RAHASIA😱 Agar Allah Mengingat Kita &amp; Dimudahkan Rezeki - Ustadz Adi Hidayat LC MA",
+    "description": "Setiap orang pasti ingin hidupnya sejahtera. Semua yang diinginkannya dapat terpenuhi. Simak, RAHASIA   Agar Allah Mengingat Kita & Dimudahkan Rezeki ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Xy-ccdyTvKA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Xy-ccdyTvKA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xy-ccdyTvKA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WrN2MnY8Ai3OTDPoq2EhUvGvASE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WaMBScxqwSI"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-29T10:34:50.000Z",
+    "channelId": "UCW9V-B6E6POcnNeS0mxNoJA",
+    "title": "Lakukan Ini Agar Bulan Ramadhan Kita Jadi Berkesan (Ustadz Adi Hidayat Lc MA)",
+    "description": "link kajian full : https://www.youtube.com/watch?v=__xltYwwfok Credit : Jazakumullah khairan katsira... Channel AkhyarTv ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WaMBScxqwSI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WaMBScxqwSI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WaMBScxqwSI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ceramah Pendek",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BWsvq_S2KWd03oYxo9HJv1nbFYs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lcsPbOVZbbI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T05:44:16.000Z",
+    "channelId": "UCgvLPvKfnaAMieuItiY0FKw",
+    "title": "Video Detik-Detik Andre Taulany Cium Tangan Ustadz Adi Hidayat",
+    "description": "Video detik-detik Andre Taulany cium tangan Ustadz Adi Hidayat dan meminta maaf kepada sang ustadz Simak selengkapnya hanya di Azec Fote !",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lcsPbOVZbbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lcsPbOVZbbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lcsPbOVZbbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Azec Fote",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oT-TTSdIhqXbC9ankdGZuxUmlRk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RO6tROac4Uk"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-12T17:15:59.000Z",
+    "channelId": "UChyeN3HbUo0fY0I0eMf5xZQ",
+    "title": "GEMPAR ! SETELAH UAS KINI GILIRAN USTADZ ADI HIDAYAT DUKUNG PRABOWO SANDI",
+    "description": "TERIMA KASIH SUDAH MAMPIR DI CHANNEL GB ( GENERASI BAIK) JANGAN LUPA LIKE, COMMENT, SUBSCRIBE & SHARE.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RO6tROac4Uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RO6tROac4Uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RO6tROac4Uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Generasi Baik",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QPvfoFQ37miN7xU8kbMHRordfIo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-eotWTgYx5w"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T18:06:17.000Z",
+    "channelId": "UCTTk5Ng994mtUgQmPztp9Kg",
+    "title": "Ditemani Arie Untung, Beginilah Reaksi Ustadz Adi Hidayat Saat Bertemu Andre Taulany",
+    "description": "Nama Pelawak Andre Taulany belakangan sedang ramai diperbincangkan publik setelah guyonannya dianggap menghina salah satu ustazd. Dugaan tersebut ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-eotWTgYx5w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-eotWTgYx5w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-eotWTgYx5w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Top Artis Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lPsJUnEaSVZeU0WpSezrY9vjyfc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jSEUcQfDmMA"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T21:32:28.000Z",
+    "channelId": "UCRvOCiqjFJ_c6nKLcELSbtg",
+    "title": "ViRAL!!! UAH diminta jama&#39;ah wanita menjadi imamnya/suaminya - Ustadz Adi Hidayat, Lc, MA",
+    "description": "Jangan lupa partisipasi dan dukungan anda dengan cara subscribe, komentar dan share sebanyak-banyaknya. Agar kami lebih termotivasi untuk membuat ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jSEUcQfDmMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jSEUcQfDmMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jSEUcQfDmMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BNB TV CHANNEL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NvSpBaz9U_C5T_aL4AV6eAmT62M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "srRfcmEcuZk"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-18T13:00:09.000Z",
+    "channelId": "UCjHoMXZXAIx_QHgk9qsAJ-Q",
+    "title": "BIKIN NANGIS😱 Renungan Menyambut RAMADHAN dari Ust Adi Hidayat LC MA",
+    "description": "sebelum ramadhan tiba, ini wajib kamu nonton‼   Asli ini Bikin Nangis. Simak Renungan Menyambut RAMADHAN dari Ust Adi Hidayat LC MA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/srRfcmEcuZk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/srRfcmEcuZk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/srRfcmEcuZk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Audio Dakwah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sxJoIROefCtjLbS2nN7y8y4WnJg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FgigWx4ETwA"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-28T22:07:12.000Z",
+    "channelId": "UCXWtuh0hjgaYWqgCRTqQeAQ",
+    "title": "[FULL] Makna Ramadhan, Cara Meraih Ampunan Allah - Ceramah Ustadz Adi Hidayat Terbaru 2019",
+    "description": "Ustadz Adi Hidayat 2019 tentang makna ramadhan beserta bagaimana sikap kita saat Allah mengizinkan kita berjumpa dengan bulan ramadhan agar dapat ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FgigWx4ETwA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FgigWx4ETwA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FgigWx4ETwA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pemuda Beriman",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
