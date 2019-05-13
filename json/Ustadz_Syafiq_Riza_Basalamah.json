@@ -1,0 +1,1662 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zOMhTGgtkoIF26tHx92DPr4I4lQ\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "ID",
+ "pageInfo": {
+  "totalResults": 29123,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Q8mO_Jt94Zx_lpMP_nREKHEs5TU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HvbYVcTgwiI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-09T08:25:44.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ QATAR ] Inilah Potret Keluarga Salaf  - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ QATAR ] Inilah Potret Keluarga Salaf - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HvbYVcTgwiI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HvbYVcTgwiI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HvbYVcTgwiI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rv2wIQ0Sz0zcuprZGBgQ6R6lCpg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "G3FTzbQQkW4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-05T21:58:14.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[TA Jember] Ramadhan Ini Kau Ingin Apa  ? - Ustadz Syafiq Riza Basalamah",
+    "description": "[TA Jember] Ramadhan Ini Kau Ingin Apa ? - Ustadz Syafiq Riza Basalamah. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G3FTzbQQkW4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G3FTzbQQkW4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G3FTzbQQkW4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Aq16bHLFW1AsxBpmpIq_2atjIXQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FCFkw6fv0vs"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-03T21:43:15.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ TA Jember ] Ramadhan ...  Pantaskahku Menemuinya ? - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Ramadhan ... Pantaskahku Menemuinya ? Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR. Syafiq Riza Basalamah di ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FCFkw6fv0vs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FCFkw6fv0vs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FCFkw6fv0vs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6Ips3WwjlkNoYRE5WyCHxnu9jSI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dleJ8oUepGA"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-12T00:00:05.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Waktu Mustajab Berdoa Ketika Berpuasa - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Waktu Mustajab Berdoa Ketika Berpuasa - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung dan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dleJ8oUepGA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dleJ8oUepGA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dleJ8oUepGA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tmdI036fxkLfFJPwYxOAHhvImx4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4pTtLaf3zI4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-08T15:21:26.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ QATAR ] Istiqomah Dalam Bulan Mulia  - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ QATAR ] Istiqomah Dalam Bulan Mulia - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4pTtLaf3zI4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4pTtLaf3zI4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4pTtLaf3zI4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/C2AZ4VpYqRWXQ4EaCpl1QfIb3Zs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lMafmUjRbEg"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-08T07:57:41.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ QATAR ] Ampuni Kami Ya Rabb   - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ QATAR ] Ampuni Kami Ya Rabb - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lMafmUjRbEg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lMafmUjRbEg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lMafmUjRbEg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/P4N6yTT7dQsOsSHdZdK-YEvEUp4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "E8-e_-dbdbY"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-25T09:27:08.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Bekal Di Alam Kubur  - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Bekal Di Alam Kubur - Ustadz DR Syafiq Riza Basalamah MA.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E8-e_-dbdbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E8-e_-dbdbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E8-e_-dbdbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Wim_Rq4H8dj9F8rJn7Z9twuXZdw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ss38h7hGpQo"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-22T23:49:06.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Mumpung Masih Hidup -  Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Mumpung Masih Hidup - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR. Syafiq ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ss38h7hGpQo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ss38h7hGpQo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ss38h7hGpQo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yNHRXS4N0gLSr4skG0AMV1hCtLY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XJc6yYchhUA"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-21T04:24:37.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ TA Jakarta ] Dia Sudah Dekat -  Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Dia Sudah Dekat - Ustadz DR Syafiq Riza Basalamah MA ______ Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XJc6yYchhUA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XJc6yYchhUA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XJc6yYchhUA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/v5GnhrO0PKp4APCFigtn5crHOmQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JJ9pK7SLWmg"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T00:00:01.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Menjual Makanan Disiang Hari Di Bulan Ramadhan - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Menjual Makanan Disiang Hari Di Bulan Ramadhan - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JJ9pK7SLWmg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JJ9pK7SLWmg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JJ9pK7SLWmg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/t7h4Sns3j77iio9nNUXBNSTOBfY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "b-FXneSxDmA"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-12T10:00:05.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Bolehkah Berpuasa Setiap Hari Di Bulan Sya’ban - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Bolehkah Berpuasa Setiap Hari Di Bulan Sya'ban - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b-FXneSxDmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b-FXneSxDmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b-FXneSxDmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FAqfGR1qNg2xVcgVqdZBU0mO05Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rc3RJb-nZrY"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-07T13:43:53.000Z",
+    "channelId": "UCgCksPJCnRz4JCAgYKs32kA",
+    "title": "Ketika Kita Lupa Kematian, Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "3 kerugian yang dimiliki setiap orang tatkala lupa akan datangnya kematian, oleh Ustadz DR Syafiq Riza Basalamah MA Kajian Lengkap Channel Bali Mengaji: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rc3RJb-nZrY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rc3RJb-nZrY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rc3RJb-nZrY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Lentera Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/uP_4UPkzfV8i642w3yqvhFHN1DA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8BLxQjD334w"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-09T15:39:06.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ QATAR ] Apakah Ini Takdirku  - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ QATAR ] Apakah Ini Takdirku - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8BLxQjD334w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8BLxQjD334w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8BLxQjD334w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CNxya4mcZdnXQt4KmmvZunE0DtI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "leXzW_gMNBg"
+   },
+   "snippet": {
+    "publishedAt": "2018-05-06T13:57:50.000Z",
+    "channelId": "UCEklilmQcZ4bT6q6c0JeWRw",
+    "title": "2019 GANTI PRESIDEN | Ustadz Syafiq Riza Basalamah",
+    "description": "2019GANTIPRESIDEN | Ustadz DR. Syafiq Riza Basalamah MA.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/leXzW_gMNBg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/leXzW_gMNBg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/leXzW_gMNBg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ABU ADAM - Kajian Sunnah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Rdo_Ha2vku9rWplY9QLuWm_W7SA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zESI_BbGvK8"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-14T01:22:13.000Z",
+    "channelId": "UC2cN2nkAsQ4jiViVEMGKv3w",
+    "title": "Ketika Mulai Malas Beribadah - Ustadz Dr. Syafiq Riza Basalamah, Lc, MA",
+    "description": "Chanel Dakwah Muslim Indonesia [Ketika Mulai Malas Beribadah - Ustadz Dr. Syafiq Riza Basalamah, Lc, MA]",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zESI_BbGvK8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zESI_BbGvK8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zESI_BbGvK8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MATA ANGIN",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/C7wcV3Doe2VDQ_5RZ0k9dmPCV9I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "16YwX2KJfPg"
+   },
+   "snippet": {
+    "publishedAt": "2018-04-08T21:30:00.000Z",
+    "channelId": "UCf09Nj1SFE73TwvcbqL9PaA",
+    "title": "WOW ! Ada Yang Tanya Berapa Jumlah Istri Ustadz Syafiq Riza Basalamah",
+    "description": "Subscribe disini : https://www.youtube.com/channel/UCf09Nj1SFE73TwvcbqL9PaA Kumpulan ceramah ceramah dari Ustadz Adi Hidayat Ustadz Syafiq ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/16YwX2KJfPg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/16YwX2KJfPg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/16YwX2KJfPg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ummu Al Fatih 2",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oOC29K0QrtnIGE-l-HRkvkaS_l4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_vAjyCPdeNY"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-06T06:07:35.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[TA Banjarmasin] Pernikahan Tidak Harus Cinta - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Pernikahan Tidak Harus Cinta - Banjarmasin Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_vAjyCPdeNY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_vAjyCPdeNY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_vAjyCPdeNY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1TK4rd2Z2mRAhslWuefLbE0JrQs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "igFSk8G8mV0"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-15T10:00:06.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ Surabaya ] Management Konflik Rumah Tangga - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Management Konflik Rumah Tangga - Ustadz DR Syafiq Riza Basalamah MA Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/igFSk8G8mV0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/igFSk8G8mV0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/igFSk8G8mV0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/b1Fet-7Y5zRjFl743eH5Moy-SsY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FXB5cR1Tvtg"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-20T15:25:58.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Kerajaan Nabi Sulaiman &amp; Makam Nabi Ibrahim - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Kerajaan Nabi Sulaiman & Makam Nabi Ibrahim - Ustadz DR Syafiq Riza Basalamah MA.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FXB5cR1Tvtg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FXB5cR1Tvtg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FXB5cR1Tvtg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2yqNxHsYVnTV7iU_skNePU2rDww\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tgECKU-iHQI"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-05T00:36:12.000Z",
+    "channelId": "UCcABzVaPY-4jqzyaxKKsoiA",
+    "title": "Ketika Akhwat Menawarkan Diri Untuk Dipoligami Ustadz Syafiq Riza Basalamah",
+    "description": "Jawaban Ustadz Syafiq Riza Basalamah ketika ada akhwat menawarkan diri untuk dipoligami.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tgECKU-iHQI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tgECKU-iHQI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tgECKU-iHQI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Sunnah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/z5fo90DHrTop5XhH16N2XakdEZQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "k1xN2izSxWY"
+   },
+   "snippet": {
+    "publishedAt": "2016-05-11T03:04:54.000Z",
+    "channelId": "UCxGufxTGyHKavYIMkqTlt-A",
+    "title": "Batasan Kita Mengejar Dunia - Ust. Syafiq Reza Basalamah -",
+    "description": "Ada kalanya, ketika kita mulai memiliki kelebihan dari sebagian karunia Allah di dunia, akhirat yang kekal kita lalaikan. Bahkan cenderung dilupakan. Meskipun ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k1xN2izSxWY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k1xN2izSxWY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k1xN2izSxWY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jeda Kajian Sunnah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VX8q5-xRqGF1lUo9vlEuJXeAiP8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QKO27t9kni8"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-24T18:43:12.000Z",
+    "channelId": "UCo2nrYINwjIivJG0EuT6ZJA",
+    "title": "KAJIAN PENUH TANGIS TENTANG IBU - USTADZ SYAFIQ RIZA BASALAMAH",
+    "description": "KAJIAN PENUH TANGIS TENTANG IBU - USTADZ SYAFIQ RIZA BASALAMAH Kajian untuk muhasabah diri dan menyentuh hati ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QKO27t9kni8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QKO27t9kni8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QKO27t9kni8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Ar-Rahman",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JvCBioSsxj5iF2e-vdMH9pFLtiA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VMwfypeZypM"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-08T17:50:34.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Jangan Ngurusin Orang - Ustadz DR Syafiq Riza Baslamah MA",
+    "description": "Jangan Ngurusin Orang - Ustadz DR Syafiq Riza Baslamah MA.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VMwfypeZypM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VMwfypeZypM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VMwfypeZypM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pAy1oULqS_ZtxdAYkZfkHM2o80U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CtqY1aMoVdo"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-20T13:31:44.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ TA Jakarta ] Jangan Marah  -  Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Jangan Marah - Ustadz DR Syafiq Riza Basalamah MA ______ Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR. Syafiq ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CtqY1aMoVdo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CtqY1aMoVdo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CtqY1aMoVdo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oKrLx-R7jDpiRQzscct8Aaa0p6M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "t-xf7xF8A-A"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-22T22:31:58.000Z",
+    "channelId": "UCUWjIsAyEPkGDGzwSKYeuag",
+    "title": "Apakah Ini Takdirku? - Ustadz Dr. Syafiq Riza Basalamah, MA",
+    "description": "SUBSCRIBE untuk mendapatkan video baru setiap hari, klik https://www.youtube.com/surabayamengaji?sub_confirmation=1 Follow Surabaya Mengaji: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/t-xf7xF8A-A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/t-xf7xF8A-A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/t-xf7xF8A-A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Surabaya Mengaji",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8vEJCaeQJWBnMwixPc6qE8kQiSw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3aas6Ryv08M"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-30T04:13:41.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Harus Bertanya - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Harus Bertanya - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR. Syafiq Riza ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3aas6Ryv08M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3aas6Ryv08M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3aas6Ryv08M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pUS8e__vg27O-MOsKtLFupqjT-s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZPitFF3TNlE"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T05:00:03.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Kemuliaan  Orang Yang Berpuasa - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Kemuliaan Orang Yang Berpuasa - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung dan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZPitFF3TNlE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZPitFF3TNlE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZPitFF3TNlE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/U34Bui06Oh9b67grngmtq7hOgAE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NvxfsXGdSm8"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-23T06:38:20.000Z",
+    "channelId": "UCf2ukv0Put0zc4EYcLV0bFg",
+    "title": "Kajian Penuh Tangis, &quot;Istirahat Dalam Perjalanan Panjang&quot; - Ust Syafiq Riza Basalamah",
+    "description": "Video Lengkap Dapat Dilihat Di: https://www.youtube.com/watch?v=c3n1NHVlEqE&t=30s Dengan Judul: \"Jangan Berhenti Disitu\" Jazaakallaahu Khairan...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NvxfsXGdSm8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NvxfsXGdSm8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NvxfsXGdSm8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Al Karim",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-fkYUXjhUOO6NdzSa4a7X5sGD4Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rH0bxJvtPvI"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-06T12:46:26.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Sisakan Waktumu Untuk Akhirat - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Sisakan Waktumu Untuk Akhirat - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rH0bxJvtPvI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rH0bxJvtPvI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rH0bxJvtPvI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pBOL_Mto3KfKM1Jzz5ARATkH2b0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "05OEF7TU8NQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-07-30T08:14:01.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Jangan Terpedaya Dunia - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Jangan Terpedaya Dunia - Ustadz DR Syafiq Riza Basalamah MA Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/05OEF7TU8NQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/05OEF7TU8NQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/05OEF7TU8NQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pXrpJzFO541_pVVxCgRQEHtXQsg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tXfJ1lTYBrE"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-07T04:25:49.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[TA Banjarmasin]  Aku Ingin Bersamamu Selamanya  - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Aku Ingin Bersamamu Selamanya - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tXfJ1lTYBrE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tXfJ1lTYBrE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tXfJ1lTYBrE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cw3J5wX0oRHIz4coZM615E7U238\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SHpYzd2Us6w"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-23T12:51:00.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Mengangkat Tangan Saat Berdo&#39;a -  Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Mengangkat Tangan Saat Berdo'a - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SHpYzd2Us6w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SHpYzd2Us6w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SHpYzd2Us6w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bM_uTR-th5tZExJYH60Mo-DfuVM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uuMbGeWGau4"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-09T21:46:41.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ Jember ] Andai Aku Tidak Menikah Dengannya - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ Jember ] Andai Aku Tidak Menikah Dengannya - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uuMbGeWGau4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uuMbGeWGau4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uuMbGeWGau4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kWV5NVDuW_-OdgzacWEgeL130zM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "X-aSa3Q8ElA"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-06T13:31:36.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[TA Banjarmasin]  Lenteraku Mulai Padam - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Lenteraku Mulai Padam - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X-aSa3Q8ElA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X-aSa3Q8ElA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X-aSa3Q8ElA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Wm1x6ylsV18-QJetsLoR4-jEzAk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xLHLsDNNkbg"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-26T06:06:15.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[Batam] Kerja Keras Tanpa Hasil - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[Batam] Kerja Keras Tanpa Hasil - Ustadz DR Syafiq Riza Basalamah MA ______ Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xLHLsDNNkbg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xLHLsDNNkbg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xLHLsDNNkbg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qr0AX0cohXTL8ttBzjAQ4D_46a4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "K-4bmKrxgNk"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-08T02:00:01.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Puasa Itu tidak Memberatkan - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Puasa Itu tidak Memberatkan - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung dan mendapatkan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K-4bmKrxgNk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K-4bmKrxgNk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K-4bmKrxgNk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/puLQeWXkQZBQ7JrmqD4apaaBlbk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zz50a2GwaCE"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-24T06:33:46.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Tanamlah kau akan mendapatkan Buahnya - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Tanamlah kau akan mendapatkan Buahnya - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zz50a2GwaCE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zz50a2GwaCE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zz50a2GwaCE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TnBotkHJzztSfym2QgVQ4soZtTI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IF8gs_62Hks"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-11T08:15:52.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ QATAR ] Antara Harta Dan Anak - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ QATAR ] Antara Harta Dan Anak - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IF8gs_62Hks/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IF8gs_62Hks/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IF8gs_62Hks/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/foRPV-yM1rl_e6ollP0aD3aXk8M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kfZLHTuQfnM"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-19T13:33:16.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ TA Jakarta ] Mengenal Rabb mu  -  Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Mengenal Rabb mu - Ustadz DR Syafiq Riza Basalamah MA ______ Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kfZLHTuQfnM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kfZLHTuQfnM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kfZLHTuQfnM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6MpwXKfimtxHytj2JQSDH5ML4h8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bPdXaIijx1s"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-19T16:04:04.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Waktuku Tinggal Sedikit - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Waktuku Tinggal Sedikit - Ustadz DR Syafiq Riza Basalamah MA Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bPdXaIijx1s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bPdXaIijx1s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bPdXaIijx1s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EvpAJSLpXPShwuf9hn9lndJHWaU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "a2STC8uQWSQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-12T13:00:01.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Mengajak Anak  Yang Masih Kecil  Untuk I’tikaf - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Mengajak Anak Yang Masih Kecil Untuk I'tikaf - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung dan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a2STC8uQWSQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a2STC8uQWSQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a2STC8uQWSQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EnbehZG4INgoD_9IrCRLhBS7Pw4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zI6I2ydGTBU"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T06:00:05.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Puasa Bagi  Wanita Yang Hamil Dan Menyusui - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Puasa Bagi Wanita Yang Hamil Dan Menyusui - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zI6I2ydGTBU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zI6I2ydGTBU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zI6I2ydGTBU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/g4VM76NfWkWJBCnD-ZzM3LKfSGA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "iHHvy0oZVzI"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-01T04:17:51.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Sedikit Tertawa Banyak Menangis - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Sedikit Tertawa Banyak Menangis - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iHHvy0oZVzI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iHHvy0oZVzI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iHHvy0oZVzI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qv1R9_6GkN9uTL-x__NZD2AR-JQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "y_5QjoXV-50"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-24T08:28:48.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[Jember] Ingin Anak Sholeh - Ustadz Syafiq Riza Basalamah",
+    "description": "Sudah semestinya tiap orang tua menginginkan harta yang bergitu berharga yaitu anak-anak yang sholeh. Namun di era seperti ini, terdapat banyak tantang ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/y_5QjoXV-50/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/y_5QjoXV-50/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/y_5QjoXV-50/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/d83EEefISzWODVlYDlFTImLPDIE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "k5Gi546Y4MM"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-23T14:36:12.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Buruk Sangka, Dosa Tak Terasa - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Buruk Sangka, Dosa Tak Terasa - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k5Gi546Y4MM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k5Gi546Y4MM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k5Gi546Y4MM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1YyREU7BoEMDEOtOOOjRYyRhht0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "S1qdCfzTGFo"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-09T00:00:03.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Puasa Bagi Orang Yang Sedang Sakit - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Puasa Bagi Orang Yang Sedang Sakit - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung dan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S1qdCfzTGFo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S1qdCfzTGFo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S1qdCfzTGFo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8QpMEk9xZkV_bfSp-HbEEfNyeYs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "p_V2WPvi5kA"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-11T13:00:11.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Kapan Fidyah Dibayarkan - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Kapan Fidyah Dibayarkan - Ustadz DR Syafiq Riza Basalamah MA full kajian ada di : https://youtu.be/9z3zoL3-lFU. Silahkan bergabung dan mendapatkan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/p_V2WPvi5kA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/p_V2WPvi5kA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/p_V2WPvi5kA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/0YzkaQ1_rcMEBF2erenxkm3gpaU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "S302YOzPoqk"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T08:30:01.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ QATAR ] Mengapa Kupilih Manhaj Salaf - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ QATAR ] Mengapa Kupilih Manhaj Salaf - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S302YOzPoqk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S302YOzPoqk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S302YOzPoqk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/y1TTbWr4r_tSlS6EKIFfGoV7Ub8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LxlDjdsd3-Q"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-23T15:31:04.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Azab Allah itu pedih -  Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Azab Allah itu pedih - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR. Syafiq ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LxlDjdsd3-Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LxlDjdsd3-Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LxlDjdsd3-Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/e4KeBFf4TbmW8QJ6NYMnghvrA48\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VCemEtqAz18"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-09T12:57:42.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "Bisakah Aku Masuk Surga ? - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "Bisakah Aku Masuk Surga ? - Ustadz DR Syafiq Riza Basalamah MA Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian Ust. DR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VCemEtqAz18/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VCemEtqAz18/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VCemEtqAz18/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
