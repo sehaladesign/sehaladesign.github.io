@@ -1,0 +1,1662 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ncX1UgajsZ9q7YtDyLJdA-uMMwc\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "ID",
+ "pageInfo": {
+  "totalResults": 9416,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_IKVFOvNNA6jNOd_PQ0MyfGz9Xw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SgRRblJMfBE"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T09:53:55.000Z",
+    "channelId": "UCdylwfSGtIUkoaqDqM_hSXA",
+    "title": "Yang Selalu Kutunggu - Ust. Subhan Bawazier",
+    "description": "Kajian Jejak Shahabat dengan bahasan \"Yang Selalu Kutunggu\" oleh Ustadz Subhan Bawazier Tonton video kajian lainnya: Kebangkitan Islam Di Akhir Zaman ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SgRRblJMfBE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SgRRblJMfBE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SgRRblJMfBE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Masjid Agung Trans Studio Bandung",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FVlEbwCrrackiGHGAcv9NAN-qKE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2ihu9S2bDew"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-01T03:00:00.000Z",
+    "channelId": "UCX-4mrOc5r691SzDhHtkOgw",
+    "title": "Ceramah Agama : Ilmu Seputar Puasa Ramadhan - Ustadz Subhan Bawazier",
+    "description": "Ceramah Agama : Ilmu Seputar Puasa Ramadhan - Ustadz Subhan Bawazier Sebentar lagi Ramadhan 2019 tiba, apa yang kita persiapkan? sebelum kita ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2ihu9S2bDew/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2ihu9S2bDew/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2ihu9S2bDew/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Yufid.TV - Pengajian & Ceramah Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MaQfFf4E18UHS6T84I5Zrfzg4Io\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aI8gx9Bdsk8"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-08T01:38:47.000Z",
+    "channelId": "UCdylwfSGtIUkoaqDqM_hSXA",
+    "title": "Akhir Cerita Kita - Ust. Subhan Bawazier",
+    "description": "Kajian Jejak Shahabat dengan bahasan \"Akhir Cerita Kita\" oleh Ustadz Subhan Bawazier Tonton video kajian lainnya: Musuh Yang Nyata - Ust. Dr. H. Aam ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aI8gx9Bdsk8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aI8gx9Bdsk8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aI8gx9Bdsk8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Masjid Agung Trans Studio Bandung",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dJNo9ogf6dSBk-EWt-LLAz71cwk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sfw9Iqo4KHg"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-24T14:56:17.000Z",
+    "channelId": "UCU_18YfmSUI_2NH1fpFf1jw",
+    "title": "KAU YANG KUNANTI - Ustadz Subhan Bawazier Hafidzahullahu",
+    "description": "Assalaamu'alaikum warahmatullaahi wabarakaatuh THE RABBAANIANS presents KAU YANG KUNANTI Insya Allah, Rabu 24 April 2019, di Masjid Agung ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sfw9Iqo4KHg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sfw9Iqo4KHg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sfw9Iqo4KHg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "The Rabbaanians",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/826Xef7c96QdriCv98Xz_MlLYKk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DC7OLWSewcI"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-13T05:59:48.000Z",
+    "channelId": "UCE1GM8_QKuXupvp5T4uIqqg",
+    "title": "Maju Mundur - Ustadz Subhan Bawazier Hafidzahullah",
+    "description": "Bismillah. Dengan rahmat Allah, dakwah sunnah di Jakarta banyak mendapat ruang di hati masyarakat. Saat ini, Channel Youtube JakartaMengaji ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DC7OLWSewcI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DC7OLWSewcI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DC7OLWSewcI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "JakartaMengaji",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/H2rhhb_Fwu_FFsth_y1uN8n3Vyo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "L-bGSaAUVHs"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-17T23:09:55.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Gemerlap Rumah Tangga - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L-bGSaAUVHs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L-bGSaAUVHs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L-bGSaAUVHs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8vpousd2NGs7CFtYLjSI7ADzrkQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "fi68tCg_3ww"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-25T22:30:00.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Jalan Berliku - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fi68tCg_3ww/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fi68tCg_3ww/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fi68tCg_3ww/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/X0SfA4KtAmQ0CdCtzzGrbBsl74s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "z8fj4xYR8_o"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-06T07:52:00.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Selalu Ada Solusi - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/z8fj4xYR8_o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/z8fj4xYR8_o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/z8fj4xYR8_o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1Wp18tQf_TZURuFakg0XDi1b8oo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8m2zR6dyfcM"
+   },
+   "snippet": {
+    "publishedAt": "2018-06-24T14:00:05.000Z",
+    "channelId": "UCUw4zg1jQ2QONw_MLKTlWwA",
+    "title": "Hijrah berat... mempertahankannya LEBIH beraat Bro.. Ust. Subhan Bawazier",
+    "description": "Kajian Sunnah \"Salafush Shalih\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8m2zR6dyfcM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8m2zR6dyfcM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8m2zR6dyfcM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SIP SALAFUSH SHALIH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XPn5S7NpTdXHRNRygDpKC3L6Y6g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ICCHLUstAQE"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-22T22:22:01.000Z",
+    "channelId": "UCUw4zg1jQ2QONw_MLKTlWwA",
+    "title": "Tiap di-ingetin, Emosi mulu, Tadz ... Ust. Subhan Bawazier",
+    "description": "Kajian Sunnah.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ICCHLUstAQE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ICCHLUstAQE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ICCHLUstAQE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SIP SALAFUSH SHALIH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jFVsvhJmc--SWgN-hdiCNrkatWg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WrJV0Ee072E"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-28T11:36:39.000Z",
+    "channelId": "UCE1GM8_QKuXupvp5T4uIqqg",
+    "title": "Ujung Aspal - Ustadz Subhan Bawazier",
+    "description": "Bismillah. Dengan rahmat Allah, dakwah sunnah di Jakarta banyak mendapat ruang di hati masyarakat. Saat ini, Channel Youtube JakartaMengaji ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WrJV0Ee072E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WrJV0Ee072E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WrJV0Ee072E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "JakartaMengaji",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tD5uKYZlywAjOyJb6MOF8Yat63U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7qZrtPUGyag"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-02T23:01:44.000Z",
+    "channelId": "UCUw4zg1jQ2QONw_MLKTlWwA",
+    "title": "JANGAN SESALI MASA LALUMU..!! Ust. Subhan Bawazier",
+    "description": "Kajian Sunnah.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7qZrtPUGyag/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7qZrtPUGyag/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7qZrtPUGyag/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SIP SALAFUSH SHALIH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Eg580WDVJ_GxZTKgKvxesmxW03k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JmDR6mXPtVw"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-11T23:24:35.000Z",
+    "channelId": "UCGaEzQazl84Ca5mGWny9DJQ",
+    "title": "Lucu Tanya Jawab bersama Ustadz Subhan Bawazier",
+    "description": "Sambungan dr HARUSNYA KAU TAHU please Like dan Share, Semoga Allah Merahmati dan Meridhai kita.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JmDR6mXPtVw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JmDR6mXPtVw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JmDR6mXPtVw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BarakAllah Fiisabilillah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XFX4lXo_7eyRY16MBjqo24ouAKE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Yh7mhsszLaM"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-19T16:46:16.000Z",
+    "channelId": "UCaSwZ6rc_LMbQfsExpQoQ7g",
+    "title": "Ustadz Subhan Bawazier I BE THE WINNING FATHER",
+    "description": "Ustadz Subhan Bawazier Menagis, Kajian Penuh Derai Air Mata (Be The Winning Father), Pesan Penting Buat Orang Tua dan Anak Anak Zaman Sekarang.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Yh7mhsszLaM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Yh7mhsszLaM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Yh7mhsszLaM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ukhuwah Islamiah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kYTsvt-4AARFrI21wFJvFGRg6w0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Q6V1aqOzSqQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-09T22:30:00.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Untukmu Kawula Muda - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q6V1aqOzSqQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q6V1aqOzSqQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q6V1aqOzSqQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mYQrJ4earMhnOC_W2UElewC3Sac\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9YutfS0_2bA"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-23T03:12:20.000Z",
+    "channelId": "UCt-WP8Yo0OjRsXdCRlO7b1w",
+    "title": "Apakah Wahabi Musuh Kita?? -  Ustadz Subhan Bawazier",
+    "description": "Islam bukanlah kelompok atau organisasi! Janganlah bertengkar sesama umat islam! ================ Semoga dapat memberikan maanfaat bagi kita ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9YutfS0_2bA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9YutfS0_2bA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9YutfS0_2bA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Galeri Islami",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/21oHC2IhEmxPFynytvc1QVR4c8w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MmLKWxaooNY"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-24T12:42:46.000Z",
+    "channelId": "UCE1GM8_QKuXupvp5T4uIqqg",
+    "title": "Peleburan Dosa 6 - Ustadz Subhan Bawazier",
+    "description": "Bismillah. Dengan rahmat Allah, dakwah sunnah di Jakarta banyak mendapat ruang di hati masyarakat. Saat ini, Channel Youtube JakartaMengaji ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MmLKWxaooNY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MmLKWxaooNY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MmLKWxaooNY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "JakartaMengaji",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-pwGgoK5HS4Nku1U66MGiBFlBKE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "s8AGUe6rC9w"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-07T15:21:44.000Z",
+    "channelId": "UCS-sxbERFLkICBYv0i9EP7g",
+    "title": "Lucu, Kayanya Dia Jodoh Ane Tadz. [Ustadz Subhan Bawazier]",
+    "description": "Full Video : https://youtu.be/eMmbhpzaIhY Sumber : The Rabbanians Dengan judul: \"MULUT MU BERBISA\" Bersama: Ust. Subhan Bawazier Di Masjid Agung ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s8AGUe6rC9w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s8AGUe6rC9w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s8AGUe6rC9w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "UDA News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MlsWZrjdkFV814bjzwPRifhUjI0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OJ3XmJGNayo"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-29T09:07:36.000Z",
+    "channelId": "UCcUINNhVvravNfAm0I1gcWA",
+    "title": "Kisah Sedih &quot;OH IBU MAAFKANLAH AKU&quot; - Ust Subhan Bawazier Lc",
+    "description": "full video https://www.youtube.com/watch?v=2zfm268jzFc&t=13s.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OJ3XmJGNayo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OJ3XmJGNayo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OJ3XmJGNayo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "99 AsmaulHusna",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/r9UZqNIXMzNY5V78rVY6hgvdj8U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FYRP7Ywnr2M"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-10T10:05:57.000Z",
+    "channelId": "UCgd2nHP3x13Ywa0jLHWkdvg",
+    "title": "LUCU !!! Ajian Jangjawokan Sima Aing Sima Maung - Ust. Subhan Bawazier",
+    "description": "Like Share & Subscribe.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FYRP7Ywnr2M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FYRP7Ywnr2M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FYRP7Ywnr2M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Qolqolah TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jJLBlX06KYKaPaiSJa0-ZSTDspU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wQRqaUoAnNg"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-22T14:06:28.000Z",
+    "channelId": "UCS-sxbERFLkICBYv0i9EP7g",
+    "title": "Hijrah dari Masa Lalu, Ustadz Subhan Bawazier Menangis saat bahas tentang Orang Tua",
+    "description": "Full Videonya silahkan kunjungi : https://youtube.com/watch?v=eTK93mZ7AzI Ustadz Subhan Bawazier.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wQRqaUoAnNg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wQRqaUoAnNg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wQRqaUoAnNg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "UDA News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Han8nLSqk3I1WDAkkE-tKOYG73c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nHra2VRoaA8"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-26T00:03:21.000Z",
+    "channelId": "UCON3-MUR0caOGWEiY8t00nA",
+    "title": "Kriteria Pria Idaman - Ustadz Subhan Bawazier",
+    "description": "Dukung dakwah kami dengan subscribe dan like , semoga dengan ceramah , kajian dan tausiyah yang lucu membuat para kaum muslimin mengambil hidayah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nHra2VRoaA8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nHra2VRoaA8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nHra2VRoaA8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mengejar Hidayah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/N2mm2bwhbOHR7S_wVXlZzRNZfow\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6WBDv5V09ww"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-11T18:33:37.000Z",
+    "channelId": "UCc60e7f1l-XZwctnWAOksvA",
+    "title": "Ustadz. Subhan Bawazier bertemu Ustadz. Syafiq Riza Basalamah (BIKERS MUSLIM SURABAYA)",
+    "description": "Riding bareng ustadz. Subhan bawazier part.2 di Kota Batu, goes to muslim family land.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6WBDv5V09ww/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6WBDv5V09ww/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6WBDv5V09ww/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ipnu Fajar",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/J71z4aGLni2h4Ytidh6QH99mUGI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vGedDZAn-Yw"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-11T08:14:41.000Z",
+    "channelId": "UCS-sxbERFLkICBYv0i9EP7g",
+    "title": "Lucu, Banyak Hutang Tapi Ingin Poligami. [Ustadz Subhan Bawazier]",
+    "description": "Full Video : https://youtu.be/k2h5ISnOXXQ Ustadz Subhan Bawazier.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vGedDZAn-Yw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vGedDZAn-Yw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vGedDZAn-Yw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "UDA News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pll7O9pomVSY8ar04nB0VKQ_I-M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8cFBxlCdNmg"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-10T08:51:35.000Z",
+    "channelId": "UCON3-MUR0caOGWEiY8t00nA",
+    "title": "Lucu, Iklan Ngeledek Pas Puasa - Ustadz Subhan Bawazier",
+    "description": "Full nya search aja Tazkiyat Nafs Ramadhan nya Yufid TV.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8cFBxlCdNmg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8cFBxlCdNmg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8cFBxlCdNmg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mengejar Hidayah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dc9KIhAdoFBVCY3PBpi9zLhaZjA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tw15M7t72ZU"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-07T23:28:40.000Z",
+    "channelId": "UCsiRK18EsiNekGEK5CMMd4g",
+    "title": "LUCU Kajian yang Dibawakan Ustadz Subhan Bawazier, Lc",
+    "description": "Biodata atau biografi Ustadz Subhan Bawazier mempunyai nama lengkap, yakni Ustadz Muhammad Subhan bin Umar Bawazier. Dari nama tersebut kita bisa ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tw15M7t72ZU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tw15M7t72ZU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tw15M7t72ZU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kampoeng Akherat",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_UN8JGyzbloAy1rVtWAOwxTIRSQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-fXgMDWg_x8"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-27T01:06:13.000Z",
+    "channelId": "UCcABzVaPY-4jqzyaxKKsoiA",
+    "title": "Kajian Sunnah: Ketika Bule Bertanya Tentang Hukum Rokok - Ustadz Subhan Bawazier",
+    "description": "Kajian Sunnah Ketika Bule Bertanya Tentang Hukum Rokok Ustadz Subhan Bawazier.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-fXgMDWg_x8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-fXgMDWg_x8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-fXgMDWg_x8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Sunnah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ol3fqc3rV10ArTxkDK9GhtiAuec\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TnVzmzl7iwE"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-01T22:30:01.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Gapai Ridhonya - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TnVzmzl7iwE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TnVzmzl7iwE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TnVzmzl7iwE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oGE0mvPOikJuaZjhhJbV_tqFDyc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hKtIhpUuTFk"
+   },
+   "snippet": {
+    "publishedAt": "2017-11-28T21:30:00.000Z",
+    "channelId": "UCnSs9npXFAsk9ySFGY1CmZA",
+    "title": "[PERHATIKAN] hal ini saat mengandung - Ustadz Subhan Bawazier, Lc.",
+    "description": "Membentuk kepribadian anak sedari dini, bagaimana membentuk anak sholeh dimulai dari saat mengandung, bahkan bisa dimulai dari memilih pasangan.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hKtIhpUuTFk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hKtIhpUuTFk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hKtIhpUuTFk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Muda Mengaji",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/H1qLCo6LFi22Tj3P54gBuUOLD3Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cpBRYkb6288"
+   },
+   "snippet": {
+    "publishedAt": "2016-12-12T14:15:20.000Z",
+    "channelId": "UCgYnXf7FgyysuKmkzzt2hzQ",
+    "title": "Nasehat Untuk Pendemo Pemerintah Muslim ~ Ustadz Subhan Bawazier",
+    "description": "Full video : https://www.youtube.com/watch?v=Bcqe7jXXGSc Dukung dakwah kami dengan Subscribe, Like, & Share video-video kami. Semoga bermanfaat ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cpBRYkb6288/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cpBRYkb6288/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cpBRYkb6288/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Yuk Hijrah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fz6Avp_TEBY1-PCwf7-Mb-qnAmE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JuuAmYX0398"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-08T02:00:01.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Keramat Duniamu - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JuuAmYX0398/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JuuAmYX0398/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JuuAmYX0398/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-HnfmF-I-XU5JxcyiDCo5gP3bxY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0QF3qvQcGkA"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-23T22:30:00.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Birul Walidain - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0QF3qvQcGkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0QF3qvQcGkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0QF3qvQcGkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_oTkRT4vlMvpKY4jy4_z2vlcL_0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EB5onkNwfCE"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-13T16:48:35.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Tanda Cinta - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EB5onkNwfCE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EB5onkNwfCE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EB5onkNwfCE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FJpdbDtZQNdGIMIecTiRvMF-3xk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yUzcA45wE-Q"
+   },
+   "snippet": {
+    "publishedAt": "2018-06-10T08:57:54.000Z",
+    "channelId": "UCX-4mrOc5r691SzDhHtkOgw",
+    "title": "Aku Rindu Ramadhan - Ustadz Subhan Bawazier",
+    "description": "Aku Rindu Ramadhan - Ustadz Subhan Bawazier Marhaban ya Ramadhan akhirnya ia datang dan sebentar lagi ia akan pergi meninggalkan kita, kelak .. kita ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yUzcA45wE-Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yUzcA45wE-Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yUzcA45wE-Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Yufid.TV - Pengajian & Ceramah Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tiJXdKES8LmVGDOfkENF54iw3Pw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8cy6AKQYvHY"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-04T11:00:00.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Yang Dicintai-Nya - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8cy6AKQYvHY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8cy6AKQYvHY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8cy6AKQYvHY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8MhkFa-ee1QtpclL51ITbmcdKek\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lDSXxtBIWgA"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-26T22:53:58.000Z",
+    "channelId": "UCUw4zg1jQ2QONw_MLKTlWwA",
+    "title": "Saya harus ngaji dimana Tadz, Ust. Subhan Bawazier",
+    "description": "Kajian Sunnah.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lDSXxtBIWgA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lDSXxtBIWgA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lDSXxtBIWgA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SIP SALAFUSH SHALIH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Nb043eT0LdBR5zSADjVXnrJR6BQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "omRsVfjDVXk"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-26T04:30:01.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Harusnya Kau Tahu - Ustadz Subhan Bawazier",
+    "description": "Harusnya Kau Tahu - Ustadz Subhan Bawazier Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/omRsVfjDVXk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/omRsVfjDVXk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/omRsVfjDVXk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NH_EObwE_OMZhDjOF1Fk-7epvzA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZV45pLUoVHc"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-24T08:43:29.000Z",
+    "channelId": "UCX-4mrOc5r691SzDhHtkOgw",
+    "title": "Tabligh Akbar: Ada Hikmah di Balik Ujian - Ustadz Subhan Bawazier",
+    "description": "Tabligh Akbar: Ada Hikmah di Balik Ujian - Ustadz Subhan Bawazier Video tabligh akbar kali ini Ustadz Subhan Bawazier Hafidzhahullah menjelaskan tentang ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZV45pLUoVHc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZV45pLUoVHc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZV45pLUoVHc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Yufid.TV - Pengajian & Ceramah Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QwdYoObp3a3Rl4f_URwGgBnDvto\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "l36LroZq98A"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-13T23:00:07.000Z",
+    "channelId": "UCq0m-hGj8GhKnT3FfpmfDPg",
+    "title": "Salafy Memecah Belah Umat? - Ustadz Subhan Bawazier",
+    "description": "Salafy Memecah Belah Umat? - Ustadz Subhan Bawazier.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l36LroZq98A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l36LroZq98A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l36LroZq98A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Dienul Haq TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iM9bvOVj6ges3_AaWcOdHQcTf4E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kZzdbxCwWn4"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-25T23:50:34.000Z",
+    "channelId": "UCON3-MUR0caOGWEiY8t00nA",
+    "title": "Kriteria Wanita Idaman - Ustadz Subhan Bawazier",
+    "description": "Dukung dakwah kami dengan subscribe dan like , semoga dengan ceramah , kajian dan tausiyah yang lucu membuat para kaum muslimin mengambil hidayah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kZzdbxCwWn4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kZzdbxCwWn4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kZzdbxCwWn4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mengejar Hidayah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NylJoC4rBDOZU7VcmiMiXJsITy0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5wO_fMIdOFI"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-20T13:30:00.000Z",
+    "channelId": "UCsdPiz1bwWeatmOCm2J0Fbw",
+    "title": "Inilah Syurga Mu Wahai Wanita || Ust. Subhan Bawazier",
+    "description": "Diselenggarakan oleh Masjid Cut Mutia Jl. Cut Mutia no. 1 Menteng, JakSel Di Dukung oleh : Majelis Taklim Al-Hujjah wa. +62 818 9600 13 fb : Al-Hujjah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5wO_fMIdOFI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5wO_fMIdOFI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5wO_fMIdOFI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AL-HUJJAH Channel Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mDNt3stfGo4-Q7lQ0OUVipdcdFw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cgj2BDi-vDo"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T03:02:17.000Z",
+    "channelId": "UCON3-MUR0caOGWEiY8t00nA",
+    "title": "Lucu, Puasa - Ustadz Subhan Bawazier",
+    "description": "Ustadz Subhan Bawazier - Hukum Sikat Gigi, Siwak, Kasturi Full Video : https://youtu.be/Cy10RmP-pIY Judul : Selamat Tinggal Masa Lalu Credit ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cgj2BDi-vDo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cgj2BDi-vDo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cgj2BDi-vDo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mengejar Hidayah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eoptL0XQpIGwVIbPPrwW9iZH4vE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "StEPxE-CA_U"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-27T00:06:11.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Bye Bye Syirik - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/StEPxE-CA_U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/StEPxE-CA_U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/StEPxE-CA_U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rV9jvugtZEAoquQuQhcL2VJhXFU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WcvHSPF9D2k"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-28T07:08:46.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Ibumu Ibumu Ibumu Ayahmu - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WcvHSPF9D2k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WcvHSPF9D2k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WcvHSPF9D2k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/J33vZZkMj-_b3GM2x4PTl3J05dE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FvrS_okbT3I"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-14T01:00:01.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Ketauhilah Masalah Dalam Hidupmu - Ustadz Subhan Bawazier",
+    "description": "Ketauhilah Masalah Dalam Hidupmu - Ustadz Subhan Bawazier Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FvrS_okbT3I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FvrS_okbT3I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FvrS_okbT3I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/O_51LA9GKsk5aKwJt-t61l_z1AQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VIYHDlDBb3U"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-24T00:10:15.000Z",
+    "channelId": "UCUw4zg1jQ2QONw_MLKTlWwA",
+    "title": "[LUCU] Ya Allah.. Berilah rejeki 2 jutaaa sajaaa .. Ust. Subhan Bawazier",
+    "description": "Kajian Sunnah.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VIYHDlDBb3U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VIYHDlDBb3U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VIYHDlDBb3U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SIP SALAFUSH SHALIH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4Lz0PXRDlicJGiI0KxRTfw7bmZ8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7iGP4b0zAUY"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-22T08:07:00.000Z",
+    "channelId": "UCg8JzBjneud5yc-2AM384cg",
+    "title": "Jagalah Negeri Ini - Ustadz Subhan Bawazier",
+    "description": "Like, Comment, & Subscribe video-video dari Aladzievie Channel Instagram: http://www.instagram.com/usb.bawazier/ Website: http://www.subhanbawazier.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7iGP4b0zAUY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7iGP4b0zAUY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7iGP4b0zAUY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aladzievie Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2Xm3xEUQGvdmhzyA7oUQAiHHsFk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2zfm268jzFc"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-18T17:53:53.000Z",
+    "channelId": "UCl4IW5fyxuzryevj3c7nUpw",
+    "title": "&quot;Ketika Ajal Menjemput&quot; Ust. Subhan Bawazier #MasjidNamira",
+    "description": "\"Ketika Ajal Menjemput\" Ust. Subhan Bawazier #MasjidNamira Ds. Jotosanur Tikung - Lamongan.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2zfm268jzFc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2zfm268jzFc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2zfm268jzFc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "masjid namira",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Y6VlABP4siNc940saUAf5L704IA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qDM5h9dBXdQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-05-18T02:10:36.000Z",
+    "channelId": "UCsdPiz1bwWeatmOCm2J0Fbw",
+    "title": "Dosa Bersolek &amp; Memamerkan Kecantikan || Ust. Subhan Bawazier",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qDM5h9dBXdQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qDM5h9dBXdQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qDM5h9dBXdQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AL-HUJJAH Channel Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IFp9eqa1fmduPT2rLNSp0HFUIvE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Jgecuh1eN9c"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-01T08:00:26.000Z",
+    "channelId": "UCU_18YfmSUI_2NH1fpFf1jw",
+    "title": "GANTI HALUAN - Ustadz Subhan Bawazier",
+    "description": "Bismillah Assalaamu'alaikum warahmatullaahi wabarakaatuh THE RABBAANIANS presents \"GANTI HALUAN\" Insya Allah, Rabu 09 Januari 2019, di Masjid ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jgecuh1eN9c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jgecuh1eN9c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jgecuh1eN9c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "The Rabbaanians",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
