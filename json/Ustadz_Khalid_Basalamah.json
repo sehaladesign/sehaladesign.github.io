@@ -1,1660 +1,1660 @@
 {
  "kind": "youtube#searchListResponse",
- "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ErNyGgQED2lFa1QqPDz1Prlpz4o\"",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mBMP2mHS1kzJBaJAFU2W5P5jubo\"",
  "nextPageToken": "CDIQAA",
  "regionCode": "ID",
  "pageInfo": {
-  "totalResults": 32004,
+  "totalResults": 41764,
   "resultsPerPage": 50
  },
  "items": [
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/arjhz8vwSY6SVaeFeaybVlQkk5g\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/r7IMhbaG-z39f1SZJNVGvDmpsIU\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "xCUfJZD1jqU"
+    "videoId": "Y_d3S6omVBE"
    },
    "snippet": {
-    "publishedAt": "2019-05-12T20:57:41.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "INDAHNYA RAMADHAN BERSAMA UAS Eps. #8 | Ustadz Abdul Somad, Lc. MA - Tadabbur Surah Al Mu&#39;minun 1-3",
-    "description": "INDAHNYA RAMADHAN BERSAMA UAS Eps. #8 | Ustadz Abdul Somad, Lc., MA - Tadabbur Surah Al Mu'minun 1-3 Dipersembahkan untuk ummat oleh ...",
+    "publishedAt": "2019-05-12T02:30:01.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "[MAKASSAR] Aku Suka Memaafkan",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/xCUfJZD1jqU/default.jpg",
+      "url": "https://i.ytimg.com/vi/Y_d3S6omVBE/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/xCUfJZD1jqU/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Y_d3S6omVBE/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/xCUfJZD1jqU/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Y_d3S6omVBE/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Tafaqquh video",
+    "channelTitle": "Khalid Basalamah Official",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2n-K9RTW3SJgzHZeCIb7URrI4iM\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wzXcvG6eFyTFhPBvji0dHt5wERI\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "mhN-EaoxNzw"
+    "videoId": "2E1zWASkgGo"
    },
    "snippet": {
-    "publishedAt": "2019-05-02T22:52:40.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "MENIKAH BEDA AGAMA? | Tanya Jawab Ustadz Abdul Somad, Lc. MA | Masjid Baitu Dakwah Batam",
-    "description": "MENIKAH BEDA AGAMA? | Tanya Jawab Ustadz Abdul Somad, Lc. MA | Masjid Baitu Dakwah Batam Dipersembahkan untuk ummat oleh Tafaqquh Study Club, ...",
+    "publishedAt": "2016-06-01T02:55:41.000Z",
+    "channelId": "UCE1GM8_QKuXupvp5T4uIqqg",
+    "title": "Kajian Islam : Dahsyatnya Ramadhan - Ustadz Dr. Khalid Baslamah, MA.",
+    "description": "Bismillah. Dengan rahmat Allah, dakwah sunnah di Jakarta banyak mendapat ruang di hati masyarakat. Saat ini, Channel Youtube JakartaMengaji ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/mhN-EaoxNzw/default.jpg",
+      "url": "https://i.ytimg.com/vi/2E1zWASkgGo/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/mhN-EaoxNzw/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/2E1zWASkgGo/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/mhN-EaoxNzw/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/2E1zWASkgGo/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Tafaqquh video",
+    "channelTitle": "JakartaMengaji",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wKN-NlCtjXQk07-K1Iar9-a1A-I\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KmKFPBGppW4jAzdstwTPc0-_67U\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "GqsONgtWLfE"
+    "videoId": "moKHzV9ca4o"
    },
    "snippet": {
-    "publishedAt": "2019-05-05T14:23:27.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "HUKUM MAKAN DAN MINUM SETELAH IMSAK - Tanya Jawab Ust. Abdul Somad. Lc., MA",
-    "description": "HUKUM MAKAN DAN MINUM SETELAH IMSAK - Tanya Jawab Ust. Abdul Somad. Lc., MA Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً...",
+    "publishedAt": "2019-04-02T14:19:23.000Z",
+    "channelId": "UCWi9SVGha2J_ENTQT0N9H9Q",
+    "title": "Inilah Janji Allah Untuk Orang Yang Mau Berubah | Ustadz Khalid Basalamah Lc, MA",
+    "description": "Inilah Janji Allah Untuk Orang Yang Mau Berubah | Ceramah Ustadz Khalid Basalamah Lc, MA Terbaru Terkini Hari Ini ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/GqsONgtWLfE/default.jpg",
+      "url": "https://i.ytimg.com/vi/moKHzV9ca4o/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/GqsONgtWLfE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/moKHzV9ca4o/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/GqsONgtWLfE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/moKHzV9ca4o/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Kajian Sunnah TV",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FzltBkTkaEgubVoYgcY50qEB4Ks\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PjSt3hyuCBFkLRxdKF7YaPHf4qs\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "rGQ5U-zHqRk"
+    "videoId": "BxlhIj0UIfs"
    },
    "snippet": {
-    "publishedAt": "2019-05-07T08:12:56.000Z",
-    "channelId": "UCcMHz1bt2RmjhpxERB41nqQ",
-    "title": "Ceramah Ustadz Abdul Somad Lc MA Terbaru Kocak banget| Bolehkah Sahur Saat Adzan Berbunyi?",
-    "description": "jangan lupa kunjungi juga channel FSRMM TV https://www.youtube.com/channel/UC9_GyaJCZ3dsZOLjGLGBpMw yuk menyimak video lainnya ➡️pertanyaan ...",
+    "publishedAt": "2019-03-12T11:24:16.000Z",
+    "channelId": "UCWi9SVGha2J_ENTQT0N9H9Q",
+    "title": "PALING MENYENTUH !! Perjalanan Menuju Akhirat - Ceramah Ustadz Khalid Basalamah Lc, MA Terbaru",
+    "description": "PALING MENYENTUH !! Perjalanan Menuju Akhirat - Ceramah Ustadz Khalid Basalamah Lc, MA Terbaru ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/rGQ5U-zHqRk/default.jpg",
+      "url": "https://i.ytimg.com/vi/BxlhIj0UIfs/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/rGQ5U-zHqRk/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/BxlhIj0UIfs/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/rGQ5U-zHqRk/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/BxlhIj0UIfs/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "YOUTUBE HARTONO",
+    "channelTitle": "Kajian Sunnah TV",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/t191wwtsGwEwOrlztqEI1JGjS8o\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RVufYKFccVXW_3f1leNXQCKy2yc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "65D7v9ZziVs"
+    "videoId": "vJ9M95gi7pk"
    },
    "snippet": {
-    "publishedAt": "2019-05-05T09:59:33.000Z",
-    "channelId": "UCcrX1x1pI7ACbuevEcRZQwg",
-    "title": "Keutamaan &amp; Keistimewaan Bulan Ramadhan | Ustadz Abdul Somad Lc, MA Terbaru Hari Ini 2019",
-    "description": "Live UAS Hari ini - Ceramah Ustadz Abdul Somad Lc, MA Terbaru Puasa Bulan Ramadhan 2019 Semestinya, kalau melihat sambutan dan ...",
+    "publishedAt": "2019-05-11T06:00:04.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "[MAKASSAR] Hijrah Menjadi Seorang Mukmin yang Lebih Baik (Pembukaan oleh B&#39;jah)",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/65D7v9ZziVs/default.jpg",
+      "url": "https://i.ytimg.com/vi/vJ9M95gi7pk/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/65D7v9ZziVs/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/vJ9M95gi7pk/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/65D7v9ZziVs/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/vJ9M95gi7pk/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "El Azzam",
+    "channelTitle": "Khalid Basalamah Official",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GYrmnAvGXUdoismISONsQ_yJsx8\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kIQXLd2Z5whOXQu1yu7C-NIAw5E\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "2VPWL3x9_yI"
+    "videoId": "xEEQsQjfPlA"
    },
    "snippet": {
-    "publishedAt": "2018-10-28T05:24:34.000Z",
-    "channelId": "UCjXYAYQ7GInIimbP8JWnSxg",
-    "title": "Kenapa Allah Menciptakan Dajjal ? Ustadz Abdul Somad, Lc. MA.",
-    "description": "Allah 'azza wajalla menciptakan Dajjal tidak lain tidak bukan untuk menguji hambanya Follow instagram : https://www.instagram.com/solusi.umat/?hl=id aktifkan ...",
+    "publishedAt": "2019-05-09T02:30:01.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "[PAREPARE] Surga adalah Targetku",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/2VPWL3x9_yI/default.jpg",
+      "url": "https://i.ytimg.com/vi/xEEQsQjfPlA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/2VPWL3x9_yI/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/xEEQsQjfPlA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/2VPWL3x9_yI/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/xEEQsQjfPlA/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Solusi Umat",
+    "channelTitle": "Khalid Basalamah Official",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8t1gJsRBaG4Uk40YduPvIIUGeBQ\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/p9napjIgaRuClUwgkuxBelf4pIo\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "rGghT7b6HbI"
+    "videoId": "SiUNAIpXhW0"
    },
    "snippet": {
-    "publishedAt": "2018-09-02T01:55:05.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "UNTUKMU YANG MENCARI KETENANGAN JIWA - Ust. Abdul Somad. Lc., MA",
-    "description": "Assalamu'alaikum Warohmatullah.... Selamat datang di Channel youtube TAMANSURGA.NET, Saluran ini berisikan ceramah agama dari ustadz Abdul Somad, ...",
+    "publishedAt": "2019-05-04T09:00:05.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "Beginilah Seharusnya Mendidik Anak - Anak adalah Perhiasan dan Ujian Dunia",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/rGghT7b6HbI/default.jpg",
+      "url": "https://i.ytimg.com/vi/SiUNAIpXhW0/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/rGghT7b6HbI/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/SiUNAIpXhW0/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/rGghT7b6HbI/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/SiUNAIpXhW0/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Khalid Basalamah Official",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MD7Sbjq0nLJDVcPAY2qjFq0gsx8\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QzRE0gqj67VXCBjQaS0fUdi99_s\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "5e3ozP0Gsgs"
+    "videoId": "1uzPKcVd8ZI"
    },
    "snippet": {
-    "publishedAt": "2019-05-05T20:58:49.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "INDAHNYA RAMADHAN BERSAMA UAS Eps. #1 tvOne | Tadabbur Surat Al-Baqarah 183 | 1 Ramadhan 1440 H",
-    "description": "INDAHNYA RAMADHAN BERSAMA UAS Eps.#1 tvOne | Tadabbur Surat Al-Baqarah 183 - 1 Ramadhan 1440 H. Dipersembahkan untuk ummat oleh Tafaqquh ...",
+    "publishedAt": "2019-05-11T02:30:00.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "[PEKANBARU] Ramadhan ala Rasulullah dan Para Sahabat",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/5e3ozP0Gsgs/default.jpg",
+      "url": "https://i.ytimg.com/vi/1uzPKcVd8ZI/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/5e3ozP0Gsgs/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/1uzPKcVd8ZI/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/5e3ozP0Gsgs/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/1uzPKcVd8ZI/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Tafaqquh video",
+    "channelTitle": "Khalid Basalamah Official",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/q0j4a391ZMzUgE6QoOKCH7rPvWE\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XyzAnGrtfgxe1nvzMEYT3QsVRC0\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "xCsJn8Jyc7A"
+    "videoId": "uIlPf-Qb22s"
    },
    "snippet": {
-    "publishedAt": "2018-06-21T11:40:47.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "CERAMAH FULL.! UNTUK APA KITA HIDUP DI DUNIA - Ust. Abdul Somad. Lc. MA",
+    "publishedAt": "2019-04-09T17:16:48.000Z",
+    "channelId": "UCWi9SVGha2J_ENTQT0N9H9Q",
+    "title": "Jangan Sia-siakan Umur Mu | Ustadz Khalid Basalamah Lc, MA",
+    "description": "Jangan Sia-siakan Umur Mu | Ceramah Ustadz Khalid Basalamah Lc, MA Terbaru Terkini Hari Ini 2019 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uIlPf-Qb22s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uIlPf-Qb22s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uIlPf-Qb22s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Sunnah TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QqF9_aW6QLoMLqpstWTEHzyRNZ8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DwUCrtcrje8"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-21T09:58:28.000Z",
+    "channelId": "UCWi9SVGha2J_ENTQT0N9H9Q",
+    "title": "Banyak Yang Salah Paham, Inilah Kisah Nabi Adam AS Yang Sebenarnya | Ustadz Khalid Basalamah Lc, MA",
+    "description": "Banyak Yang Salah Paham, Inilah Kisah Nabi Adam AS Yang Sebenarnya | Ustadz Khalid Basalamah Lc, MA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DwUCrtcrje8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DwUCrtcrje8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DwUCrtcrje8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Sunnah TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6_5jgVuPmJzVOuqVqeMbod7msYM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ftwNjnmFTY8"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-08T09:30:00.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "1000 Amalan Sunnah - Sunnah-Sunnah ketika Makan",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ftwNjnmFTY8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ftwNjnmFTY8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ftwNjnmFTY8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khalid Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bLxUrsZL4jrLQzoRZKtPfc6mGso\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "I8tGd4Pfg-o"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-09T17:31:58.000Z",
+    "channelId": "UCl4Fb6hpJSLYuXfwpRGIdFg",
+    "title": "Ceramah Paling Lucu Ustadz Khalid Basalamah |Mengenal &amp; Memahami Karakter Pasangan",
+    "description": "Ceramah Paling Lucu Ustadz Khalid Basalamah | Mengenal & Memahami Karakter Pasangan ---------------------------------------------------------------------- Salah satu ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I8tGd4Pfg-o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I8tGd4Pfg-o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I8tGd4Pfg-o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Muslim Channel Indonesia",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JrHxEEmkSeLYYpz8IC-lVzQH4ME\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BrbGm1UNPJ8"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-27T21:56:57.000Z",
+    "channelId": "UC5I6gYDjuum2vRClTjQTm_Q",
+    "title": "5 TARGET DI BULAN RAMADHAN - USTADZ DR KHALID BASALAMAH MA",
+    "description": "5 TARGET DI BULAN RAMADHAN - USTADZ DR KHALID BASALAMAH MA Terima Kasih Sudah Menonton Akhi dan Ukhti SHARE, LIKE, COMMENT, AND ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BrbGm1UNPJ8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BrbGm1UNPJ8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BrbGm1UNPJ8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ARROYA Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2MEqIY5iOgc5fOKw25BJzJ6zNVo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vfmCkebcm24"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T09:30:01.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "Dosa Besar 120: Berbisik Empat Mata dan Membiarkan Kawan yang Ketiga",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vfmCkebcm24/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vfmCkebcm24/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vfmCkebcm24/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khalid Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zUhIJKkxba0d3zH2QYy0-detAPM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RmgdKnBW7bM"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-14T21:00:26.000Z",
+    "channelId": "UCOb8fpV0OUdYjWvO9xrbdsg",
+    "title": "Merasa diganggu Jin, Dengarkan ini - Ust. Khalid Basalamah MA",
+    "description": "Semua Video di Channel Jiwa Muda Telah dapat Klaim Hak Cipta dari PT. DIGITAL RANTAI MAYA (ENTERTAINMENT). Yang artinya Semua Uang dari ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RmgdKnBW7bM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RmgdKnBW7bM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RmgdKnBW7bM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jiwa Muda",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7_ilNSQuq6h9dwRCpzwLRvODIJk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mRWioEoxDVM"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-12T02:15:21.000Z",
+    "channelId": "UCWi9SVGha2J_ENTQT0N9H9Q",
+    "title": "Inilah Tanda Dia Adalah Jodoh Kita.! Ustadz Khalid Basalamah Lc, MA",
+    "description": "Inilah Tanda Dia Adalah Jodoh Kita.! Ustadz Khalid Basalamah Lc, MA ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ MENYEBAR ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mRWioEoxDVM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mRWioEoxDVM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mRWioEoxDVM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Sunnah TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/k65i4OvXGLDRzuW3YL2HV8Zu_nE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sbrZOxBhLUk"
+   },
+   "snippet": {
+    "publishedAt": "2018-06-29T22:53:24.000Z",
+    "channelId": "UCNBvkN-4aiyktjuxtzPIg5w",
+    "title": "PERINGATAN MELALUI MIMPI MIMPI - Ustadz Khalid Basalamah",
+    "description": "PERINGATAN MELALUI MIMPI MIMPI - Ustadz Khalid Basalamah Subscribe Wadah Muslim Channel Penyebar Ilmu Pengetahuan Islam https://goo.gl/TTL9BV ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sbrZOxBhLUk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sbrZOxBhLUk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sbrZOxBhLUk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "wadah muslim",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aS79ltQHB_dDwW63GU7A8QOpE-4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "69T-TjWp8Qw"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-11T11:36:26.000Z",
+    "channelId": "UCNmbkhJ2E5OvuSr0JgxryyQ",
+    "title": "Buka Lembaran Baru Agar Nasibmu Berubah (Ust Khalid Basalamah)",
+    "description": "IKHWAN-AKHWAT Silakan SUBSCRIBE: Channel \"TANYA JAWAB\" Untuk Mendengarkan Kajian/Ceramah Seputar Tanya Jawab di: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/69T-TjWp8Qw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/69T-TjWp8Qw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/69T-TjWp8Qw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ONTA",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6_GUayK16rcOIS_ASlV95UU02aQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_VQ-CMzTCsA"
+   },
+   "snippet": {
+    "publishedAt": "2016-01-01T22:15:13.000Z",
+    "channelId": "UCHDSDQfeGL5yepLg3niOhDA",
+    "title": "Saudaraku Inilah Rahasia Rezekimu -  Ustadz DR Khalid Basalamah MA",
+    "description": "Saudaraku Inilah Rahasia Rezekimu - Ustadz DR Khalid Basalamah Saudaraku seiman.. Banyak diantara kita menganggap rezeki hanya sebatas Uang, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_VQ-CMzTCsA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_VQ-CMzTCsA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_VQ-CMzTCsA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ammar TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/E6gW7YRVxw4dt8y_FAeh9ypq_F0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "puui3CQSRmg"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-27T14:50:38.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "Kiat-Kiat Menghidupkan Bulan Ramadhan - Ustadz Khalid Basalamah",
+    "description": "Pada kajian kali ini, Ustadz Khalid akan membahas Kitab \"Kiat-Kiat Menghidupkan Bulan Ramadhan\" yang di tulis oleh Syaikh Abdullah ash-Shalih dan Syaikh ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/puui3CQSRmg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/puui3CQSRmg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/puui3CQSRmg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khalid Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/W3kYbcrUnv0afVP6QyphNgjfABs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "H0St7mqUrBc"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-14T07:43:52.000Z",
+    "channelId": "UCD2OdkHPO_t0MZEbmb3cioQ",
+    "title": "Kisah Langka Akhir Zaman Pengejaran Dajjal - Ustadz Khalid Basalamah",
+    "description": "Follow Kajian Ustadz Khalid Basalamah untuk mendapatkan ceramah-ceramah tentang kisah para nabi, kisah para rasul, kisah sahabat nabi, kisah sahabat ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H0St7mqUrBc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H0St7mqUrBc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H0St7mqUrBc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "HidayahIndonesia",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZCt4T8w5VhKZn8MdI7bPkItz4qk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "B9oKQv7JJw4"
+   },
+   "snippet": {
+    "publishedAt": "2018-04-20T14:49:32.000Z",
+    "channelId": "UCNBvkN-4aiyktjuxtzPIg5w",
+    "title": "TAUBAT MEMBERSIHKAN MASA LALU - Ustadz Khalid Basalamah",
+    "description": "TAUBAT MEMBERSIHKAN MASA LALU - Ustadz Khalid Basalamah Subscribe Wadah Muslim Channel Penyebar Ilmu Pengetahuan Islam ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B9oKQv7JJw4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B9oKQv7JJw4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B9oKQv7JJw4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "wadah muslim",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xiTxsJzPgo7ucS951EeBfvjq2YA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8YdBy6G85Uw"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T06:47:37.000Z",
+    "channelId": "UCpZg8KVVzN-9mhfa0TqHkPQ",
+    "title": "BAGAIMANA BISA..?? Shalat Malamnya (TARAWIH , WITIR) Para Sahabat | Ustadz Khalid Basalamah",
+    "description": "Bismillahirrahmanirrahim ----------------------------------------- BAGAIMANA BISA..??? Shalat Malamnya Para Sahabat RASULULLAH | Ustadz Khalid Basalamah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8YdBy6G85Uw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8YdBy6G85Uw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8YdBy6G85Uw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Segimoe",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ey3vUfdlL-oJF5PECtLmH8ZXiG4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TGsSDQ-A_NU"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-14T21:17:00.000Z",
+    "channelId": "UCPRaiX9XPfzTjJiIW9yYzjA",
+    "title": "MENGHITUNG MUNDUR HARI AKHIR - UST. KHALID BASALAMAH, Lc., M.A.",
+    "description": "UST. KHALID BASALAMAH, Lc., M.A. KAJIAN MUSAWARAH Minggu, 13 Januari 2019 instagram : https://www.instagram.com/kajianmusawarah/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TGsSDQ-A_NU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TGsSDQ-A_NU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TGsSDQ-A_NU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kajian Musawarah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Q8mO_Jt94Zx_lpMP_nREKHEs5TU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HvbYVcTgwiI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-09T08:25:44.000Z",
+    "channelId": "UC3_QdDQnRVRDJzq56JTO_Zw",
+    "title": "[ QATAR ] Inilah Potret Keluarga Salaf  - Ustadz DR Syafiq Riza Basalamah MA",
+    "description": "[ QATAR ] Inilah Potret Keluarga Salaf - Ustadz DR Syafiq Riza Basalamah MA. Silahkan bergabung dan mendapatkan tulisan, audio, video serta jadwal kajian ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HvbYVcTgwiI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HvbYVcTgwiI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HvbYVcTgwiI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Syafiq Riza Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Aif67ezkSx61Xnyq-Lezsl5becw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UeHWuJ7h9cg"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-04T14:57:30.000Z",
+    "channelId": "UC_faMMDjzjicxuZWjJVbkFg",
+    "title": "Sebelas ( 11 ) Perkara Yang Membatalkan Puasa | Ust : Dr. Khalid Basalamah, M.A",
+    "description": "Setiap muslim,pasti tidak asing lagi ketika mendengar kalimat puasa,apa lagi ketika ramadhan tiba.akan tetapi,bagi setiap muslim yang beriman,hendaknya ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UeHWuJ7h9cg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UeHWuJ7h9cg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UeHWuJ7h9cg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ruang Muhasabah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/P60p_uH7hOhv5z4lXWjY_0bGku8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0O_hmQl1n8k"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-26T02:35:53.000Z",
+    "channelId": "UCHDSDQfeGL5yepLg3niOhDA",
+    "title": "Jembatan Sirotol Mustaqim - Ustadz DR  Khalid Basalamah, MA",
+    "description": "Video Terbaru Ammar TV Jembatan Sirotol Mustaqim - Ustadz DR Khalid Basalamah, MA Video on Youtube https://youtu.be/0O_hmQl1n8k Soundcloud ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0O_hmQl1n8k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0O_hmQl1n8k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0O_hmQl1n8k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ammar TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3yLGvU16eqRZd30btRPcL4gBK08\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3TClr3k9Xdc"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-08T02:30:02.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "Beginilah Seharusnya Mendidik Anak - Hak-Hak Anak Pasca Kelahiran",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3TClr3k9Xdc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3TClr3k9Xdc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3TClr3k9Xdc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khalid Basalamah Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lmGQ5mglzM5YgpFzpXt9pAGv2yE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tw8M_B9i3dE"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-02T05:40:23.000Z",
+    "channelId": "UCD2OdkHPO_t0MZEbmb3cioQ",
+    "title": "Kisah Orang-Orang Yang Bersabar- Ustadz Khalid Basalamah",
+    "description": "Follow Kajian Ustadz Khalid Basalamah untuk mendapatkan ceramah-ceramah tentang kisah para nabi, kisah para rasul, kisah sahabat nabi, kisah sahabat ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tw8M_B9i3dE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tw8M_B9i3dE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tw8M_B9i3dE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "HidayahIndonesia",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rPTNjcdcpIjDBy5mdMjKOeav6ws\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wW8QQt8ZyZk"
+   },
+   "snippet": {
+    "publishedAt": "2016-02-22T05:10:54.000Z",
+    "channelId": "UCHDSDQfeGL5yepLg3niOhDA",
+    "title": "Investasi Dunia Akhirat - Ustadz DR Khalid Basalamah MA",
     "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/xCsJn8Jyc7A/default.jpg",
+      "url": "https://i.ytimg.com/vi/wW8QQt8ZyZk/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/xCsJn8Jyc7A/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/wW8QQt8ZyZk/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/xCsJn8Jyc7A/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/wW8QQt8ZyZk/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Ammar TV",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HqtnMRjqgZ8epbHOPefHqjhH2G8\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/UP_4D4X7HW30rO2HbrsVWOqQ9z0\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "KLs_q2Zjkfg"
+    "videoId": "b5qAema0GFs"
    },
    "snippet": {
-    "publishedAt": "2018-07-29T15:49:00.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "CARA MENSUCIKAN HATI DARI PENYAKIT HATI - Ust. Abdul Somad. Lc., MA",
-    "description": "Selamat datang di Channel youtube TAMANSURGA.NET, Saluran ini berisikan ceramah agama dari ustadz Abdul Somad, Lc. MA Mari kita Mempererat ...",
+    "publishedAt": "2017-03-28T06:00:06.000Z",
+    "channelId": "UCgCksPJCnRz4JCAgYKs32kA",
+    "title": "Kisah luar biasa Umar bin Khatab radhiyallahu anhu, Ustadz DR Khalid Basalamah, MA",
+    "description": "Kisah Sahabat Rasulullah yang luar biasa pada masa kenabian dan masa kepemimpinan beliau, oleh Ustadz DR Khalid Basalamah, MA Subscribe!! view ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/KLs_q2Zjkfg/default.jpg",
+      "url": "https://i.ytimg.com/vi/b5qAema0GFs/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/KLs_q2Zjkfg/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/b5qAema0GFs/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/KLs_q2Zjkfg/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/b5qAema0GFs/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Lentera Islam",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/87dzcYIRJhZC4COsnLZbxwMlqqs\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/K5eGG9yR1P4GE3fztMTpCkjXSWc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "DzeA-4N3jm4"
+    "videoId": "FxOsdjRz8As"
    },
    "snippet": {
-    "publishedAt": "2018-11-21T15:27:20.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "Kenapa Perempuan Yang Paling Banyak Masuk Neraka.? - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
+    "publishedAt": "2018-12-28T11:52:05.000Z",
+    "channelId": "UCWi9SVGha2J_ENTQT0N9H9Q",
+    "title": "JANGAN SEPELEKAN INI ! Siksaannya Berat Melebihi KAFIR.! Ustadz Khalid Basalamah Lc, MA",
+    "description": "JANGAN SEPELEKAN INI ! Siksaannya Berat Melebihi KAFIR.! Ustadz Khalid Basalamah Lc, MA ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/DzeA-4N3jm4/default.jpg",
+      "url": "https://i.ytimg.com/vi/FxOsdjRz8As/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/DzeA-4N3jm4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/FxOsdjRz8As/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/DzeA-4N3jm4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/FxOsdjRz8As/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Kajian Sunnah TV",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5oM1AK_tMFWv9vJuy2aliKnAVl4\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3bm6zEwyxgVvgkugv-Wqv5MVTHg\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "YK2AHZHfvsw"
+    "videoId": "chHpCP7bF2c"
    },
    "snippet": {
-    "publishedAt": "2018-10-29T13:38:28.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "HATI - HATI SHOLATMU TIDAK SAH - Ust. Abdul Somad. Lc., MA",
-    "description": "TAMANSURGA. NET media dakwah yang berisikan ceramah-ceramah agama dari tua guru ustadz Abdul Somad, Lc. MA Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ ...",
+    "publishedAt": "2019-01-16T00:35:11.000Z",
+    "channelId": "UCD2OdkHPO_t0MZEbmb3cioQ",
+    "title": "[CERAMAH LUCU] 10 Pertanyaan Lucu Di Ceramah Ustadz Khalid Basalamah PART 1",
+    "description": "Follow Kajian Ustadz Khalid Basalamah MA Instagram : https://www.instagram.com/kajiankhalidbasalamah Facebook ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/YK2AHZHfvsw/default.jpg",
+      "url": "https://i.ytimg.com/vi/chHpCP7bF2c/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/YK2AHZHfvsw/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/chHpCP7bF2c/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/YK2AHZHfvsw/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/chHpCP7bF2c/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "HidayahIndonesia",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LqiGeZMWAVBM4hvIuX5qz-bOs_A\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/P3HJqlQUS0JT8A9QCwCUjGdfu94\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "-Cw9E8VpZ6M"
+    "videoId": "E-JRDNtsM1k"
    },
    "snippet": {
-    "publishedAt": "2018-12-13T13:45:28.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "NABI ADAM DAN MANUSIA PURBA, SIAPA YANG LEBIH DULU DICIPTAKAN.? - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
+    "publishedAt": "2017-01-10T10:47:23.000Z",
+    "channelId": "UCgCksPJCnRz4JCAgYKs32kA",
+    "title": "Kisah Nabi Musa dan Raja Firaun, Ustadz DR Khalid Basalamah, MA",
+    "description": "Kisah tentang Nabi Musa As terhadap dakwahnya pada raja Fir'aun yang pada akhirnya ditenggelamkan di laut merah, oleh Ustadz DR Khalid Basalamah, MA ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/-Cw9E8VpZ6M/default.jpg",
+      "url": "https://i.ytimg.com/vi/E-JRDNtsM1k/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/-Cw9E8VpZ6M/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/E-JRDNtsM1k/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/-Cw9E8VpZ6M/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/E-JRDNtsM1k/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Lentera Islam",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4yuNNs5ciFgUHr4_-Jt6O-tjPqk\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/t-n06UlSzTVVTH9W9hdU8Uk_CZU\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "b1JBrkJecOo"
+    "videoId": "qoXXJr67r4o"
    },
    "snippet": {
-    "publishedAt": "2018-10-21T03:47:15.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "KETENANGAN HIDUP HATI DAN JIWA YANG SESUNGGUHNYA - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
+    "publishedAt": "2016-12-05T16:57:03.000Z",
+    "channelId": "UCY7AxLIQaD7IEZ8ZNpUJqjw",
+    "title": "Tabligh Akbar : Kenali Tuhanmu, Engkau akan Bahagia - Ustadz Dr. Khalid Basalamah, MA",
+    "description": "KENALI TUHAMU, ENGKAU AKAN BAHAGIA Simak Rekaman Tabligh Akbar bersama Ustadz Dr. Khalid Basalamah, MA di Masjid Raya Mujahidin Pontianak ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/b1JBrkJecOo/default.jpg",
+      "url": "https://i.ytimg.com/vi/qoXXJr67r4o/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/b1JBrkJecOo/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/qoXXJr67r4o/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/b1JBrkJecOo/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/qoXXJr67r4o/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Pontianak Mengaji",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WA-Vj9-uDVWtbBkKAH_S3DOrFyA\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/F_VsUX4pk8y2Nd2DPczFeHDIiRk\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "dhZbpaVg4fE"
+    "videoId": "w6LCQJ3klVg"
    },
    "snippet": {
-    "publishedAt": "2018-08-31T23:55:45.000Z",
-    "channelId": "UCoQVSKii3KavYQE2h_Ef2Hw",
-    "title": "SIAPA ISTRI USTADZ ABDUL SOMAD, LC. M.a ?",
-    "description": "Assalamualaiku warahmatullah wabarakatuh, dakwah ustadz Abdul Somad, Lc. MA dapat dijumpai juga di Sosial Media : Facebook ...",
+    "publishedAt": "2017-12-10T12:13:46.000Z",
+    "channelId": "UCgCksPJCnRz4JCAgYKs32kA",
+    "title": "Sejarah Kelahiran Nabi Muhammad ﷺ, Ustadz DR Khalid Basalamah, MA",
+    "description": "Sejarah kelahiran mulai dari Silsilah Quraisy sampai lahirnya Rasulullah, oleh Ustadz DR Khalid Basalamah, MA Subscribe!! view lentera islam on: Instagram ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/dhZbpaVg4fE/default.jpg",
+      "url": "https://i.ytimg.com/vi/w6LCQJ3klVg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/dhZbpaVg4fE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/w6LCQJ3klVg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/dhZbpaVg4fE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/w6LCQJ3klVg/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Berita Terkini",
+    "channelTitle": "Lentera Islam",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CA-A6EZ80x2Ln3BsfB6WOo6V5XQ\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KFfQCya4Y9jnqC6p5fyPyF-YhTI\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "Hg6WCQ_zQ5g"
+    "videoId": "ghJE2QGtc1g"
    },
    "snippet": {
-    "publishedAt": "2018-11-27T14:31:32.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "KEHEBATAN AL-QURAN YANG HARUS KITA KETAHUI - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
+    "publishedAt": "2019-01-13T01:20:15.000Z",
+    "channelId": "UCD2OdkHPO_t0MZEbmb3cioQ",
+    "title": "Onani Yang Dibolehkan Dan Cara Berhubungan Biologis Saat Haid - Ceramah Ustadz Khalid Basalamah",
+    "description": "Follow Kajian Ustadz Khalid Basalamah MA Instagram : https://www.instagram.com/kajiankhalidbasalamah Facebook ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/Hg6WCQ_zQ5g/default.jpg",
+      "url": "https://i.ytimg.com/vi/ghJE2QGtc1g/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/Hg6WCQ_zQ5g/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ghJE2QGtc1g/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/Hg6WCQ_zQ5g/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ghJE2QGtc1g/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "HidayahIndonesia",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IONQAbrB2NPA3XvdSGt7El0ah4A\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HHV6zmMEtB6rgarNqoKnFae6iWk\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "DfT97bJBOGc"
+    "videoId": "F62LHhdNxPY"
    },
    "snippet": {
-    "publishedAt": "2018-11-20T18:41:58.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "Syahrini Bertanya Tentang Hijab Kepada Ustadz Abdul Somad, Lc. MA",
-    "description": "Bagian 1-nya ada disini: https://youtu.be/09LwI157rME Syahrini Bertanya Tentang Hijab Kepada Ustadz Abdul Somad, Lc. MA Dipersembahkan untuk ummat ...",
+    "publishedAt": "2019-01-15T08:00:59.000Z",
+    "channelId": "UCcCvaNqqmcGptFL5CI02e8A",
+    "title": "Kunci Mengetahui Jodohmu Ternyata Ada di Do&#39;a (Ustadz Khalid Basalamah)",
+    "description": "Kunci Mengetahui Jodohmu Ternyata Ada di Do'a (Ustadz Khalid Basalamah) #Sabrina #Ustadz_Khalid_Basalamah.",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/DfT97bJBOGc/default.jpg",
+      "url": "https://i.ytimg.com/vi/F62LHhdNxPY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/DfT97bJBOGc/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/F62LHhdNxPY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/DfT97bJBOGc/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/F62LHhdNxPY/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Tafaqquh video",
+    "channelTitle": "Sabrina",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3w_XkE-gyCzvCDKBFDCQi0_WFfo\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/H7iXsDB0BsCSQp04lmhxyQ5Ws-E\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "33t6bsOVtIk"
+    "videoId": "9CFWRUUfpeU"
    },
    "snippet": {
-    "publishedAt": "2019-05-08T13:58:49.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "IBADAH PALING UTAMA DI BULAN SUCI RAMADHAN - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
+    "publishedAt": "2019-05-08T01:18:09.000Z",
+    "channelId": "UCQuGl51k-nt0BvAWtdYtVXA",
+    "title": "TUJUAN UTAMA PUASA RAMADHAN - Ustadz Khalid Basalamah",
+    "description": "KHB #Ramadhan #Puasa Jazakallahu khairan kepada Khalid Basalamah Official https://www.youtube.com/khalidbasalamah FULL KAJIAN ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/33t6bsOVtIk/default.jpg",
+      "url": "https://i.ytimg.com/vi/9CFWRUUfpeU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/33t6bsOVtIk/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/9CFWRUUfpeU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/33t6bsOVtIk/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/9CFWRUUfpeU/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Islam Terkini",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XXMGjAP7WxQuMO0JyQVpkH00l90\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Zj6PsfaHnNeOIbT56fhsAcNepnU\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "jsb1OFevxdM"
+    "videoId": "f9TLUMzqQCQ"
    },
    "snippet": {
-    "publishedAt": "2019-03-21T23:57:43.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "USTADZ ABDUL SOMAD MENANGIS MENGENANG SOSOK IBUNDA | Ceramah Perdana Setelah Ibunda Wafat",
-    "description": "USTADZ ABDUL SOMAD MENANGIS MENGENANG SOSOK IBUNDA | Ceramah perdana setelah Ibunda wafat saat takziyah malam ke 3 di kampung halaman ...",
+    "publishedAt": "2018-02-04T22:24:03.000Z",
+    "channelId": "UCNBvkN-4aiyktjuxtzPIg5w",
+    "title": "kisah strategy perang uhud - Ustadz Khalid Basalamah",
+    "description": "kisah strategy perang uhud - Ustadz Khalid Basalamah Subscribe Wadah Muslim Channel Penyebar Ilmu Pengetahuan Islam https://goo.gl/TTL9BV ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/jsb1OFevxdM/default.jpg",
+      "url": "https://i.ytimg.com/vi/f9TLUMzqQCQ/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/jsb1OFevxdM/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/f9TLUMzqQCQ/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/jsb1OFevxdM/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/f9TLUMzqQCQ/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Tafaqquh video",
+    "channelTitle": "wadah muslim",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/62cccL_9bRLX_1VGe8kg7AqEPhs\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j8w4vuwu6D2NBSIf0WmIsEqosIQ\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "Yh-QjNOCPOE"
+    "videoId": "vK-BGV7P8kY"
    },
    "snippet": {
-    "publishedAt": "2019-02-04T14:54:11.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "SIAPA YANG BAYAR GAJIMU.? JANGAN SOMBONG.! - Ust. Abdul Somad. Lc., MA",
-    "description": "Mari kita Mempererat Ukhuwah Islamiyah, Menjadi Ummat Terbaik dengan Saling Menasehati. Silahkan Share Video ini Kepada Sahabat, Keluarga dan Orang ...",
+    "publishedAt": "2018-11-27T11:00:07.000Z",
+    "channelId": "UCOb8fpV0OUdYjWvO9xrbdsg",
+    "title": "Larangan memberi nama malaikat - Ust. Khalid Basalamah MA",
+    "description": "Semua Video di Channel Jiwa Muda Telah dapat Klaim Hak Cipta dari PT. DIGITAL RANTAI MAYA (ENTERTAINMENT). Yang artinya Semua Uang dari ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/Yh-QjNOCPOE/default.jpg",
+      "url": "https://i.ytimg.com/vi/vK-BGV7P8kY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/Yh-QjNOCPOE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/vK-BGV7P8kY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/Yh-QjNOCPOE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/vK-BGV7P8kY/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Jiwa Muda",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DkwB2HCDhPm3k3M-fSoMeqTOZpM\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OoNUWn6wJhi_Dgd9eoZkCOk8nAo\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "uQpgiOgKPUs"
+    "videoId": "C6d7CItMT6Y"
    },
    "snippet": {
-    "publishedAt": "2019-01-18T04:08:10.000Z",
-    "channelId": "UCS5XFtaBd4_Pn-ZIkA_-6wA",
-    "title": "Hukum Cowok Berambut gondrong~Ust.Abdul Somad,Lc.MA",
-    "description": "Tidak sedikit kita melihat cowok yang berambut gondrong, bagiman hukumnya, simak penjelasan ust.Abdul Somad,Lc.MA tenang Lelaki yang memanjangkan ...",
+    "publishedAt": "2019-02-12T11:09:51.000Z",
+    "channelId": "UCNmbkhJ2E5OvuSr0JgxryyQ",
+    "title": "Jangan Pernah Bersedih Karena Dunia Hanya Sementara (Ust Khalid Basalamah)",
+    "description": "Jangan Pernah Bersedih Karena Dunia Hanya Sementara dan Akan Kita Lalui (Ust Khalid Basalamah) #Khalid_Basalamah jangan lupa akhi akhwat subscribe: ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/uQpgiOgKPUs/default.jpg",
+      "url": "https://i.ytimg.com/vi/C6d7CItMT6Y/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/uQpgiOgKPUs/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/C6d7CItMT6Y/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/uQpgiOgKPUs/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/C6d7CItMT6Y/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "YukNgaji.NET",
+    "channelTitle": "ONTA",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CUn4uNem9adbqiwM_WPni16GXEc\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/169Y0OQ5ddmldfySr1YGDwn8WWI\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "fyt6HrIw-S0"
+    "videoId": "aF__eVbxTPA"
    },
    "snippet": {
-    "publishedAt": "2019-05-06T08:21:10.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "Hari Pertama Bulan Suci Ramadhan - Ust. Abdul Somad. Lc., MA",
-    "description": "Siaran Ulang Sumber : Generasi Guroba.",
+    "publishedAt": "2018-03-14T06:14:37.000Z",
+    "channelId": "UCl4Fb6hpJSLYuXfwpRGIdFg",
+    "title": "Salah Satu Kisah Terbaik Umar Bin Khattab RA | Ustadz Khalid Basalamah",
+    "description": "Salah Satu Kisah Terbaik Umar Bin Khattab RA diceritakan dengan sangat baik dan menarik oleh Ustadz Khalid Basalamah Semoga Bermanfaat, Jangan lupa ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/fyt6HrIw-S0/default.jpg",
+      "url": "https://i.ytimg.com/vi/aF__eVbxTPA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/fyt6HrIw-S0/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/aF__eVbxTPA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/fyt6HrIw-S0/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/aF__eVbxTPA/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Muslim Channel Indonesia",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BAMNqhLcPx44VTk-Oj5nVT_oqbw\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dgOsW1_pjcyQij8XDUNw0ClArX0\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "Zv_PG5LiooA"
+    "videoId": "ZnDsdaVOK4Q"
    },
    "snippet": {
-    "publishedAt": "2019-05-11T20:58:13.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "INDAHNYA RAMADHAN BERSAMA UAS Eps. #7 tvOne | Ustadz Abdul Somad, Lc. MA | Tadabbur Surah Ar-Ruum 21",
-    "description": "INDAHNYA RAMADHAN BERSAMA UAS Eps.#7 | Ustadz Abdul Somad, Lc., MA - Tadabbur Surah Ar Ruum 21 Dipersembahkan untuk ummat oleh Tafaqquh ...",
+    "publishedAt": "2017-01-20T13:30:01.000Z",
+    "channelId": "UCgCksPJCnRz4JCAgYKs32kA",
+    "title": "Inilah bentuk kebangkitan di padang mahsyar, Ustadz DR Khalid Basalamah, MA",
+    "description": "Penjelasan mengenai macam macam bentuk umat manusia pada hari kebangkitan di padang mahsyar, oleh Ustadz DR Khalid Basalamah, MA Subscribe!!",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/Zv_PG5LiooA/default.jpg",
+      "url": "https://i.ytimg.com/vi/ZnDsdaVOK4Q/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/Zv_PG5LiooA/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ZnDsdaVOK4Q/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/Zv_PG5LiooA/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ZnDsdaVOK4Q/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Tafaqquh video",
+    "channelTitle": "Lentera Islam",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BzTu5MQjC0y1Y3VwppefI3qV5rM\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/y-m4nzqXXZ1GjqkSPbow9myVhtc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "g7pdRxMouSA"
+    "videoId": "Cdf79beUTdg"
    },
    "snippet": {
-    "publishedAt": "2019-03-22T12:05:38.000Z",
-    "channelId": "UCS5XFtaBd4_Pn-ZIkA_-6wA",
-    "title": "Renungkan!!!Tujuan Hidap Manusia|Ust.Abdul Somad,Lc.MA",
-    "description": "Ceramah Islam Bersama Ustadz Abdul Somad,Lc.MA makna dan tujuan hidup manusia, untuk apa manusia hidup?",
+    "publishedAt": "2017-10-16T01:33:46.000Z",
+    "channelId": "UCgCksPJCnRz4JCAgYKs32kA",
+    "title": "Kisah pemuda yang bertemu dengan bidadari, Ustadz DR Khalid Basalamah, MA",
+    "description": "Kisah mengharukan seorang pemuda pada zaman Tabi'in yang pergi berjihad dan bertemu bidadari, oleh Ustadz DR Khalid Basalamah, MA Subscribe!! view ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/g7pdRxMouSA/default.jpg",
+      "url": "https://i.ytimg.com/vi/Cdf79beUTdg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/g7pdRxMouSA/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Cdf79beUTdg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/g7pdRxMouSA/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Cdf79beUTdg/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "YukNgaji.NET",
+    "channelTitle": "Lentera Islam",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HwNyc8EXLaWlzpEw5TykEokADd0\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CYow41Yc-QQjtHDvlqIrfthqUzA\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "0-Xwg0A3qr4"
+    "videoId": "4S9FgLzbb78"
    },
    "snippet": {
-    "publishedAt": "2019-04-03T22:00:00.000Z",
-    "channelId": "UC9_GyaJCZ3dsZOLjGLGBpMw",
-    "title": "Ceramah Ustadz Abdul Somad Lc, MA (UAS) - Keutamaan Bulan Sya&#39;ban",
-    "description": "Ceramah Ustadz Abdul Somad Lc MA (UAS), Bada Isya, di Masjid As-Syakirin, Pekanbaru. Membahas Tentang \"KEUTAMAAN BULAN SYA'BAN\" ...",
+    "publishedAt": "2016-06-07T04:14:25.000Z",
+    "channelId": "UCHDSDQfeGL5yepLg3niOhDA",
+    "title": "20 Kiat Mempertahankan Rumah Tangga - Ustadz DR Khalid Basalamah MA",
+    "description": "Bagaimana kiat kiat mempertahankan Rumah Tangga..? Rumah tangga dalam islam adalah ajang ''Pahala''.. yang paling besar, sebagian ulama mengatakan ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/0-Xwg0A3qr4/default.jpg",
+      "url": "https://i.ytimg.com/vi/4S9FgLzbb78/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/0-Xwg0A3qr4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/4S9FgLzbb78/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/0-Xwg0A3qr4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/4S9FgLzbb78/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "FSRMM TV",
+    "channelTitle": "Ammar TV",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lhY32qqX00wvGslWdW2wJdGKmyA\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gd3S1Ur2cvKwx2k4St9SOA3OPTs\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "5Md8qo_kTCE"
+    "videoId": "vdRc0CvG1_g"
    },
    "snippet": {
-    "publishedAt": "2019-01-22T01:42:21.000Z",
-    "channelId": "UCS5XFtaBd4_Pn-ZIkA_-6wA",
-    "title": "Istri Ingin Sholat Berjamaah dengan Suami Tapi..~Ust.Abdul Somad,Lc.MA",
-    "description": "Tanya Jawab Islam Bersama Ust.Abdul Somad,Lc.MA #pecintaUAS #ustadzabdulsomad #yukngaji.",
+    "publishedAt": "2017-04-04T09:45:26.000Z",
+    "channelId": "UCgCksPJCnRz4JCAgYKs32kA",
+    "title": "Saat saat kiamat dan kemunculan Dajjal, Ustadz DR Khalid Basalamah, MA",
+    "description": "Saat terjadinya hari pembalasan dan keadaan ketika Dajjal keluar di bumi, oleh Ustadz DR Khalid Basalamah, MA Subscribe!! view lentera islam on: Instagram ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/5Md8qo_kTCE/default.jpg",
+      "url": "https://i.ytimg.com/vi/vdRc0CvG1_g/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/5Md8qo_kTCE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/vdRc0CvG1_g/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/5Md8qo_kTCE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/vdRc0CvG1_g/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "YukNgaji.NET",
+    "channelTitle": "Lentera Islam",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/THdyvyTz88aNh3Nb6YiKr9u_LIQ\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lvwk8AqPnlNzPKbEkN9_oMr2mW4\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "VNoETGEqCoM"
+    "videoId": "DbgWcKeO_sU"
    },
    "snippet": {
-    "publishedAt": "2019-01-09T01:16:51.000Z",
-    "channelId": "UCS5XFtaBd4_Pn-ZIkA_-6wA",
-    "title": "Super Lucu 3 Macam Mimpi~Ust Abdul Somad,Lc MA",
-    "description": "Ceramah Lucu adalah khas dari tuan guru Ust.Abdul Somad,Lc.MA, Beliau menjelaskan tetang mimpi, Beliau membaginya menjadi 3 macam mimpi, simak ...",
+    "publishedAt": "2019-05-09T16:58:08.000Z",
+    "channelId": "UCQuGl51k-nt0BvAWtdYtVXA",
+    "title": "PENYEBAB PUASA RAMADHAN SIA - SIA - Ustadz Khalid Basalamah",
+    "description": "KHB #Ramadhan #Puasa Jazakallahu khairan kepada Khalid Basalamah Official https://www.youtube.com/khalidbasalamah FULL KAJIAN ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/VNoETGEqCoM/default.jpg",
+      "url": "https://i.ytimg.com/vi/DbgWcKeO_sU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/VNoETGEqCoM/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/DbgWcKeO_sU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/VNoETGEqCoM/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/DbgWcKeO_sU/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "YukNgaji.NET",
+    "channelTitle": "Islam Terkini",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YHaETfpk0wB5y8b-l7ZNRT7YCJo\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JCeSxb_0wEhR7K5XyoofMbBCdJc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "l5Q8xVV02Cs"
+    "videoId": "AoxDaVvkEz4"
    },
    "snippet": {
-    "publishedAt": "2019-04-07T11:43:47.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "5 AMALAN DALAM MENYAMBUT BULAN SUCI RAMADHAN - Ust. Abdul Somad. Lc., MA",
-    "description": "Mari kita Mempererat Ukhuwah Islamiyah, Menjadi Ummat Terbaik dengan Saling Menasehati. Silahkan Share Video ini Kepada Sahabat, Keluarga dan Orang ...",
+    "publishedAt": "2017-05-15T18:45:02.000Z",
+    "channelId": "UCWi9SVGha2J_ENTQT0N9H9Q",
+    "title": "Amalan Harian di Bulan Ramadhan - Ustadz Khalid Basalamah 2018",
+    "description": "Dalam Ceramah Tausiah Dakwah Pengajian Terbarunya, Ustadz Khalid Basalamah Menjelaskan Tentang Amalan Atau Kiat-Kiat Menghidupkan Bulan Suci ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/l5Q8xVV02Cs/default.jpg",
+      "url": "https://i.ytimg.com/vi/AoxDaVvkEz4/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/l5Q8xVV02Cs/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/AoxDaVvkEz4/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/l5Q8xVV02Cs/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/AoxDaVvkEz4/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TAMAN SURGA. NET",
+    "channelTitle": "Kajian Sunnah TV",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fyGvziVpG-6lHSyhP6hoXnpHIW8\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/r03eWOzyinmHk7KwxtAUgG2Zki0\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "4HtYfX8Ehrw"
+    "videoId": "3z2zF77HK4A"
    },
    "snippet": {
-    "publishedAt": "2018-09-12T13:40:53.000Z",
-    "channelId": "UCOJceVURI1mzBz1DqD4Ql1g",
-    "title": "LUCU..!! 10 TANYA JAWAB USTADZ ABDUL SOMAD LC.MA.",
-    "description": "",
+    "publishedAt": "2019-05-10T09:30:00.000Z",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "title": "Dosa Besar 121: Mengecat Rambut dengan Warna Hitam",
+    "description": "Akun-akun resmi Ustadz Khalid Basalamah yang terbaru: Website: https://www.khbofficial.com Youtube Channel: https://www.youtube.com/khalidbasalamah ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/4HtYfX8Ehrw/default.jpg",
+      "url": "https://i.ytimg.com/vi/3z2zF77HK4A/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/4HtYfX8Ehrw/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/3z2zF77HK4A/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/4HtYfX8Ehrw/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/3z2zF77HK4A/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Keindahan Islam",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SguYiBvg-eTsCR6QqD_783XC5z4\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "1cIh30BcdG8"
-   },
-   "snippet": {
-    "publishedAt": "2019-01-03T06:00:00.000Z",
-    "channelId": "UC9_GyaJCZ3dsZOLjGLGBpMw",
-    "title": "Ceramah Terbaru Ustadz Abdul Somad Lc, MA - Masjid Al-Jihad , Jalan Lobak",
-    "description": "Ceramah Ustadz Abdul Somad Lc MA, Bada Isya (2 Januari 2019) di Masjid Al-Jihad, Jalan Lobak, Pekanbaru Riau dalam rangka \"Memperigati Maulid Nabi ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/1cIh30BcdG8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/1cIh30BcdG8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/1cIh30BcdG8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "FSRMM TV",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/30r8EcfYfP6BSX4d8IZfqYI7qFI\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "b9IqkkZBEmw"
-   },
-   "snippet": {
-    "publishedAt": "2018-12-03T04:28:50.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "5 CARA AGAR SHOLAT BISA KHUSYU&#39; - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/b9IqkkZBEmw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/b9IqkkZBEmw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/b9IqkkZBEmw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-eyKEZO0LatKoI5qmHphlE5chWw\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "iT13wowAatg"
-   },
-   "snippet": {
-    "publishedAt": "2018-12-31T06:58:44.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "UNTUKMU YANG MERAYAKAN MALAM TAHUN BARU 2019 - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/iT13wowAatg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/iT13wowAatg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/iT13wowAatg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oAyfj5UeymuPqyr_nhzMzsZoejQ\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "2_wYS-B9Ork"
-   },
-   "snippet": {
-    "publishedAt": "2019-01-24T01:24:13.000Z",
-    "channelId": "UCS5XFtaBd4_Pn-ZIkA_-6wA",
-    "title": "Sedekahlah dengan hal terbaik yang kau miliki~Ust.Abdul Somad,Lc.MA",
-    "description": "Mari bersedekah sebagai bekal di akhirat. Ceramah Islam Motivasi Sedekah oleh Ust.Abdul Somad,Lc.MA #pecintaUAS #ustadzabdulsomad #yukngaji.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/2_wYS-B9Ork/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/2_wYS-B9Ork/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/2_wYS-B9Ork/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "YukNgaji.NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FrEaXYbXI9s4_uTWRedC0zNLnGo\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "_1v6ilL5Tr0"
-   },
-   "snippet": {
-    "publishedAt": "2019-04-24T10:41:22.000Z",
-    "channelId": "UCd8yezdBtujEiPAhGj2725Q",
-    "title": "Filosofi Kopi Menurut Islam | Ust Abdul Somad Lc.MA",
-    "description": "NGOPI (Ngobrol Perkara Iman) bersama Ustadz Abdul Somad, Lc. MA di Station Coffee Premium, Kota Lhokseumawe, Aceh. Acara Sharing Session yang ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/_1v6ilL5Tr0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/_1v6ilL5Tr0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/_1v6ilL5Tr0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Catatan Dakwah",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7zdit96dOLJIkSRQpibGzgKnfKk\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "7ZalUVLW6mE"
-   },
-   "snippet": {
-    "publishedAt": "2019-04-20T15:52:23.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "TANDA-TANDA AKHIR ZAMAN, KIAMAT.! - Ust. Abdul Somad. Lc., MA",
-    "description": "ceramah 1 tahun yang lalu.... Link Sumber Video :",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/7ZalUVLW6mE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/7ZalUVLW6mE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/7ZalUVLW6mE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Jb9e1K0nGxfIRqYZ0M2U5AH7Gnw\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "Jsz8xRxjXUY"
-   },
-   "snippet": {
-    "publishedAt": "2019-05-07T15:44:43.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "JANGAN SOMBONG.!!!! - Ust. Abdul Somad. Lc., MA",
-    "description": "Siaran Ulang Sumber : Maher G.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Jsz8xRxjXUY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Jsz8xRxjXUY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Jsz8xRxjXUY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8c4VVQDLLw61iXz0L__azIYby04\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "S2pugyyT__I"
-   },
-   "snippet": {
-    "publishedAt": "2019-04-20T08:45:48.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "MENYAMBUT BULAN SUCI RAMADHAN - Ust. Abdul Somad. Lc., MA",
-    "description": "ceramah 1 tahun yang lalu.... Sumber Video : https://www.youtube.com/watch?v=-MpCgdi3fnk.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/S2pugyyT__I/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/S2pugyyT__I/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/S2pugyyT__I/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LT7CTKbhBs6bUqv02Y_h4u34-aY\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "OI8th890H84"
-   },
-   "snippet": {
-    "publishedAt": "2018-11-24T22:00:00.000Z",
-    "channelId": "UC9_GyaJCZ3dsZOLjGLGBpMw",
-    "title": "Ceramah Terbaru Ustadz Abdul Somad Lc, MA - Masjid Nurul Huda, Ronggo Warsito, Pekanbaru",
-    "description": "Ceramah Ustadz Abdul Somad Lc MA, Bada Shubuh (24 November 2018) di Masjid Nurul Huda, Ronggo Warsito, Pekanbaru, \"LAUNCHING LEMBAGA RIAU ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/OI8th890H84/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/OI8th890H84/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/OI8th890H84/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "FSRMM TV",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/d29QaEIYRB59vU8roO6-4DNjWmM\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "I04Y_DzXuDw"
-   },
-   "snippet": {
-    "publishedAt": "2019-05-10T05:57:01.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "KHUTBAH JUM&#39;AT DI KELANTAN - MALAYSIA | Ustadz Abdul Somad, Lc. MA | 15 Feb. 2019",
-    "description": "KHUTBAH JUM'AT DI KELANTAN | Ustadz Abdul Somad, Lc. MA | 15 Feb. 2019 Dipersembahkan untuk ummat oleh Tafaqquh Study Club, Pekanbaru - Riau.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/I04Y_DzXuDw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/I04Y_DzXuDw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/I04Y_DzXuDw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Tafaqquh video",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zVuODL4k_zkDlyRu-9JVJAj7_-4\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "ebqshQCfQrA"
-   },
-   "snippet": {
-    "publishedAt": "2019-01-23T23:23:27.000Z",
-    "channelId": "UCS5XFtaBd4_Pn-ZIkA_-6wA",
-    "title": "Lucu Fresh~Wanita Seperti Bunga~Ust Abdul Somad,Lc MA",
-    "description": "Ceramah Agama Bersama Ust.Abdul Somad,Lc.MA Wanita Ibarat Seperti Bunga, Berawal dari kuncu lalu mekar dan apada akhirnya akan lalau, demikian pula ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ebqshQCfQrA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ebqshQCfQrA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ebqshQCfQrA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "YukNgaji.NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sWnPKsY-cNFjYbU5pFdOuhu_2U0\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "PUV2hTR84PM"
-   },
-   "snippet": {
-    "publishedAt": "2018-11-23T15:03:59.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "PROSES KELUARNYA RUH DARI JASAD SAAT SAKARATUL MAUT - Ust. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/PUV2hTR84PM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/PUV2hTR84PM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/PUV2hTR84PM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wDL_YZWSwxN2P5cVgRg8vwSTyTw\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "T4Zu7_C3xCM"
-   },
-   "snippet": {
-    "publishedAt": "2018-07-22T01:21:10.000Z",
-    "channelId": "UC9_GyaJCZ3dsZOLjGLGBpMw",
-    "title": "Ceramah Lucu Ustadz Abdul Somad Lc, MA - Masjid Al-Muhajirin (Desa Laboi Jaya, Bangkinang)",
-    "description": "Ceramah Lucu Terbaru Ustadz Abdul Somad Lc, MA di Al-Muhajirin, Desa Laboi Jaya, Bangkinang PERHATIAN - Silahkan Share Video-video FSRMM TV ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/T4Zu7_C3xCM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/T4Zu7_C3xCM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/T4Zu7_C3xCM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "FSRMM TV",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qpOxLuNZTSqau0jic6Xp-Cq6zvk\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "lAChducbsTo"
-   },
-   "snippet": {
-    "publishedAt": "2019-04-13T15:10:34.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "FULL.!! Tanya Jawab Lucu dan Seru Bareng Ust. Abdul Somad. Lc., MA",
-    "description": "Sumber video : Humas Bontang.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/lAChducbsTo/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/lAChducbsTo/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/lAChducbsTo/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OPRCqlWVJMYOVG-e-IQrYIZozRU\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "7svdt-2_d9M"
-   },
-   "snippet": {
-    "publishedAt": "2019-05-10T13:58:44.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "AMALAN UNTUK MENDAPATKAN LAILATUL QODAR | Tanya Jawab Ust. Abdul Somad. Lc., MA",
-    "description": "AMALAN UNTUK MENDAPATKAN LAILATUL QODAR | Tanya Jawab Ust. Abdul Somad. Lc., MA Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/7svdt-2_d9M/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/7svdt-2_d9M/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/7svdt-2_d9M/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ybsgBvLDSulkdYh3Od40W8nkADc\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "r-kBzF7RGYc"
-   },
-   "snippet": {
-    "publishedAt": "2019-05-07T14:11:09.000Z",
-    "channelId": "UCbPuMxeW8On6N0Veb3Fxjmw",
-    "title": "HUKUM SHOLAT TARAWEH CEPAT CEPAT - Ustadz. Abdul Somad. Lc., MA",
-    "description": "Rasulullah ﷺ bersabda: فَوَ اللهِ ، لأَنْ يَهْدِيَ اللهُ بِكَ رَجُلاً وَاحِداً خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/r-kBzF7RGYc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/r-kBzF7RGYc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/r-kBzF7RGYc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TAMAN SURGA. NET",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Xh4X2-w9_auleiSih4Fm_IUEfSg\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "weOaTvjHtfw"
-   },
-   "snippet": {
-    "publishedAt": "2019-04-16T06:06:19.000Z",
-    "channelId": "UCd8yezdBtujEiPAhGj2725Q",
-    "title": "Ceramah Seru Ust abdul somad Lc. MA di Kabupaten Padang Lawas",
-    "description": "Chanel Kami adalah channel Youtube yang berisikan ceramah-ceramah agama dari tuan guru ustadz Abdul Somad, Lc. MA Mohon dukung media dakwah ini ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/weOaTvjHtfw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/weOaTvjHtfw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/weOaTvjHtfw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Catatan Dakwah",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ya4QYqxMiS_6fRvXxBYJ7wdoQ68\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "4TWOAoASlo0"
-   },
-   "snippet": {
-    "publishedAt": "2019-05-08T16:13:36.000Z",
-    "channelId": "UCTqaL8ntfLdXL2lA8bA-DHA",
-    "title": "BAHAS TUNTAS SEPUTAR PUASA | Ustadz Abdul Somad Lc.MA",
-    "description": "BAHAS TUNTAS SEPUTAR PUASA | Ustadz Abdul Somad Lc.MA. semoga menjadi pencerahan untuk kita semua dalam mejalani hari-hari di bulan ramadhan ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/4TWOAoASlo0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/4TWOAoASlo0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/4TWOAoASlo0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Penyejuk Hati",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MNbvrQnT8A302T73oWoL3r-Kcpw\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "QHYrVAjMkck"
-   },
-   "snippet": {
-    "publishedAt": "2019-05-09T20:51:32.000Z",
-    "channelId": "UCD5f1P4_O8KDb9oT5vhhWWg",
-    "title": "BERATNYA UJIAN HIDUP INI || RENUNGAN Muhasabah Diri || Ust H.Abdul Somad ,Lc.MA",
-    "description": "Dengan segala macam ujian hidup ini apakah membuat kita semakin dekat kepada ALLAH atau malah sebaliknya ??? Bersabarlah , semoga kita mati dlm ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/QHYrVAjMkck/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/QHYrVAjMkck/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/QHYrVAjMkck/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "New Preman Masjid",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cM0B1K7KrMgoYNxfMrugu9QiBuc\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "09LwI157rME"
-   },
-   "snippet": {
-    "publishedAt": "2018-11-20T17:24:00.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "TERBARU Kajian Bersama Artis Hijrah - Ustadz Abdul Somad, Lc. MA (Tadabbur Surat Al-Mulk Ayat 1-2)",
-    "description": "FULL TERBARU Kajian Bersama Artis Hijrah - Ustadz Abdul Somad, Lc. MA (Tadabbur Surat Al-Mulk Ayat 1-2). Kajian MuSaWaRah, Selasa 20 November ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/09LwI157rME/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/09LwI157rME/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/09LwI157rME/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Tafaqquh video",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/76EwgrTcS94R3qne39fefc_gzQg\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "R2kqgFnsnO4"
-   },
-   "snippet": {
-    "publishedAt": "2019-04-01T01:58:45.000Z",
-    "channelId": "UCTWlnbtIuXO049shX8krvoA",
-    "title": "CERAMAH TERBARU PERINGATAN ISRA&#39; MIRAJ 1440 H | Ustadz Abdul Somad, Lc. MA | 31 Maret 2019",
-    "description": "CERAMAH TERBARU PERINGATAN ISRA MIRAJ 1440 | Ustadz Abdul Somad, Lc. MA | 31 Maret 2019 Dipersembahkan untuk ummat oleh Tafaqquh Study ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/R2kqgFnsnO4/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/R2kqgFnsnO4/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/R2kqgFnsnO4/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Tafaqquh video",
+    "channelTitle": "Khalid Basalamah Official",
     "liveBroadcastContent": "none"
    }
   }
