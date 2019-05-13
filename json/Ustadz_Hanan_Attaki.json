@@ -1,0 +1,1662 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CIu8UY4s8I1_VkwU7AcJZevGl6o\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "ID",
+ "pageInfo": {
+  "totalResults": 38662,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6F_wr8laG7_dJEQz7mxM1jjCgvo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "chej-AQYKZg"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T21:45:00.000Z",
+    "channelId": "UCIm0qD-5Yk38NM6KuQvfjfQ",
+    "title": "Ustadz Hanan Attaki - Ngerasa Butuh Sama Allah",
+    "description": "Rabu, 8 Mei 2019 Sharing Rabu, Ceramah Tarawih Masjid Al-Lathiif Jl. Saninten No. 2 Bandung Instagram : https://www.instagram.com/hanan_attaki ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/chej-AQYKZg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/chej-AQYKZg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/chej-AQYKZg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanan Attaki",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nkXUxrA4E534wFwyhmG_hyaqXwM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sVyPdk76-hc"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-14T03:57:18.000Z",
+    "channelId": "UCIm0qD-5Yk38NM6KuQvfjfQ",
+    "title": "Ustadz Hanan Attaki - Kecewa (Full Version)",
+    "description": "Rabu, 13 Maret 2019 Masjid Trans Studio Bandung Kawasan Terpadu Trans Studio Instagram : https://www.instagram.com/hanan_attaki Line@, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sVyPdk76-hc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sVyPdk76-hc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sVyPdk76-hc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanan Attaki",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yUCWMyYWvEAQGx5XDzDhaprh2h8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ML9e32YOO1E"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-08T15:12:26.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Jangan Lelah Berdo&#39;a Meski Harapan Belum Terwujud - Ust. Hanan Attaki",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ML9e32YOO1E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ML9e32YOO1E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ML9e32YOO1E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-FQyAwSD0vYGJzqhkOIXpeCwruc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oRDQcohSyko"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T00:00:02.000Z",
+    "channelId": "UCIm0qD-5Yk38NM6KuQvfjfQ",
+    "title": "Bekal Ramadhan",
+    "description": "Rabu, 1 Mei 2019 Bekal Ramadhan Bersama sahabat2 Ustadz Hanan Lulusan Al-Azhar Kairo Ust. DR. Awwaluzikri, Lc. MA Ust. DR. Amri Fatmi, Lc. MA Ust.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oRDQcohSyko/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oRDQcohSyko/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oRDQcohSyko/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanan Attaki",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KjVidGDtGbydUIdw4wM9haNU1Q4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "livlk7n5W1o"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-28T22:52:41.000Z",
+    "channelId": "UCIm0qD-5Yk38NM6KuQvfjfQ",
+    "title": "Ustadz Hanan Attaki - Yang Tak Berubah (Full Version)",
+    "description": "Rabu, 28 Maret 2019 Masjid Nurul Falah Buah Batu Bandung Instagram : https://www.instagram.com/hanan_attaki Line@, Twitter, Telegram: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/livlk7n5W1o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/livlk7n5W1o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/livlk7n5W1o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanan Attaki",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/673G9_KykuUCGORdfT2c0TGgbKM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UcLbyh83abU"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-09T21:48:28.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Rasa Syukur Membuat Diri Kita Lebih Bahagia - Ust. Hanan Attaki",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UcLbyh83abU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UcLbyh83abU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UcLbyh83abU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9VMh3-Vn1BFys-FlUI0wQldhW-s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "y68c_nIHcuQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-30T09:35:36.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Mengubah Hidup Agar Menjadi Lebih Baik - Ustadz Hanan Attaki, Lc - Part.1",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/y68c_nIHcuQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/y68c_nIHcuQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/y68c_nIHcuQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AlkODgADdSebkY9O_8LbtH7arA4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "18_EtE2ypio"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-26T14:18:35.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Mengapa Aku Tidak Bahagia Seperti Mereka ? - Ustadz Hanan Attaki, Lc",
+    "description": "Mengapa? #Part1 Masih Sering Mengeluh? Cobalah untuk Bersyukur Agar Hidupmu Bahagia. Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/18_EtE2ypio/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/18_EtE2ypio/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/18_EtE2ypio/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LmPGUoPHY8kmPscPJbzHK9-W9gI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wVUpRFkylZs"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-24T23:28:00.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Cara Menghadapi Masalah Dengan Tenang - Ustadz Hanan Attaki, Lc",
+    "description": "TenangMenghadapiMasalah #Part1 Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wVUpRFkylZs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wVUpRFkylZs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wVUpRFkylZs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/U_YDB50dwBhZG-gy0Q9LuceoOd0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AsARZEfa280"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-12T05:33:40.000Z",
+    "channelId": "UCx0R-EFWKtpz5iUFxyXIu0g",
+    "title": "Ustadz Hanan Attaki Terbaru 2018 Nasehat Untuk Wanita",
+    "description": "Ustadz #HananAttaki Terbaru 2018 Nasehat Untuk Wanita Mutiara Islam adalah channel yang fokus membahas Ceramah Agama Islam, Inspirasi Islam dan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AsARZEfa280/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AsARZEfa280/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AsARZEfa280/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mutiara Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qk9gEZn2cmds10hhjLHBPFZML34\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JqhTjfox82Y"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-25T16:11:41.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Inilah Alasan Kenapa Kamu Di Uji - Ust. Hanan Attaki. Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JqhTjfox82Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JqhTjfox82Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JqhTjfox82Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jEOihuzMTT1ELvhnm-o7xeExcfo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "C1kKdridzYM"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-02T21:32:36.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Pantaskan Dirimu dan Ikuti Aja Alur Dari Allah - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/C1kKdridzYM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/C1kKdridzYM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/C1kKdridzYM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OHnMQMtHg7NWGKjnoJ0QbOn2tVI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JCvJnDty_wU"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-01T13:08:11.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Dengarkan Doa Ini, Hati yang Gelisah Jadi Tenang : Ustadz Hanan Attaki, Lc",
+    "description": "Do'a dan Sholawat Bersama Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JCvJnDty_wU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JCvJnDty_wU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JCvJnDty_wU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iy3gZom7rshfl8gwuXoUUP2pyg8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "288e7x8QHuw"
+   },
+   "snippet": {
+    "publishedAt": "2017-11-23T11:41:32.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "&quot;Bikin Hati Jadi Tenang&quot; | Tonton ini Pas Lagi Alone - Ust. Hanan Attaki, Lc",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/288e7x8QHuw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/288e7x8QHuw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/288e7x8QHuw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wbFMH_8E1HlPnEsK8Lqw-pdx8xw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cd7lnEqkPK8"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-05T21:32:34.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Cara Allah Memberi Kejutan Dibalik Ujian (Part 2) - Ustadz Hanan Attaki",
+    "description": "Cara Allah Memberi Kejutan Dibalik Ujian #PART2 Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cd7lnEqkPK8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cd7lnEqkPK8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cd7lnEqkPK8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2h6YpoiHAyhniKgpRdyueEVAaY8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oQljh14J7uM"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-31T22:55:00.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Cara Allah Memberi Kejutan Dibalik Ujian (Part 1) - Ustadz Hanan Attaki",
+    "description": "Cara Allah Memberi Kejutan Dibalik Ujian #PART1 Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oQljh14J7uM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oQljh14J7uM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oQljh14J7uM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/P_X-POoSiActgMIBYHz5QcJ58lM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "A22yJmPdtn0"
+   },
+   "snippet": {
+    "publishedAt": "2017-11-24T15:23:13.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Surah Al-Mulk - Ust. Hanan Attaki, Lc",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/A22yJmPdtn0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/A22yJmPdtn0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/A22yJmPdtn0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KJtxMoSYO71KoLrB1j4K-s1stTY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dbn7mvAynU8"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-11T18:07:08.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Meraih Ampunan Di Bulan Ramadhan - Ustadz Hanan Attaki",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dbn7mvAynU8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dbn7mvAynU8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dbn7mvAynU8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8ziwhgvuqMT7mdKUa_APJ0OZnW4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wLYQjANzrjU"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-29T18:43:29.000Z",
+    "channelId": "UCVes0G5DqPa3ZHPL4W2OrhA",
+    "title": "Ustadz Hanan Attaki - Ar-Rahman",
+    "description": "Ustadz Hanan Attaki QS. Ar-Rahman 55 Masjid Al-Lathiif Instagram, Line@, Twitter, Snapchat, Pinterest, Telegram: @pemudahijrah Facebook: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wLYQjANzrjU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wLYQjANzrjU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wLYQjANzrjU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Shift Media",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/N3XZLNawC_it5ud4-mmiRMtC31w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aKZ5N6e57P0"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T01:00:00.000Z",
+    "channelId": "UCMqh5u1TOrJEbH-OixtR47w",
+    "title": "COWOK-COWOK WAJIB DENGER NIH - Ust. Hanan Attaki, LC",
+    "description": "Pernah suatu hari Rasulullah pulang dari perjalanan jihad fisabilillah. Beliau pulang diiringi para sahabat. Di depan pintu gerbang kota Madinah nampak ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aKZ5N6e57P0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aKZ5N6e57P0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aKZ5N6e57P0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ISLAM Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IY_VXHqilnOJTsN4JxhlaSVg-7g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "l1Nn3qh3fyk"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-01T01:44:31.000Z",
+    "channelId": "UC5Xh9DJyIqNVS3BSQ7sFXMg",
+    "title": "Santai Ada Allah - Ust. Hanan Attaki",
+    "description": "Santai Ada Allah - Ust. Hanan Attaki \"Orang tidak akan kecewa kalau bersandar kepada Allah. Mustahil seseorang itu kecewa gara - gara berpegang, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l1Nn3qh3fyk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l1Nn3qh3fyk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l1Nn3qh3fyk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hijrah Fisabilillah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mJK-e6FRBI4264FnHfXKwcdjrn4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6BTWHeFxYlA"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-01T11:21:05.000Z",
+    "channelId": "UClScdcOJ4OO1GwIYG-k57pw",
+    "title": "Dengarkan ini Ketika iman lagi menurun / lemah - Ust Hanan Attaki Lc",
+    "description": "Terimakasih banyak Telah menonton kajian agama ini , dan tim dari LENTERA ISLAM NET berterimakasih kepada kalian yang subscribe di chanel INI, Semoga ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6BTWHeFxYlA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6BTWHeFxYlA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6BTWHeFxYlA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Lentera Islam Net",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/m_wVcLOjcbk_TcPSfUErLg9qf8g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "G_ZdTMHaTJA"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-11T04:29:16.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Meraih Inner Beauty Dengan Keindahan Akhlak - Ust. Hanan Attaki",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G_ZdTMHaTJA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G_ZdTMHaTJA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G_ZdTMHaTJA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9Dv3_jEM8eMSLG8xbDEWeEu31EE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MXWBuQgUOk4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-09T17:57:04.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Rahasia Hidup Sukses - Ust. Hanan Attaki",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MXWBuQgUOk4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MXWBuQgUOk4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MXWBuQgUOk4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YpUUmwtEUcO2rS_7DpL--mkTNi0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ezwiOhrpPbw"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-30T22:39:35.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Rasa Sedih, Kecewa dan Air Mata Adalah Penghapus Menghapus Dosa - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ezwiOhrpPbw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ezwiOhrpPbw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ezwiOhrpPbw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Fltn5RUtZcxGk_SnTHi8-CS1wFQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "750ittJhAOI"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-18T02:17:26.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Agar Pintamu Segera Terwujud - Ust. Hanan Attaki. Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/750ittJhAOI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/750ittJhAOI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/750ittJhAOI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ET6QrlxJG1NPzHmTdWiuqdA9bTU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mtnngDddMyE"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-22T21:20:09.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Jangan Takut Kehilangan - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mtnngDddMyE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mtnngDddMyE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mtnngDddMyE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/w5S02Ksjp0MHvgWf4R1rRzFXf6c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pTgt43qjYIc"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-15T12:15:48.000Z",
+    "channelId": "UC5I6gYDjuum2vRClTjQTm_Q",
+    "title": "MERELAKAN JODOH YANG KITA INGINKAN - USTADZ HANAN ATTAKI LC",
+    "description": "MERELAKAN JODOH YANG KITA INGINKAN - USTADZ HANAN ATTAKI LC ----------------------------------------------------------------- Narasumber : Ustadz Hanan Attaki ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pTgt43qjYIc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pTgt43qjYIc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pTgt43qjYIc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ARROYA Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9_u1CYEXUuQhnllje4qNxhvO_m8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MYz1OQHwY3Q"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-15T22:00:01.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "9 Motivasi Dahsyat - Ust. Hanan Attaki. Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MYz1OQHwY3Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MYz1OQHwY3Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MYz1OQHwY3Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AS5MvfN-QG242rWMu5Q9wzw0rK4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DRdPlJsvA6M"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-18T21:28:28.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Ustadz Hanan Attaki, Lc Juz 30 | Juz Amma | Full Terjemahan",
+    "description": "AlQuranJuz30 #BeautifulRecitation ---------------------------------------- Murottal Indah Ustadz Hanan Attaki lainya ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DRdPlJsvA6M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DRdPlJsvA6M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DRdPlJsvA6M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HasiVOWFAmtguoj69AcXFTDInt0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lwUJYbgzKVk"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-23T15:11:04.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Hukum Berpacaran - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lwUJYbgzKVk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lwUJYbgzKVk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lwUJYbgzKVk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lDhUrLVW4UWJJITd8Dz6jbGPbss\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-9GqtQRxisA"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-11T14:25:31.000Z",
+    "channelId": "UC7NuiQZT35If9fDaiRrzBwQ",
+    "title": "Antara JODOH Dan ISTIGHFAR. Ust. Hanan Attaki.lc.ma",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-9GqtQRxisA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-9GqtQRxisA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-9GqtQRxisA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Qolbu Muslim",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lPi9pN4G57rmRqiSzGfgr91Kx7w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7D8yRgZqYwA"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-15T09:40:06.000Z",
+    "channelId": "UCIm0qD-5Yk38NM6KuQvfjfQ",
+    "title": "DOA SAKIT HATI - Ustadz Hanan Attaki",
+    "description": "Instagram : https://www.instagram.com/hanan_attaki Line@, Twitter: @pemudahijrah Facebook: Pemuda Hijrah Website & Streaming: https://pemudahijrah.id/ ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7D8yRgZqYwA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7D8yRgZqYwA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7D8yRgZqYwA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hanan Attaki",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oyp_qPpXksggyA0jjs1OFvx8lOs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0Oitg9zzXc4"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-08T12:59:51.000Z",
+    "channelId": "UC5I6gYDjuum2vRClTjQTm_Q",
+    "title": "SAAT KAMU SAYANG SAMA DIA - USTADZ HANAN ATTAKI LC",
+    "description": "SAAT KAMU SAYANG SAMA DIA - USTADZ HANAN ATTAKI LC Terima Kasih Sudah Menonton Akhi dan Ukhti SHARE, LIKE, COMMENT, AND SUBSCRIBE ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0Oitg9zzXc4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0Oitg9zzXc4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0Oitg9zzXc4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ARROYA Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/993NFXd6-wV743oaGn2QQQwyTQE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8XGBM-1JG7g"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-23T12:34:31.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Kriteria Cinta Sejati yang Harus Anda Ketahui - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8XGBM-1JG7g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8XGBM-1JG7g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8XGBM-1JG7g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/T4WmmOve8Y0IZ5z3X0MbBlQOTtE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nsmSTkTnldQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-17T21:09:26.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Cara Ngecas Iman Ketika Lowbat - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nsmSTkTnldQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nsmSTkTnldQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nsmSTkTnldQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4wmtkQOYB46DyKB_dLJoyzPoNKM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mXeNUrLVxGE"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T17:18:20.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Cara Mendapatkan Kebahagiaan - Ust. Hanan Attaki",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mXeNUrLVxGE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mXeNUrLVxGE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mXeNUrLVxGE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zdN29EvYrg4MZeDlHyIYY1v7Vr4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lBggdQJCFqs"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-10T22:00:04.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Ketika Diremehkan? Jangan Bersedih, Lakukan Hal Ini - Ustadz Hanan Attaki, Lc",
+    "description": "Ketika Diremehkan? Jangan Bersedih, Lakukan Hal Ini - Ustadz Hanan Attaki, Lc Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Anas Al Shehab ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lBggdQJCFqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lBggdQJCFqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lBggdQJCFqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wrqd0U_anmHyT_qx8v5VywjSa68\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PQIQ6hnfl-4"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-24T08:46:39.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Cara Mengendalikan Emosi dalam Islam - Ust. Hanan Attaki. Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PQIQ6hnfl-4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PQIQ6hnfl-4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PQIQ6hnfl-4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VTzmkNtgXyPdxQ46FWX1dYt87MA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lFXWTE94sYU"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-30T22:47:31.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Hadiah Untuk Orang yang Sabar - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lFXWTE94sYU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lFXWTE94sYU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lFXWTE94sYU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Oco5GmgbeCPIUDvc3dWssJbiwok\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "team7L1OhHg"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-19T22:17:19.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Bersyukurlah, Karena Allah Telah Memilihmu Diantara HambaNya - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/team7L1OhHg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/team7L1OhHg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/team7L1OhHg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1Uz4PZrLhVtLGzarN_8VdXZMIX4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5EmaGXcUZsA"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-31T10:01:03.000Z",
+    "channelId": "UCVXPSUCIoV85xnMcor7K8ZA",
+    "title": "Pertolongan Allah SWT Selalu Tepat Waktu  Ustadz Hanan Attaki, Lc Terbaru  Part 2",
+    "description": "Kajian Full - Ustadz #HananAttaki - Ceramah Agama Islam Opening Video: The Way of The Tears - Exclusive Nasheed - Muhammad al Muqit Lentera Islam ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5EmaGXcUZsA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5EmaGXcUZsA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5EmaGXcUZsA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Lentera Islam News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j22AoRrosMPw8Uo9pdxmxLcCDy8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "10mq-gLCIOE"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T01:00:01.000Z",
+    "channelId": "UCMqh5u1TOrJEbH-OixtR47w",
+    "title": "RAMADHAN; FESTIVAL PALING BERKAH - UST. HANAN ATTAKI, LC",
+    "description": "Apa maksud dari “Iimaanan Wahtisaaban“? Simaklah Tafsir Ibnu Katsir pada surat Al Baqarah ayat 265: {وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/10mq-gLCIOE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/10mq-gLCIOE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/10mq-gLCIOE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ISLAM Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/O0aBJlnbDwOi-jdQRXzVcFSpKnY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RILkxPnTwjA"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-20T15:37:57.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Ingin Hidup Nyaman &amp; Bahagia ? Ini Rahasianya! - Ust. Hanan Attaki",
+    "description": "SharingIndah #IPMIJepang #BersamaUHA Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RILkxPnTwjA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RILkxPnTwjA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RILkxPnTwjA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2PjhclNjCVGfYmmqaL49s8ZqEzg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YtD0j8wcbz8"
+   },
+   "snippet": {
+    "publishedAt": "2018-05-21T20:00:01.000Z",
+    "channelId": "UCdvNprtmQnkpLs9NCM6CaFw",
+    "title": "Beginilah INDAHNYA SURGA Saat Bulan RAMADHAN - Ust Hanan Attaki Lc",
+    "description": "Beginilah INDAHNYA SURGA Saat Bulan RAMADHAN - Ust Hanan Attaki Lc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YtD0j8wcbz8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YtD0j8wcbz8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YtD0j8wcbz8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DAKWAHPEDIA",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/g-9AJ6AZAnmw2jcfUuzx-RdxxvA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tkMe_qlBPas"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-22T20:32:20.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Menilai Diri Sendiri - Ustadz Hanan Attaki, Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tkMe_qlBPas/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tkMe_qlBPas/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tkMe_qlBPas/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6CBqG8OVMr8O4GuUX6jxy67S4oE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OF4RKsOsLTc"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-11T01:00:00.000Z",
+    "channelId": "UCMqh5u1TOrJEbH-OixtR47w",
+    "title": "2 KALIMAT DENGAN PAHALA SANGAT BESAR - Ust. Hanan Attaki, LC",
+    "description": "2 kalimat yang ringan di lisan tapi berat di timbangan. Dari Abu Hurairah radhiyallahu 'anhu, ia berkata, Nabi shallallahu 'alaihi wa sallam bersabda, كَلِمَتَانِ ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OF4RKsOsLTc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OF4RKsOsLTc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OF4RKsOsLTc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ISLAM Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_CuqnKK0wt46pSOeVsEgH0xuRJY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vMDgakIyYJU"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-04T21:52:48.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Ingat Aku - Aku Ingat Kamu - Ust. Hanan Attaki. Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vMDgakIyYJU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vMDgakIyYJU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vMDgakIyYJU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/R-iPuducxigMuSh8ITI65XZyWH8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uHX6LeW3GgA"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-13T21:40:17.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Terimalah Dengan Hati yang Ikhlas - Ust. Hanan Attaki. Lc",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uHX6LeW3GgA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uHX6LeW3GgA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uHX6LeW3GgA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BKUPp-MC7BpWjmwzklmd21Rthmk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-xX1PN2pj7E"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-21T12:45:40.000Z",
+    "channelId": "UCEAC204wFHsLiYXSR1uPaZg",
+    "title": "Mari Lembutkan Hati Lewat Do&#39;a ini - Ust. Hanan Attaki",
+    "description": "Penceramah : Ustadz Hanan Attaki, Lc Sound Opening : Allah Allah - Yusuf al Ayoub | New Nasheed https://www.youtube.com/watch?v=5BJPGJkfzmw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-xX1PN2pj7E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-xX1PN2pj7E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-xX1PN2pj7E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "LAMPU ISLAM. NET",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
