@@ -1,0 +1,1662 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HjJVIPGiXNY6w9ElX05L0oiPlAw\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "ID",
+ "pageInfo": {
+  "totalResults": 14297,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mFVjj5SVyP5-uIqodU4jn5EVJ9k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UTR0IvyTq5A"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-31T03:37:01.000Z",
+    "channelId": "UCdylwfSGtIUkoaqDqM_hSXA",
+    "title": "Yang Penting Yakin - Ustadz Felix Siauw",
+    "description": "Kajian HMC Bandung dengan bahasan \"Yang Penting Yakin\" oleh Ustadz Felix Siauw Tonton video kajian lainnya: Ciri-Ciri Orang Dapat Hidayah - Ust. Dr. H.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UTR0IvyTq5A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UTR0IvyTq5A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UTR0IvyTq5A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Masjid Agung Trans Studio Bandung",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/b4xbDMdEYzYetzM2V4Y_l5TASE8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sOlY2eKKJ8w"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-05T15:57:49.000Z",
+    "channelId": "UCYEa4_MC7OFjcWrO6SO-u8g",
+    "title": "Seru!! Ustad Felix Siauw VS Ustad Abu Janda di ILC",
+    "description": "Hot!! Ustadz Feliz Siauw vs Ustadz Abu Janda in ILC Reuni 212 yang berlangsung Sabtu 2 Desember 2017 menyisakan perdebatan. Pangkalnya dari ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sOlY2eKKJ8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sOlY2eKKJ8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sOlY2eKKJ8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Indonesia Lawyers Club",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-POYtNgSrck1ruC-OeWyFrscYgE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CWyPVUD_GAo"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-18T00:25:01.000Z",
+    "channelId": "UC_N8Ip3QhQKuE9NulmZx7Bw",
+    "title": "Nasehat Ustadz Felix Siauw Untuk Giring &amp; Grace Natalie Mengenai Poligami",
+    "description": "Nasehat Ustadz Felix Siauw Untuk Giring & Grace Natalie Mengenai Poligami “Sesungguhnya yang sampai kepada seorang mukmin dari amalannya dan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CWyPVUD_GAo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CWyPVUD_GAo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CWyPVUD_GAo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "cahaya Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RkiX-BFyOoTSQIjlrs9PQh6Ns7Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BuTi3DkmM10"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-01T02:39:04.000Z",
+    "channelId": "UCsdPiz1bwWeatmOCm2J0Fbw",
+    "title": "Al-Qur&#39;an &amp; Kebangkitan || Ust. Felix Siauw",
+    "description": "MILIKI YUK AMALAN YANG DICINTAI ALLAH DENGAN DAKWAH “Amalan yang paling dicintai Allâh Ta 'alâ adalah amalan yang kontinyu walaupun sedikit.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BuTi3DkmM10/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BuTi3DkmM10/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BuTi3DkmM10/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AL-HUJJAH Channel Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/anMaHdl12vYDV_FkuigBAhdrqaE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OqTVY2T7iMA"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-11T00:32:49.000Z",
+    "channelId": "UCFHgbxNXqayxZp85fTpHTzw",
+    "title": "YANG TIDAK NONTON NYESEL..! INILAH CERAMAH PALING LUAR BIASA USTADZ FELIX SIAUW",
+    "description": "JANGAN LUPA LIKE DAN BERLANGGANAN.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OqTVY2T7iMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OqTVY2T7iMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OqTVY2T7iMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "PEMBELA HABAIB",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-ljAAoTNEngKwqzoQX-qPHlkgH0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "J9hGGxHm8c8"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-13T11:42:43.000Z",
+    "channelId": "UCs1aI4XMNUGmle3JKEF1gRA",
+    "title": "Inilah Nasehat Ustadz Felix Untuk Roger Danuarta yang Baru Masuk Islam",
+    "description": "Baru masuk Islam, Roger danuarta sontak menjadi perbincangan dan inspirasi banyak orang. saat kegiatan Majleis cinta quran yang diadakan oleh Cinta ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J9hGGxHm8c8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J9hGGxHm8c8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J9hGGxHm8c8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Cinta Quran TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/s5nEWAWoRsZJaPoQBkg6jq-BDBI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sDhPKxg5YxU"
+   },
+   "snippet": {
+    "publishedAt": "2015-01-09T15:25:54.000Z",
+    "channelId": "UCivaqbDMbPxXp7HIOtZZprg",
+    "title": "ALASAN FELIX SIAUW MASUK ISLAM: NON ISLAM LEBIH BAIK TIDAK TONTON",
+    "description": "SATU JAM BERSAMA USTADZ FELIX SIAUW TV ONE.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sDhPKxg5YxU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sDhPKxg5YxU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sDhPKxg5YxU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Smile, Laugh and Loving",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/y9RXSqb26DNF0prKG1CeccAwidk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vlsQaIZkf-o"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-29T09:28:41.000Z",
+    "channelId": "UCooj91ena2M4wkM_vu_HiEg",
+    "title": "Pernyataan Kontroversi Said Aqil Siroj, Begini Tanggapan Ustadz Felix Siauw",
+    "description": "Pernyataan Kontroversi Said Aqil Siroj, Begini Tanggapan Ustadz Felix Siauw Selamat datang di Channel Youtube Almunai Ajl, Channel ini berisikan ceramah, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vlsQaIZkf-o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vlsQaIZkf-o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vlsQaIZkf-o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Almunai Ajl",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/N6sT3jpYhgmqORn5P3GMNLIjrCc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tFW7gMC6RrE"
+   },
+   "snippet": {
+    "publishedAt": "2018-04-20T10:35:35.000Z",
+    "channelId": "UCbQTEp07nCB66epKsFYmAnA",
+    "title": "Jawaban Cerdas Felix Siauw Patahkan Argumen Rocky Gerung Soal Kitab Suci Fiksi",
+    "description": "FELIX SIAW: jika ada orang yang membahas fiksi dan fiktif, kemudian memasukkan kitab suci di situ, berarti ada ide-ide yang ingin di hantarkan di sana, yang ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tFW7gMC6RrE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tFW7gMC6RrE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tFW7gMC6RrE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Kabar Prioritas",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pag_MHR9hNSVfUZefqrcgH95xUs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4kkgePxpN2M"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-13T08:39:44.000Z",
+    "channelId": "UCDTXjHHUpYvXaI6yoQPH5Lw",
+    "title": "Bumi Datar/Bulat - Ustadz FELIX SIAUW",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4kkgePxpN2M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4kkgePxpN2M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4kkgePxpN2M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AQ' Tube",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bwOFqkORY5ZELMJYVFVgw__90-E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bKF8GURCKiQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-25T17:00:12.000Z",
+    "channelId": "UCbV12856m7y9D1_tHjpavIg",
+    "title": "Ustad Felix Siauw - Saya Masuk Islam ?",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bKF8GURCKiQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bKF8GURCKiQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bKF8GURCKiQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Slamet Basuki",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Z2snh-Mn4y5ckcRCY0xAEMXYmsY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "798PUHatwTo"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-08T03:16:10.000Z",
+    "channelId": "UCowwLY4AWSeCgjYgUMswA0A",
+    "title": "SERU! DUO CERDAS HADAPI &quot;ABU-ABU&quot; - Ust Adi Hidayat &amp; Ust Felix Siauw (JANGAN POTONG VIDEO INI)",
+    "description": "Please Like and Subscribe Lillah! Ambil kebaikan, Tinggalkan yang buruk.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/798PUHatwTo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/798PUHatwTo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/798PUHatwTo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Taat Tanpa Tapi",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/amntrm9vTmgKIWojdvjmon6ZM7k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nn1YYmu6vUE"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-20T10:09:40.000Z",
+    "channelId": "UCIohHXwCEKxWCLvAguJ-GjA",
+    "title": "CERITA DEWI SANDRA - Bersama Ustadz Felix Siauw dan Istrinya (17/6/2017) Part 2",
+    "description": "Part 1 : https://youtu.be/nY1lW1EW8Rk Part 2 : https://youtu.be/nn1YYmu6vUE Part 3 : https://youtu.be/802OJqmUt3I Part 4 : https://youtu.be/aPv8Y-PqD8E.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nn1YYmu6vUE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nn1YYmu6vUE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nn1YYmu6vUE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TRANS TV Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eN7ZyFhYUxg_KrLcXpdXTiRaeA0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nmps3MVuv8U"
+   },
+   "snippet": {
+    "publishedAt": "2017-11-22T14:25:19.000Z",
+    "channelId": "UC3MdiQbOROyf7SNPXhOBk1g",
+    "title": "CARA MEMBUKTIKAN TUHAN ITU ADA | USTADZ FELIX SIAUW",
+    "description": "CARA MEMBUKTIKAN TUHAN ITU ADA USTADZ FELIX SIAUW.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nmps3MVuv8U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nmps3MVuv8U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nmps3MVuv8U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Amil Islam Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7KqdA5apk29pglYm3T0IFeP6a50\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wpDjHZRWMGo"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-06T00:52:39.000Z",
+    "channelId": "UChTmtcE2tnNFoFdWtxJLjYw",
+    "title": "Abu Janda Mati Kutu &quot;Ditekuk&quot; Ustadz Felix Shiaw",
+    "description": "Abu Janda mati kutu, dan hanya bisa pelanga-pelongo ketika \"ditekuk\" oleh argumentasi kokoh Ustadz Felix Shiaw, dalam ILC 5 Des 2017.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wpDjHZRWMGo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wpDjHZRWMGo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wpDjHZRWMGo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "dedearif",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/n0gatZbEHQ2HjxPTHBCNjiuan9k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UQx_Mu2F6lk"
+   },
+   "snippet": {
+    "publishedAt": "2013-08-07T14:18:24.000Z",
+    "channelId": "UCLRO-z0NDzo_iMfej1u7Ttw",
+    "title": "HITAM PUTIH edisi pilihan Felix Siauw full",
+    "description": "Hitam Putih edisi 5 Agustus 2013 yang menghadirkan Ustadz Felix Siauw, Chaesar Keep Smile, dan Vicky Zhu dengan MC Deddy Corbuzier. Video ini telah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UQx_Mu2F6lk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UQx_Mu2F6lk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UQx_Mu2F6lk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Utomo Priyambodo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xeVB5EcwIbjCAG4k0SWLCoZeBx4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "w8btfQ6MIiI"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-02T08:18:45.000Z",
+    "channelId": "UCbV12856m7y9D1_tHjpavIg",
+    "title": "Ustadz Felix Siauw Sampe Ketawa, Dengar Ceramah Lucu Ustadz Abdul Somad, LC.MA",
+    "description": "sumber video diatas : http://sfl.ink/mue8C.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w8btfQ6MIiI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w8btfQ6MIiI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w8btfQ6MIiI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Slamet Basuki",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zRFe2oXu_bv0eJTAHHyIq8Ec7TA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YQHuuAYtJUI"
+   },
+   "snippet": {
+    "publishedAt": "2016-11-11T05:37:31.000Z",
+    "channelId": "UCD8Q_9MuoQIoJ_ZAYalL1Qw",
+    "title": "SEORANG AHOK DI MATA USTADZ FELIX SIAUW",
+    "description": "Buku-buku karya Felix Siauw banyak mengangkat topik dan perspektif yang terkait dengan organisasi tempat ia bernaung, yakni Hizbut Tahrir Indonesia.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YQHuuAYtJUI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YQHuuAYtJUI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YQHuuAYtJUI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mengapa Harus Islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4xlcQyegH_Bsyvu67or8CzEigto\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BeZu6I8nhUc"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-03T09:06:22.000Z",
+    "channelId": "UCxamgmCgmWAYwyxX2M76d1g",
+    "title": "Yang Gaji Kamu Siapa?~Ustadz Felix siauw",
+    "description": "Yang Gaji Kamu Siapa ? Ustadz Felix siauw Jangan Lupa subscribe GRATIS Berikan komentar anda ,like & share Video ini ya.......",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BeZu6I8nhUc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BeZu6I8nhUc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BeZu6I8nhUc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Suara islam",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ikbUEok3sYvdm5QfTRJsdYmOiYE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GJIAi60gbsM"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-25T09:39:32.000Z",
+    "channelId": "UCkBRGkgfTpN2X0YHLaaqWnA",
+    "title": "Bertemu Ustadz Felix Siauw, Ini Pesan Habib Rizieq Shihab",
+    "description": "Bertemu Ustadz Felix Siauw, Ini Pesan Habib Rizieq Shihab Bertemu Ustadz Felix Siauw, Ini Pesan Habib Rizieq Shihab Bertemu Ustadz Felix Siauw, Ini Pesan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GJIAi60gbsM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GJIAi60gbsM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GJIAi60gbsM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pemuda 313",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cHNbLkDtGddDf1xHuCuQcIXxtrg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "byZF-Pa9ddk"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-01T03:37:51.000Z",
+    "channelId": "UCw4vHqEidRJfZBThQ1CJrzA",
+    "title": "Terungkap Siapa Dalang dibalik Pembubaran Kajian Ustadz Felix Siauw di Malang",
+    "description": "Terungkap Siapa Dalang dibalik Pembubaran Kajian Ustadz Felix Siauw di Malang didalam video klarifikasi ustadz felik siauw mengungkap siapa dibalik ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/byZF-Pa9ddk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/byZF-Pa9ddk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/byZF-Pa9ddk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Renung Kalbu",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qa7s2DVojF7IaztJotQJ2mrCyvk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WEIx9oZlKLs"
+   },
+   "snippet": {
+    "publishedAt": "2016-07-05T18:47:25.000Z",
+    "channelId": "UCOICsCn8wIHBkV-_5kivlhw",
+    "title": "Inilah Penyebab Felix Siauw Masuk Islam!",
+    "description": "Felix Siauw adalah keturunan cina yang berjuang untuk mencari keberadaan Tuhan pada masa remajanya. Mendapatkan perlakuan diskriminatif karena ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WEIx9oZlKLs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WEIx9oZlKLs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WEIx9oZlKLs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "IndoMuslim",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MSgFHumn7BSyZnMR1uPcKhNelR0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SkV4ucVKN1s"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-04T16:21:13.000Z",
+    "channelId": "UCYgEgZNPzMFJjTx4C-CgTNg",
+    "title": "Bagaimana sifat Yahudi Zaman Now?? - Ceramah Ustadz Felix Siauw Terbaru 2019",
+    "description": "Ustadz Felix Siauw 2019 tentang kebaikan lawan kejahatan yang terjadi dari zaman dulu sampai saat ini. Terlebih adanya persekusi kajian, olok-olokan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SkV4ucVKN1s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SkV4ucVKN1s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SkV4ucVKN1s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Seuntai Manfaat",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/a0m53ghjYqELvhO1AHMhykx5md4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Jym3A6XuW6I"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-19T21:57:35.000Z",
+    "channelId": "UCACQ2X-NQ671LHLpiOmX7ng",
+    "title": "Keren! Ustadz Felix Siauw Bertanya Pada Ustadz Abdul Shomad",
+    "description": "Ustadz Felix Siauw Bertanya Pada Ustadz Abdul Shomad Seputar Ukhuwah Islam.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jym3A6XuW6I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jym3A6XuW6I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jym3A6XuW6I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Dakwah 1453",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Yrrw-ID0FA2g86exKFlgNk-X_aA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jYE4ErklxUI"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-04T08:04:34.000Z",
+    "channelId": "UCrrRjyawkZWPfjWr-7pv8pA",
+    "title": "DEBAT SENGIT, USTADZ FELIX SIAUW - KHILMUS",
+    "description": "Khilafah ala Khilafatul Muslimin dibantah oleh ustadz felix #khilafah #felixsiauw #debat.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jYE4ErklxUI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jYE4ErklxUI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jYE4ErklxUI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ngaji Cerdas",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XCG-9iuJhpwPZ_7fn1hydH0lbZ4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_UhKEWeDbb4"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-23T09:15:00.000Z",
+    "channelId": "UC3ee1oIWbIAt7iTxIHFXuRw",
+    "title": "Keren Parah!!! Ceramah Full Ustadz Felix Siauw Feat Ustadz Oemar Mita Lc",
+    "description": "Keren Parah!!! Ceramah Full Ustadz Felix Siauw Feat Ustadz Oemar Mita Lc Keren Parah!!! Ceramah Full Ustadz Felix Siauw Feat Ustadz Oemar Mita Lc Keren ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_UhKEWeDbb4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_UhKEWeDbb4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_UhKEWeDbb4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GororoGO",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KjqcFSd6CGdDEoGv9vvrkCBmMPA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2BI9y31pQqw"
+   },
+   "snippet": {
+    "publishedAt": "2014-11-23T04:43:17.000Z",
+    "channelId": "UCdJexMDsHYFROA5M2TNBfBw",
+    "title": "Alasan Ustadz Felix Siauw Masuk Agama Islam - Alkisah Muallaf",
+    "description": "Ustadz Felix Siauw - Alasan Ustadz Felix Siauw Masuk Agama Islam - Alkisah Muallaf Berikut adalah kisah inspiratif islami ketika ustadz felix siauw mencari ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2BI9y31pQqw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2BI9y31pQqw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2BI9y31pQqw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Nsdye Rgapsc",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kuDFTZS1llw9lyJcCbdKS1wmedw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8IxY1sQgzFU"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-09T22:27:18.000Z",
+    "channelId": "UCMuA9XNul3c4eERsbqN4iPg",
+    "title": "Ustadz.Felix Siauw",
+    "description": "KAMI MOHON TOLONG SUBSCRIBE CHANNEL KE 2 KAMI : Farid Gunawan LINK https://www.youtube.com/channel/UCFDMVmTGVesV0Qizt9MGgzg...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8IxY1sQgzFU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8IxY1sQgzFU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8IxY1sQgzFU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "OM Hijrah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/O5Chvh4nMU1QIoezwa0DW_SFoyc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XwO8gBQNal8"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-28T15:14:22.000Z",
+    "channelId": "UCYZwXTebqVpaWjpOhD1UtLA",
+    "title": "Felix Siauw : Pemikiran Islam Part 1",
+    "description": "Kajian Studi Dasar Pemikiran Islam rutin setiap Jumat, Pukul 08.00 WIB bersama Ustadz Felix Y. Siauw Lokasi : Alfatih 1453 Islamic Center.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XwO8gBQNal8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XwO8gBQNal8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XwO8gBQNal8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MIMBAR TUBE",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Yv99Fcge4Q6JvHIZzNne2DKxBeU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "X_-0Z40cT9w"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-02T16:32:19.000Z",
+    "channelId": "UC8LJ_hvo2QbA3rcYMkNBOOA",
+    "title": "SADIS ORASI USTADZ FELIX SIAUW PADA SAAT AKSI BELA TAUHID",
+    "description": "MENGGETARKAN Orasi Ustadz Felix Siauw, Langsung ke Jantung Pelaku Pembakar Bendera Tauhid. dALAM ORASINYA Ustadz Felix Siauw menjelaskan ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X_-0Z40cT9w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X_-0Z40cT9w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X_-0Z40cT9w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pecinta Habib Rizieq Syihab",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yTBIvoSpAbjC5mqbVgQ8Vy3bmkM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FbhZNbKaL-Q"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-22T08:59:11.000Z",
+    "channelId": "UCLsSDccXrwJWVQxeJ8Kll-Q",
+    "title": "Ustad Felix Siauw Terbaru 2019 -  Dimarahi Ibunda?",
+    "description": "Alhamdulillah, dalam acara Kajian Akbar, Musawarah bersama artis - artis yang tergabung dalam barisan Muda Sakinah maWadah waRohmah (Musyawarah) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FbhZNbKaL-Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FbhZNbKaL-Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FbhZNbKaL-Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Multimedia UNISSULA",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KfkO-A-bgLQQndxdqraIUXG2edE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Af9yJTMi9sI"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-02T12:24:59.000Z",
+    "channelId": "UCWVR1-02IIoipECZlZYNMog",
+    "title": "SEHARI BERSAMA USTADZ ABDUL SOMAD &amp; USTADZ FELIX SIAUW DI PEKANBARU!",
+    "description": "SEHARI BERSAMA USTADZ ABDUL SOMAD & USTADZ FELIX SIAUW DI PEKANBARU! Ada pesan penting dari Ustadz Abdul Somad & Ustadz Felix Siauw ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Af9yJTMi9sI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Af9yJTMi9sI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Af9yJTMi9sI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "The Sungkars Family",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sIjS_8ovlbNx__gTAYsEys64mTk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LjLTg_YFv7w"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-19T07:36:12.000Z",
+    "channelId": "UCWVR1-02IIoipECZlZYNMog",
+    "title": "TEUKU WISNU, DUDE, ARIE UNTUNG, DIMAS SETO DITANTANG USTADZ FELIX SIAUW!",
+    "description": "TEUKU WISNU, DUDE, ARIE UNTUNG, DIMAS SETO DITANTANG USTADZ FELIX SIAUW! Ustadz Felix Siauw menantang Teuku Wisnu, Dude Herlino, Arie ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LjLTg_YFv7w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LjLTg_YFv7w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LjLTg_YFv7w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "The Sungkars Family",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SlbMcJSRYZ1bygW6sM1vVsHq-xQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "T-5Bns_qZcY"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-22T07:36:30.000Z",
+    "channelId": "UCG24yLKp-OdPYbtG8PUsp0A",
+    "title": "Ustadz Felix Siauw Bahagia Menikah Tanpa Pacaran",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/T-5Bns_qZcY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/T-5Bns_qZcY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/T-5Bns_qZcY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Majelis Tausiyah Cinta",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/alvI66PeFSGnkunYYqbwRitqiG4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "fqlt6VOwEgA"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-16T14:03:32.000Z",
+    "channelId": "UCdUvqj7cjMjUcpE_gKgq43g",
+    "title": "Sikap Muslim Terhadap Natal | Ustadz Felix Siauw",
+    "description": "Toleransi adalah bagian yang tidak lepas dari Islam, sebab Allah sendiri langsung berikan kita panduan toleransi ini dalam Al Quran, surat Al Kafiruun.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fqlt6VOwEgA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fqlt6VOwEgA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fqlt6VOwEgA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YukNgaji ID",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wbGBxeS6uCEALcy5nFIDU-XjXCQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CkQEk8fBtak"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-08T08:03:41.000Z",
+    "channelId": "UCncsSvqn4u2EuFLk4B70HCw",
+    "title": "CERDAS!! BEGINI CARA Ust. FELIX SIAUW HANTAM BG DENI SIREGAR",
+    "description": "CERDAS!! BEGINILAH CARA Ust. FELIX SIAUW MENGHANTAM BG DENI SIREGAR PERNYATAAN BANG DENY YANG MENGATAKAN BAHWA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CkQEk8fBtak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CkQEk8fBtak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CkQEk8fBtak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "FANS SOCCER",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lRB-r_-MhBF7R8tq6k8LW-cCdes\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6I6GDys6WdU"
+   },
+   "snippet": {
+    "publishedAt": "2017-11-07T03:28:51.000Z",
+    "channelId": "UCOO6NvLCJxdDi36SWF1dVXA",
+    "title": "VIDEO EXCLUSIVE PEMBUBARAN KAJIAN FELIX SIAUW",
+    "description": "Hikmah Dan Pelajaran Dari Bangil Semakin tinggi tahapan dakwah, semakin besar pula tantangan. Ibarat kompetisi bola, kini kita sudah memasuki final.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6I6GDys6WdU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6I6GDys6WdU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6I6GDys6WdU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Felix Siauw",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tC3CbQ7HyVo7pM4pz10w5lGWEy0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uiEi-OnF9y4"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-23T04:58:42.000Z",
+    "channelId": "UCdWyZHt9VsBLBK3KckXBZ1Q",
+    "title": "Kajian Spesial Ustadz Felix Siauw Bersama Roger Danuarta",
+    "description": "(Assalamu'alaikum) Jazakumullahu Khairan Mari kita Mempererat Ukhuwah Islamiyah, Menjadi Ummat Terbaik dengan Saling Menasehati, Silahkan Share ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uiEi-OnF9y4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uiEi-OnF9y4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uiEi-OnF9y4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Media Hijrah",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FMvzJw5Mh4pjPfYsZWQOASx_p9o\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dwzyRBvbKcI"
+   },
+   "snippet": {
+    "publishedAt": "2018-06-13T10:42:35.000Z",
+    "channelId": "UCYZwXTebqVpaWjpOhD1UtLA",
+    "title": "Islam di Indonesia - Ust. Felix Siauw",
+    "description": "Kajian Khusus Ust. Felix Siauw dan Ust. Abdul Somad bersama Artis Ibukota, di kediaman Primus Yustisio. Acara tanggal 03 Juni 2018 Download File PPT ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dwzyRBvbKcI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dwzyRBvbKcI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dwzyRBvbKcI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MIMBAR TUBE",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_KdseR6Uzud7BpyEdIex7gDxwOQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XRBqsGGiR5s"
+   },
+   "snippet": {
+    "publishedAt": "2016-10-26T07:03:39.000Z",
+    "channelId": "UCdUvqj7cjMjUcpE_gKgq43g",
+    "title": "Ustadz Felix Siauw, Unreasonable Fear",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XRBqsGGiR5s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XRBqsGGiR5s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XRBqsGGiR5s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YukNgaji ID",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DH4SOwvql_weUtdAwLIIyIjFJHA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Mr-iujOR3FA"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-04T04:37:19.000Z",
+    "channelId": "UCO2WQBepFhg4NUwOet_msNg",
+    "title": "Ustadz Felix Siauw - Al Qur&#39;an &amp; Kebangkitan",
+    "description": "Ustadz Felix Siauw - Al Qur'an & Kebangkitan Ahad, 24 Februari 2019 Masjid Abu Bakar Ash Shiddiq, Jakarta Dapatkan Video Dakwah dan Inspirasi pendek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mr-iujOR3FA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mr-iujOR3FA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mr-iujOR3FA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SalingSapa TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9pbT7szu1rpUnBMg5nwby57cJ0c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nyOA8837tM4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T23:00:06.000Z",
+    "channelId": "UCOO6NvLCJxdDi36SWF1dVXA",
+    "title": "Nggak Pede Dakwah?",
+    "description": "Ada banyak diantara kita yang mau dakwah tapi nggak pede, padahal dakwah itu kewajiban yang sangat mulia. Mirisnya, ada orang-orang lain yang justru ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nyOA8837tM4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nyOA8837tM4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nyOA8837tM4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Felix Siauw",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ELBbO2E2nAAP1zKgUq52ybwVTBE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "iGGa08gK8cM"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-05T18:38:42.000Z",
+    "channelId": "UCIYjVbxuaUq37-rKdvKT9rw",
+    "title": "Abu Janda Bollywood vs Ustadz Felix Siauw - ILC Reuni 212",
+    "description": "Abu Janda Bollywood vs Ustadz Felix Siauw - ILC Reuni 212.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iGGa08gK8cM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iGGa08gK8cM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iGGa08gK8cM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Dahlan Abdul Aziiz",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Pqbskm92bRAaqCnxnJaKTljjGgU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zaAGD1488Co"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-05T10:00:26.000Z",
+    "channelId": "UCfZIj92KSvu2Ru5NUpbefiw",
+    "title": "Ust. Felix Siauw &amp; Ust. Abdul Somad (Zaman Now &amp; Zaman Old)",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zaAGD1488Co/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zaAGD1488Co/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zaAGD1488Co/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mahabbah Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VtUSiCAaQskxuqL1U5KpGy-azyc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6paY-p-apBs"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-12T14:20:08.000Z",
+    "channelId": "UCF7cNOcskaL1_jVTug_sfew",
+    "title": "The Art of Dakwah - Ustadz Felix siauw &amp; ustadz Oemar Mita bersama Artis Kajian Musawarah",
+    "description": "THE ART OF DAKWAH . Gelombang Hijrah tak terbendung, berbagai generasi dan berbagai profesi bersungguh2 ingin berpartisipasi dalam dakwah .",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6paY-p-apBs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6paY-p-apBs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6paY-p-apBs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hijrahfest Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WDpc4Y4UOt98EKBsPP_Wco-Jetc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oMtz9KeMAkA"
+   },
+   "snippet": {
+    "publishedAt": "2018-05-16T00:44:47.000Z",
+    "channelId": "UC2DsClIVo6DhQOajPkriryQ",
+    "title": "Ustadz Felix Siauw - Tarhib Ramadhan",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oMtz9KeMAkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oMtz9KeMAkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oMtz9KeMAkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "One Ummah Movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Z63YbtoHirpugasj2Xq9_VDWIbY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wXNSI15vx08"
+   },
+   "snippet": {
+    "publishedAt": "2017-11-07T02:15:01.000Z",
+    "channelId": "UCqK0sAvqW89r4n5953mpQCg",
+    "title": "USTADZ FELIX SIAUW TERNYATA YANG SALAH",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wXNSI15vx08/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wXNSI15vx08/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wXNSI15vx08/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "IQRO-212 Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/v79paHgvfIlquYevDE1mpHZro3M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1GK2Pnt2WyA"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-28T08:55:53.000Z",
+    "channelId": "UCYZwXTebqVpaWjpOhD1UtLA",
+    "title": "Art Of Dakwah - Ustadz Felix Siauw",
+    "description": "Islam itu indah dan sempurna, Islam itu menyeluruh dan mendalam, sebagaimana perkataan Allah dan Rasul-Nya pasti benar dan baik. Hanya saja cara ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1GK2Pnt2WyA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1GK2Pnt2WyA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1GK2Pnt2WyA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MIMBAR TUBE",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3QAMatHimYzoMbJi4YSIqxyI6zA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bCoMEHTXP5Q"
+   },
+   "snippet": {
+    "publishedAt": "2016-04-19T03:11:32.000Z",
+    "channelId": "UCrZOHZoxcHZ0DO2DgR5XOjA",
+    "title": "20150218 Ustadz Felix   Dari mana Asal Manusia, Mau apa dan Mau kemana   Rumil Al Hilya 2",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bCoMEHTXP5Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bCoMEHTXP5Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bCoMEHTXP5Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Rumil Al-Hilya Rumah Ilmu",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CQ9SkHx3o6-ZVvtnUKPL17hnfQY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ibuD3qTQUwk"
+   },
+   "snippet": {
+    "publishedAt": "2014-08-11T04:09:43.000Z",
+    "channelId": "UCEhkNg3KOAnXP2TOzULkvvg",
+    "title": "Felix Siauw - Satu Jam Lebih Dekat TV One 26-7-2014 Part5",
+    "description": "Ustadz Felix Siauw Ustadz Felix Y Siauw Satu Jam Lebih Dekat SJLD TVOne TV One No Ads Tidak ada iklan.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ibuD3qTQUwk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ibuD3qTQUwk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ibuD3qTQUwk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Davin Mboir",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
