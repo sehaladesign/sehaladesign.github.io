@@ -1,5 +1,4 @@
-{
-    "Sheet1": [
+[
         {
             "name": "Sinar FM",
             "thumbnail": "https://i.imgur.com/b5L1ge3.png",
@@ -11,4 +10,4 @@
             "url": "https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999&facebook=false"
         }
     ]
-}
+
