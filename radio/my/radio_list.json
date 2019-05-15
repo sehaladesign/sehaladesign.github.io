@@ -70,19 +70,19 @@
             "name": "Selangor FM",
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/iEgJggK.png",
-            "url": "https://selangorfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch023/rtm-ch023.m3u8"
+            "url": "https://selangorfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch023/rtm-ch023-96000.m3u8"
         },
         {
             "name": "Kedah FM",
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/w32ehYP.png",
-            "url": "https://kedahfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031.m3u8"
+            "url": "https://kedahfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031-96000.m3u8"
         },
         {
             "name": "Kelantan FM",
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/VXFriqE.png",
-            "url": "https://kelantanfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch032/rtm-ch032.m3u8"
+            "url": "https://kelantanfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch032/rtm-ch032-96000.m3u8"
         }
     ]
 }
