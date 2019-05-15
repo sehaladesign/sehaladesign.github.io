@@ -77,6 +77,12 @@
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/w32ehYP.png",
             "url": "https://kedahfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031.m3u8"
+        },
+        {
+            "name": "Kelantan FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/VXFriqE.png",
+            "url": "https://kelantanfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch032/rtm-ch032.m3u8"
         }
     ]
 }
