@@ -2,33 +2,69 @@
     "Sheet1": [
         {
             "name": "Sinar FM",
+            "language": "Malay",
             "thumbnail": "https://i.imgur.com/b5L1ge3.png",
             "url": "http://astro2.rastream.com/sinar"
         },
         {
             "name": "Ikim FM",
+            "language": "Malay",
             "thumbnail": "https://i.imgur.com/hd37eiC.png",
             "url": "https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999&facebook=false"
         },
         {
             "name": "Gegar FM",
+            "language": "Malay",
             "thumbnail": "https://i.imgur.com/d9kiA9I.png",
             "url": "http://astro3.rastream.com/gegar"
         },
         {
             "name": "Era FM",
+            "language": "Malay",
             "thumbnail": "https://i.imgur.com/pY7qT6I.png",
             "url": "http://astro2.rastream.com/era"
         },
         {
             "name": "Hitz FM",
+            "language": "English",
             "thumbnail": "https://i.imgur.com/M4v9jil.png",
             "url": "http://astro1.rastream.com/hitz"
         },
         {
             "name": "Suria FM",
+            "language": "Malay",
             "thumbnail": "https://i.imgur.com/2AWtFAQ.png",
             "url": "http://starrfm.rastream.com/starrfm-suria"
+        },
+        {
+            "name": "Star FM",
+            "language": "Chinese",
+            "thumbnail": "https://i.imgur.com/DKnrNvT.png",
+            "url": "http://starrfm.rastream.com/starrfm-988"
+        },
+        {
+            "name": "One FM",
+            "language": "English",
+            "thumbnail": "https://i.imgur.com/ocR3KOD.png",
+            "url": "http://mediaprima.rastream.com/mediaprima-onefm"
+        },
+        {
+            "name": "Mix FM",
+            "language": "English",
+            "thumbnail": "https://i.imgur.com/I9agKzD.png",
+            "url": "http://astro2.rastream.com/mix"
+        },
+        {
+            "name": "My FM",
+            "language": "Chinese",
+            "thumbnail": "https://i.imgur.com/Ox6p6Qz.png",
+            "url": "http://astro1.rastream.com/myfm"
+        },
+        {
+            "name": "KL FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/ZhwA93I.png",
+            "url": "https://klfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch018/rtm-ch018-96000.m3u8"
         }
     ]
 }
