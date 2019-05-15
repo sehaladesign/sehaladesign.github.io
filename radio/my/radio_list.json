@@ -83,13 +83,42 @@
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/VXFriqE.png",
             "url": "https://kelantanfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch032/rtm-ch032-96000.m3u8"
-        }
-        ,
+        },
         {
-            "name": "bernama",
+            "name": "Bapakku FM",
             "language": "Malay",
-            "thumbnail": "https://i.imgur.com/VXFriqE.png",
-            "url": "https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8"
+            "thumbnail": "https://i.imgur.com/Erf343C.png",
+            "url": "http://radio.bapakku.fm:8000/stream/1/"
+        },
+        {
+            "name": "Melody",
+            "language": "Chinese",
+            "thumbnail": "https://i.imgur.com/P5PrASL.png",
+            "url": "http://astro3.rastream.com/melody"
+        },
+        {
+            "name": "Sandakan FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/0hw2v7G.png",
+            "url": "http://192.111.140.6:8142/;"
+        },
+        {
+            "name": "Perak FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/sdPMTuw.png",
+            "url": "http://118.100.116.170:8000/stream"
+        },
+        {
+            "name": "Melaka FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/KanibIp.png",
+            "url": "https://melakafm.secureswiftcontent.com/rtm-ch041/rtm-ch041/chunklist.m3u8"
+        },
+        {
+            "name": "Mutiara FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/a1gXIOU.png",
+            "url": "https://mutiarafm.secureswiftcontent.com/rtm-ch039/rtm-ch039/chunklist.m3u8"
         }
     ]
 }
