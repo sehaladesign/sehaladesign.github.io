@@ -4,7 +4,7 @@
             "name": "Radio Quraan",
             "language": "Arabic",
             "thumbnail": "https://i.imgur.com/V8UUOiR.png",
-            "url": "http://66.45.232.131:9994/listen.pls"
+            "url": "mms://66.45.232.131:9994"
         },
         {
             "name": "Sinar FM",
