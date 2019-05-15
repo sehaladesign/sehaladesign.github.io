@@ -84,5 +84,12 @@
             "thumbnail": "https://i.imgur.com/VXFriqE.png",
             "url": "https://kelantanfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch032/rtm-ch032-96000.m3u8"
         }
+        ,
+        {
+            "name": "bernama",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/VXFriqE.png",
+            "url": "https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8"
+        }
     ]
 }
