@@ -65,6 +65,18 @@
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/ZhwA93I.png",
             "url": "https://klfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch018/rtm-ch018-96000.m3u8"
+        },
+        {
+            "name": "Selangor FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/iEgJggK.png",
+            "url": "https://selangorfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch023/seg96000-00926020.aac"
+        },
+        {
+            "name": "Kedah FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/w32ehYP.png",
+            "url": "https://kedahfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/seg96000-00926379.aac"
         }
     ]
 }
