@@ -9,6 +9,26 @@
             "name": "Ikim FM",
             "thumbnail": "https://i.imgur.com/hd37eiC.png",
             "url": "https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999&facebook=false"
+        },
+        {
+            "name": "Gegar FM",
+            "thumbnail": "https://i.imgur.com/d9kiA9I.png",
+            "url": "http://astro3.rastream.com/gegar"
+        },
+        {
+            "name": "Era FM",
+            "thumbnail": "https://i.imgur.com/pY7qT6I.png",
+            "url": "http://astro2.rastream.com/era"
+        },
+        {
+            "name": "Hitz FM",
+            "thumbnail": "https://i.imgur.com/M4v9jil.png",
+            "url": "http://astro1.rastream.com/hitz"
+        },
+        {
+            "name": "Suria FM",
+            "thumbnail": "https://i.imgur.com/2AWtFAQ.png",
+            "url": "http://starrfm.rastream.com/starrfm-suria"
         }
     ]
 }
