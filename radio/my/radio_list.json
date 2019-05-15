@@ -119,6 +119,48 @@
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/a1gXIOU.png",
             "url": "https://mutiarafm.secureswiftcontent.com/rtm-ch039/rtm-ch039/chunklist.m3u8"
+        },
+        {
+            "name": "Radio Klasik",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/lcNziwy.png",
+            "url": "https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8"
+        },
+        {
+            "name": "Kool FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/pT1v5MB.png",
+            "url": "http://mediaprima.rastream.com/mediaprima-koolfm"
+        },
+        {
+            "name": "Nasional FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/Dn9GFZu.png",
+            "url": "https://nasionalfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8"
+        },
+        {
+            "name": "Durian FM",
+            "language": "Chinese",
+            "thumbnail": "https://i.imgur.com/wjDHXBU.png",
+            "url": "http://s3.voscast.com:7140/stream/1/"
+        },
+        {
+            "name": "Traxx FM",
+            "language": "English",
+            "thumbnail": "https://i.imgur.com/8IIex8N.png",
+            "url": "https://traxxfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8"
+        },
+        {
+            "name": "Salam FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/bc6VyLr.png",
+            "url": "https://salamfm.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8"
+        },
+        {
+            "name": "Sabah FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/nl6uugu.png",
+            "url": "http://192.111.140.6:8131/;"
         }
     ]
 }
