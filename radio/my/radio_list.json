@@ -16,7 +16,7 @@
             "name": "Ikim FM",
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/hd37eiC.png",
-            "url": "http://50.7.96.210:8285/;stream.mp3:21"
+            "url": "https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999&facebook=false"
         },
         {
             "name": "Gegar FM",
@@ -167,6 +167,18 @@
             "language": "Malay",
             "thumbnail": "https://i.imgur.com/nl6uugu.png",
             "url": "http://192.111.140.6:8131/;"
+        },
+        {
+            "name": "Johor FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/FGVFwWv.png",
+            "url": "https://johorfm.secureswiftcontent.com/rtm-ch035/rtm-ch035_aac/chunklist.m3u8"
+        },
+        {
+            "name": "Pahang FM",
+            "language": "Malay",
+            "thumbnail": "https://i.imgur.com/dtMJSsJ.jpg",
+            "url": "https://pahangfm.secureswiftcontent.com/rtm-ch034/rtm-ch034/chunklist.m3u8"
         }
     ]
 }
