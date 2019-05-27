@@ -1,0 +1,672 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7mJ9rvnlOs2SB_ZxJXbV5HgY4cE\"",
+ "nextPageToken": "CBQQAA",
+ "regionCode": "MY",
+ "pageInfo": {
+  "totalResults": 286332,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oZtBPl3TFN-6t7IE7hWoZ5k7T2Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9Tr3FRc-I7I"
+   },
+   "snippet": {
+    "publishedAt": "2016-09-04T14:20:06.000Z",
+    "channelId": "UCJ37YA_iAzyMwWekDZmgE1g",
+    "title": "Surah Al Waqiah: STUNNING RECITATION",
+    "description": "Video Made By Omar Hisham Al Arabi For TheProphetsPath Video Credits Goes To: https://www.youtube.com/omarhishamala.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9Tr3FRc-I7I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9Tr3FRc-I7I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9Tr3FRc-I7I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TheProphetsPath",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iASerf77ZoCdbp6Bz6pbFaJ0wPY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "N78PGdl2-Wo"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-28T12:01:49.000Z",
+    "channelId": "UCZroRfReVx02IpQ2pf0RNmA",
+    "title": "Surah Al-Waqiah Full |Sheikh Shuraim (HD)With Arabic Text |سورة الواقعة|",
+    "description": "Recitation Of Surah Waqiah By Sheikh Shuraim With Arabic Text.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N78PGdl2-Wo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N78PGdl2-Wo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N78PGdl2-Wo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "IQRA AL-QURAN",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1JqChXTfPmiKTJgMGDnxnpyJjqw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "fr5dXwPwIFc"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-29T08:05:27.000Z",
+    "channelId": "UChJZCGpN6YJLMVU8zOWE5Tg",
+    "title": "New 2017 Abdul Rahman Al Ossi Surah Waqiah | Best Quran Recitation 2017 |",
+    "description": "Like comment share & subscribe for more videos Follow us on : Facebook : https://www.facebook.com/profile.php?id=100008441133136&fref=ts.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fr5dXwPwIFc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fr5dXwPwIFc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fr5dXwPwIFc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "محمد رقيب الدين",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ss-La2anYxq-DhEivGNzArZydmU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TwT6k6j7qJI"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-13T17:00:06.000Z",
+    "channelId": "UC8TyTcK5sjO1unJqngkL_VA",
+    "title": "Surah Waqiah (سورة الواقعة) Zain Abu Kautsar - Very Emotional",
+    "description": "Please DONATE to keep the channel alive: https://www.paypal.me/thefinalrevelation These videos take a lot of time, effort and money to make. Please donate to ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TwT6k6j7qJI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TwT6k6j7qJI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TwT6k6j7qJI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TheFinalRevelation",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/X6spZzzeXJNke-1u5kBhNDirxMk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TUj6lTXGIVM"
+   },
+   "snippet": {
+    "publishedAt": "2012-01-17T05:45:40.000Z",
+    "channelId": "UCL_LG-kJbCosOlXxzHT_lHg",
+    "title": "Surah Al Waqiah Complete recited by Mishary Al Afasy",
+    "description": "This is a full recitiation of chapter 56 of the glorious and noble Quran. This is a recitation by Sheikh Mishary Al Afasy. According to the sunnah of our noble and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TUj6lTXGIVM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TUj6lTXGIVM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TUj6lTXGIVM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DeenofIslam1",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lOlzDViJ14wpy7bfTBKcKqzpIBk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "F8MkkUcE1kI"
+   },
+   "snippet": {
+    "publishedAt": "2012-11-22T06:32:35.000Z",
+    "channelId": "UCJ4e7jV4kAgnF9nb_rDnIqg",
+    "title": "Surah Al-Waqiah - Mishary Rashid Al Falasy",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F8MkkUcE1kI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F8MkkUcE1kI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F8MkkUcE1kI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aditya Raja Kelana",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5Z0RR4QuDu7byTb6poCuCWYx8dk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mCPR_FDqgqM"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-03T05:08:33.000Z",
+    "channelId": "UC2j9LdIY0pVD-1-0Hz81vvQ",
+    "title": "Surah Yasin, ArRahman, Al Mulk &amp; Al Waqiah - Beautiful recitation by Mishary Rashid Alafasy",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mCPR_FDqgqM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mCPR_FDqgqM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mCPR_FDqgqM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hafiz7500",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DvbepB_RrCmyUn40VVnhiqQYrA8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EzFlRPWycpg"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-24T17:07:39.000Z",
+    "channelId": "UCvv7gvo7ZtNd0FTUGNdKs1w",
+    "title": "SURAH AL WAQIAH *NEW* سورة الواقعة *جديد",
+    "description": "Omar Hisham Al Arabi عمر هشام العربي Tajweed مجوّد SUBSCRIBE by clicking here http://bit.ly/1OTKL5z اشتترك في القناة BECOME A SUPPORTER OF THE ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EzFlRPWycpg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EzFlRPWycpg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EzFlRPWycpg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Omar Hisham Al Arabi",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vrcl0v5VehRQjLYq7za3bhHtWKc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NvZRF5w6prM"
+   },
+   "snippet": {
+    "publishedAt": "2016-09-05T01:30:16.000Z",
+    "channelId": "UCXVAihxUyDNMFDBkRJDSdKA",
+    "title": "Surah Al Waqiah STUNNING RECITATION",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NvZRF5w6prM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NvZRF5w6prM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NvZRF5w6prM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TheAlikassem",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/76FkJWsn72PKngCEJRpG9Fs-DJc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "R1UP_tHS2sU"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-23T02:47:16.000Z",
+    "channelId": "UCGrka8NAhs6N8qJKaiRiNsQ",
+    "title": "Surah Al-Waqiah beautiful recitation by Abdur-Rahman Al OSSi",
+    "description": "Amazing and soothing recitation of Surah al-Waqiah. Urdu and English subtitles.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R1UP_tHS2sU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R1UP_tHS2sU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R1UP_tHS2sU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jannah [Paradise]",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MWDz3Ks04kmrvgeZIJ9zMWzt7jQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IY9mi9l-oC4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-22T17:44:13.000Z",
+    "channelId": "UCvv7gvo7ZtNd0FTUGNdKs1w",
+    "title": "Surah Al Waqiah - Omar Hisham (Arabi Style) سورة الواقعة  - باسلوب عربي اصيل",
+    "description": "SUBSCRIBE http://bit.ly/1OTKL5z اشتترك في القناة (TURN ON ) To support this channel: https://www.gofundme.com/OmarHishamAlarabi للتبرع ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IY9mi9l-oC4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IY9mi9l-oC4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IY9mi9l-oC4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Omar Hisham Al Arabi",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/A0BsefmsiviEemkKwiV_IjIIoT0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zB3T55MSlko"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-09T02:27:03.000Z",
+    "channelId": "UCwlLnLsvwcpP58Pm5aHUwsw",
+    "title": "Bacaan Merdu SURAH AL-WAQIAH (Surat Penarik Rizki)",
+    "description": "Tilawah oleh qari Muhammad Thaha Aljunaid.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zB3T55MSlko/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zB3T55MSlko/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zB3T55MSlko/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pengajian Baiturrahman",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4blSWPPOKOs7PfLIspQKveupR4E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pRxe3IDhzWI"
+   },
+   "snippet": {
+    "publishedAt": "2015-03-14T19:33:36.000Z",
+    "channelId": "UCS4daArKzAksof6SsEyrLqw",
+    "title": "056   Surah Al Waqia by Mishary Al Afasy (iRecite)",
+    "description": "For Tajweed videos, better explanation on Colors/Tajweed and to download the copy of Quran used in these videos go here: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pRxe3IDhzWI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pRxe3IDhzWI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pRxe3IDhzWI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "M Asif",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jOqgqA0F5u4QfmxFjx8ZTL9Xguk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UISG5AT1qW0"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-21T04:47:55.000Z",
+    "channelId": "UCJ37YA_iAzyMwWekDZmgE1g",
+    "title": "SURAH AL WAQIAH (BEAUTIFUL SOFT VOICE)",
+    "description": "Donate For TheProphetsPath Here: https://bit.ly/2L4TuEM ▻Buy Our Sweaters Here: https://goo.gl/bS5Abh ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UISG5AT1qW0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UISG5AT1qW0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UISG5AT1qW0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TheProphetsPath",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ix9lDeH0GyEDGG-iCC8d45YKEO8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nWJsKHdRej4"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-18T01:25:33.000Z",
+    "channelId": "UCuS61gxEp4XF7T_A0vVIPEQ",
+    "title": "Surah Al Waqi&#39;ah - Ustadz Tengku Hanan Attaki (Beautiful Recitation)",
+    "description": "Mari kita tadabburi bersama isi dan kandungan dari setiap ayat yang terdapat pada surah Al-Waqi'ah yang sangat menyentuh hati ini. Surah Al-Waqi'ah ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nWJsKHdRej4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nWJsKHdRej4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nWJsKHdRej4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Iqbal Emran",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8mgBVToudMJT8mPPYzobTIoVrZg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YNRjDCuNa0k"
+   },
+   "snippet": {
+    "publishedAt": "2016-09-18T16:07:30.000Z",
+    "channelId": "UCZIw6unwqg_NC6dATAaaNNQ",
+    "title": "Indah bacaan surah Al Waqiah oleh qari Muzammil Hasballah",
+    "description": "Bacaan terbaik | Qari Muzammil Hasballah https://youtu.be/aml7xfW2bJo.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YNRjDCuNa0k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YNRjDCuNa0k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YNRjDCuNa0k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "مكتبة أروع التلاوات",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wuMud4nm1PYkjzsZwfsYs14SeOA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "f1Wlx6tXlhI"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-19T11:18:17.000Z",
+    "channelId": "UCyOwLIZ-K4eEqiGGmsISBpg",
+    "title": "Quran Recitation Really Beautiful Amazing | Surah Al-Waqi`ah by Sheikh Saeed Al Khateeb | AWAZ",
+    "description": "Please watch this new video: \"The Most Beautiful Quran Recitation | Emotional Recitation by Sheikh Saeed Al Khateeb || AWAZ\" ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f1Wlx6tXlhI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f1Wlx6tXlhI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f1Wlx6tXlhI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AWAZ",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mcFXTMF4HAXH74PfoWzekDSUDDo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SOFyTMPBV0A"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-05T04:11:51.000Z",
+    "channelId": "UCub7s21mrkZ33rebN_prMKA",
+    "title": "Surah Al Waqiah - Mishary Rashid Al Falasy - Terjemahan Bahasa Melayu",
+    "description": "Surah Al Waqiah - Mishary Rashid Al Falasy - Terjemahan Bahasa Melayu.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SOFyTMPBV0A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SOFyTMPBV0A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SOFyTMPBV0A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "nor azmi Ahmad",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_8nlRkFnLcrdBMnJIYjaMngSIIo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FFiDzzkVM6o"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-02T04:27:26.000Z",
+    "channelId": "UCQOD0RBBTpas1ZXVsrR4wNA",
+    "title": "Maryam is reciting Surah Al-Waqi&#39;ah in a heart touching voice",
+    "description": "Maryam is reciting Surah Al-Waqi'ah in a heart touching voice. This video is captured in the South Caribbean Island of Aruba in August 2014. Please \"Share\" this ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FFiDzzkVM6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FFiDzzkVM6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FFiDzzkVM6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Maryam Masud",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qFjDjkpMc1U9ADDesWk_saq1gnE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tdZTsOBUfDY"
+   },
+   "snippet": {
+    "publishedAt": "2016-03-15T21:14:19.000Z",
+    "channelId": "UCyxM7MgZkDe5stZpb6CiOcA",
+    "title": "Heart Touching Recitation | AL-WAQI&#39;AH (The Inevitable) - Qari Youssef Edghouch",
+    "description": "Like DigitalMimbar on Facebook: http://www.fb.com/TheMimbar Follow DigitalMimbar on Twitter: http://twitter.com/DigitalMimbar Subscribe To DigitalMimbar ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tdZTsOBUfDY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tdZTsOBUfDY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tdZTsOBUfDY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Digital Mimbar",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
