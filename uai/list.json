@@ -10,663 +10,3304 @@
  "items": [
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oZtBPl3TFN-6t7IE7hWoZ5k7T2Y\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/12TCtwWF25U8BZqb8NtkEdGqGHo\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "9Tr3FRc-I7I"
+    "videoId": "v5ReaDDrecg"
    },
    "snippet": {
-    "publishedAt": "2016-09-04T14:20:06.000Z",
-    "channelId": "UCJ37YA_iAzyMwWekDZmgE1g",
-    "title": "Surah Al Waqiah: STUNNING RECITATION",
-    "description": "Video Made By Omar Hisham Al Arabi For TheProphetsPath Video Credits Goes To: https://www.youtube.com/omarhishamala.",
+    "publishedAt": "2014-12-15T07:45:53.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Motor VS BN  Jahat Soalang LAWAK kiki   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/9Tr3FRc-I7I/default.jpg",
+      "url": "https://i.ytimg.com/vi/v5ReaDDrecg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/9Tr3FRc-I7I/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/v5ReaDDrecg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/9Tr3FRc-I7I/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/v5ReaDDrecg/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TheProphetsPath",
+    "channelTitle": "MH Pro Channel",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iASerf77ZoCdbp6Bz6pbFaJ0wPY\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7n9zXjjbN6EZ9Uqt8Xj9gbObCwE\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "N78PGdl2-Wo"
+    "videoId": "clWUhst-rkc"
    },
    "snippet": {
-    "publishedAt": "2017-03-28T12:01:49.000Z",
-    "channelId": "UCZroRfReVx02IpQ2pf0RNmA",
-    "title": "Surah Al-Waqiah Full |Sheikh Shuraim (HD)With Arabic Text |سورة الواقعة|",
-    "description": "Recitation Of Surah Waqiah By Sheikh Shuraim With Arabic Text.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/N78PGdl2-Wo/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/N78PGdl2-Wo/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/N78PGdl2-Wo/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "IQRA AL-QURAN",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1JqChXTfPmiKTJgMGDnxnpyJjqw\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "fr5dXwPwIFc"
-   },
-   "snippet": {
-    "publishedAt": "2017-03-29T08:05:27.000Z",
-    "channelId": "UChJZCGpN6YJLMVU8zOWE5Tg",
-    "title": "New 2017 Abdul Rahman Al Ossi Surah Waqiah | Best Quran Recitation 2017 |",
-    "description": "Like comment share & subscribe for more videos Follow us on : Facebook : https://www.facebook.com/profile.php?id=100008441133136&fref=ts.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/fr5dXwPwIFc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/fr5dXwPwIFc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/fr5dXwPwIFc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "محمد رقيب الدين",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ss-La2anYxq-DhEivGNzArZydmU\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "TwT6k6j7qJI"
-   },
-   "snippet": {
-    "publishedAt": "2018-09-13T17:00:06.000Z",
-    "channelId": "UC8TyTcK5sjO1unJqngkL_VA",
-    "title": "Surah Waqiah (سورة الواقعة) Zain Abu Kautsar - Very Emotional",
-    "description": "Please DONATE to keep the channel alive: https://www.paypal.me/thefinalrevelation These videos take a lot of time, effort and money to make. Please donate to ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/TwT6k6j7qJI/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/TwT6k6j7qJI/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/TwT6k6j7qJI/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "TheFinalRevelation",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/X6spZzzeXJNke-1u5kBhNDirxMk\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "TUj6lTXGIVM"
-   },
-   "snippet": {
-    "publishedAt": "2012-01-17T05:45:40.000Z",
-    "channelId": "UCL_LG-kJbCosOlXxzHT_lHg",
-    "title": "Surah Al Waqiah Complete recited by Mishary Al Afasy",
-    "description": "This is a full recitiation of chapter 56 of the glorious and noble Quran. This is a recitation by Sheikh Mishary Al Afasy. According to the sunnah of our noble and ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/TUj6lTXGIVM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/TUj6lTXGIVM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/TUj6lTXGIVM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "DeenofIslam1",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lOlzDViJ14wpy7bfTBKcKqzpIBk\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "F8MkkUcE1kI"
-   },
-   "snippet": {
-    "publishedAt": "2012-11-22T06:32:35.000Z",
-    "channelId": "UCJ4e7jV4kAgnF9nb_rDnIqg",
-    "title": "Surah Al-Waqiah - Mishary Rashid Al Falasy",
+    "publishedAt": "2012-03-25T17:24:16.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Nikah Misyar",
     "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/F8MkkUcE1kI/default.jpg",
+      "url": "https://i.ytimg.com/vi/clWUhst-rkc/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/F8MkkUcE1kI/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/clWUhst-rkc/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/F8MkkUcE1kI/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/clWUhst-rkc/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Aditya Raja Kelana",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5Z0RR4QuDu7byTb6poCuCWYx8dk\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wQb9kdu_bIgaekp4rMSQItNAYzI\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "mCPR_FDqgqM"
+    "videoId": "S-dG7_g3UTs"
    },
    "snippet": {
-    "publishedAt": "2018-10-03T05:08:33.000Z",
-    "channelId": "UC2j9LdIY0pVD-1-0Hz81vvQ",
-    "title": "Surah Yasin, ArRahman, Al Mulk &amp; Al Waqiah - Beautiful recitation by Mishary Rashid Alafasy",
+    "publishedAt": "2019-02-09T05:40:37.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Buka Tudung Kerana Iman Tak Kuat - Ustaz Azhar Idrus Official",
+    "description": "Kuliyyah Dhuha & Soal Jawab Ustaz Azhar Idrus 09 February 2019 ⏰ 9.00 am Mahad Tahfiz Mutmainnah, Masjid Permatang Berangan Sungai Petani, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S-dG7_g3UTs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S-dG7_g3UTs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S-dG7_g3UTs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XUONbt8mGZGQnpP3tIjQ8YKYfGw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KrjRwc_bgIs"
+   },
+   "snippet": {
+    "publishedAt": "2016-04-10T22:22:53.000Z",
+    "channelId": "UCBG85NY45Xbd-bEyCYi0XSQ",
+    "title": "Soal jawab aqiqah | Ustaz Azhar Idrus (UAI)",
+    "description": "Soal jawab aqiqah | Ustaz Azhar Idrus (UAI) Daripada Abdullah bin Amr r.a, bahawa Nabi Muhammad SAW bersabda,\" Maksudnya \"SAMPAIKANLAH DARIKU ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KrjRwc_bgIs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KrjRwc_bgIs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KrjRwc_bgIs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Geng Ngaji",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6uSRHqNGTc0FBgbkJdeFd1UW0iE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dHYPDq3YAs0"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T07:59:02.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "DENGAR MOLEK Bilangan Hari Haid, Istihadah &amp; Bagaimana Membezakannya     Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dHYPDq3YAs0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dHYPDq3YAs0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dHYPDq3YAs0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kh8stWDX_xkWCCoJ2pJQ35umrQQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HoPm9I_YkkA"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-28T04:54:07.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Gemar Muzik Metal",
     "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/mCPR_FDqgqM/default.jpg",
+      "url": "https://i.ytimg.com/vi/HoPm9I_YkkA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/mCPR_FDqgqM/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/HoPm9I_YkkA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/mCPR_FDqgqM/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/HoPm9I_YkkA/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Hafiz7500",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DvbepB_RrCmyUn40VVnhiqQYrA8\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_N_F3cO3Gp_wUo0cyLJO0VlTeOo\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "EzFlRPWycpg"
+    "videoId": "WzLMz1FMxLg"
    },
    "snippet": {
-    "publishedAt": "2016-06-24T17:07:39.000Z",
-    "channelId": "UCvv7gvo7ZtNd0FTUGNdKs1w",
-    "title": "SURAH AL WAQIAH *NEW* سورة الواقعة *جديد",
-    "description": "Omar Hisham Al Arabi عمر هشام العربي Tajweed مجوّد SUBSCRIBE by clicking here http://bit.ly/1OTKL5z اشتترك في القناة BECOME A SUPPORTER OF THE ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/EzFlRPWycpg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/EzFlRPWycpg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/EzFlRPWycpg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "Omar Hisham Al Arabi",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vrcl0v5VehRQjLYq7za3bhHtWKc\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "NvZRF5w6prM"
-   },
-   "snippet": {
-    "publishedAt": "2016-09-05T01:30:16.000Z",
-    "channelId": "UCXVAihxUyDNMFDBkRJDSdKA",
-    "title": "Surah Al Waqiah STUNNING RECITATION",
+    "publishedAt": "2012-04-04T15:49:03.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Guna Alat Pemuas Nafsu",
     "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/NvZRF5w6prM/default.jpg",
+      "url": "https://i.ytimg.com/vi/WzLMz1FMxLg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/NvZRF5w6prM/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/WzLMz1FMxLg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/NvZRF5w6prM/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/WzLMz1FMxLg/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TheAlikassem",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/76FkJWsn72PKngCEJRpG9Fs-DJc\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RJgMJ_nt9Tq6N3Pz1yXMy3T2408\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "R1UP_tHS2sU"
+    "videoId": "M1htfBbFiws"
    },
    "snippet": {
-    "publishedAt": "2018-02-23T02:47:16.000Z",
-    "channelId": "UCGrka8NAhs6N8qJKaiRiNsQ",
-    "title": "Surah Al-Waqiah beautiful recitation by Abdur-Rahman Al OSSi",
-    "description": "Amazing and soothing recitation of Surah al-Waqiah. Urdu and English subtitles.",
+    "publishedAt": "2015-06-10T14:23:00.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Kenapa orang perempuan kuat merajuk? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kenapa orang perempuan kuat merajuk? Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/R1UP_tHS2sU/default.jpg",
+      "url": "https://i.ytimg.com/vi/M1htfBbFiws/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/R1UP_tHS2sU/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/M1htfBbFiws/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/R1UP_tHS2sU/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/M1htfBbFiws/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Jannah [Paradise]",
+    "channelTitle": "Ustaz Azhar Idrus",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MWDz3Ks04kmrvgeZIJ9zMWzt7jQ\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VEG5_Ez933aQd18Zejew9myACn0\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "IY9mi9l-oC4"
+    "videoId": "L9TxXwit9Pw"
    },
    "snippet": {
-    "publishedAt": "2019-05-22T17:44:13.000Z",
-    "channelId": "UCvv7gvo7ZtNd0FTUGNdKs1w",
-    "title": "Surah Al Waqiah - Omar Hisham (Arabi Style) سورة الواقعة  - باسلوب عربي اصيل",
-    "description": "SUBSCRIBE http://bit.ly/1OTKL5z اشتترك في القناة (TURN ON ) To support this channel: https://www.gofundme.com/OmarHishamAlarabi للتبرع ...",
+    "publishedAt": "2014-12-12T01:33:20.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Hukum Beli Murah Jual Mahal   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/IY9mi9l-oC4/default.jpg",
+      "url": "https://i.ytimg.com/vi/L9TxXwit9Pw/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/IY9mi9l-oC4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/L9TxXwit9Pw/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/IY9mi9l-oC4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/L9TxXwit9Pw/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Omar Hisham Al Arabi",
+    "channelTitle": "MH Pro Channel",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/A0BsefmsiviEemkKwiV_IjIIoT0\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tLQjFQetB3iZ8UDj5Ey0R3lVwbc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "zB3T55MSlko"
+    "videoId": "0KUmQ7sUhrg"
    },
    "snippet": {
-    "publishedAt": "2019-01-09T02:27:03.000Z",
-    "channelId": "UCwlLnLsvwcpP58Pm5aHUwsw",
-    "title": "Bacaan Merdu SURAH AL-WAQIAH (Surat Penarik Rizki)",
-    "description": "Tilawah oleh qari Muhammad Thaha Aljunaid.",
+    "publishedAt": "2012-04-04T13:38:04.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Alih Rambut Kat Dahi Masa Sujud",
+    "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/zB3T55MSlko/default.jpg",
+      "url": "https://i.ytimg.com/vi/0KUmQ7sUhrg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/zB3T55MSlko/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/0KUmQ7sUhrg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/zB3T55MSlko/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/0KUmQ7sUhrg/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Pengajian Baiturrahman",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4blSWPPOKOs7PfLIspQKveupR4E\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PwHHfhlf1yn701gE6Bq-ELS67ng\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "pRxe3IDhzWI"
+    "videoId": "asskxCnwdyU"
    },
    "snippet": {
-    "publishedAt": "2015-03-14T19:33:36.000Z",
-    "channelId": "UCS4daArKzAksof6SsEyrLqw",
-    "title": "056   Surah Al Waqia by Mishary Al Afasy (iRecite)",
-    "description": "For Tajweed videos, better explanation on Colors/Tajweed and to download the copy of Quran used in these videos go here: ...",
+    "publishedAt": "2012-03-27T19:08:01.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Bapak Susu Boleh Jadi Wali ke?",
+    "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/pRxe3IDhzWI/default.jpg",
+      "url": "https://i.ytimg.com/vi/asskxCnwdyU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/pRxe3IDhzWI/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/asskxCnwdyU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/pRxe3IDhzWI/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/asskxCnwdyU/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "M Asif",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jOqgqA0F5u4QfmxFjx8ZTL9Xguk\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/297cPJYelfppgM7xXAJaaT4DDTc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "UISG5AT1qW0"
+    "videoId": "flJf0itRFAA"
    },
    "snippet": {
-    "publishedAt": "2018-10-21T04:47:55.000Z",
-    "channelId": "UCJ37YA_iAzyMwWekDZmgE1g",
-    "title": "SURAH AL WAQIAH (BEAUTIFUL SOFT VOICE)",
-    "description": "Donate For TheProphetsPath Here: https://bit.ly/2L4TuEM ▻Buy Our Sweaters Here: https://goo.gl/bS5Abh ...",
+    "publishedAt": "2014-12-15T07:51:49.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Ringtone Soalan Seterusnyaaaaa   lawak!   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/UISG5AT1qW0/default.jpg",
+      "url": "https://i.ytimg.com/vi/flJf0itRFAA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/UISG5AT1qW0/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/flJf0itRFAA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/UISG5AT1qW0/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/flJf0itRFAA/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "TheProphetsPath",
+    "channelTitle": "MH Pro Channel",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ix9lDeH0GyEDGG-iCC8d45YKEO8\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/N0xfqIV14rY2W5IxrgjgFLlPQMs\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "nWJsKHdRej4"
+    "videoId": "XO1wqxIHcH8"
    },
    "snippet": {
-    "publishedAt": "2017-07-18T01:25:33.000Z",
-    "channelId": "UCuS61gxEp4XF7T_A0vVIPEQ",
-    "title": "Surah Al Waqi&#39;ah - Ustadz Tengku Hanan Attaki (Beautiful Recitation)",
-    "description": "Mari kita tadabburi bersama isi dan kandungan dari setiap ayat yang terdapat pada surah Al-Waqi'ah yang sangat menyentuh hati ini. Surah Al-Waqi'ah ...",
+    "publishedAt": "2012-03-28T19:59:32.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Nikan Dengan Pompuan Bani Israil",
+    "description": "Keutamaan Mengamalkan dan Menyebarkan Ilmu. Dari Ibnu Abbas, dia berkata: Rasulullah SAW bersabda, \"Kalian yang telah mendengarkan (hadis dari ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/nWJsKHdRej4/default.jpg",
+      "url": "https://i.ytimg.com/vi/XO1wqxIHcH8/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/nWJsKHdRej4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/XO1wqxIHcH8/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/nWJsKHdRej4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/XO1wqxIHcH8/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Iqbal Emran",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8mgBVToudMJT8mPPYzobTIoVrZg\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/h3D4QG_B-csmvWul-CYZGoN_XhI\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "YNRjDCuNa0k"
+    "videoId": "tMBKF35q3ZY"
    },
    "snippet": {
-    "publishedAt": "2016-09-18T16:07:30.000Z",
-    "channelId": "UCZIw6unwqg_NC6dATAaaNNQ",
-    "title": "Indah bacaan surah Al Waqiah oleh qari Muzammil Hasballah",
-    "description": "Bacaan terbaik | Qari Muzammil Hasballah https://youtu.be/aml7xfW2bJo.",
+    "publishedAt": "2016-09-25T12:51:47.000Z",
+    "channelId": "UCBG85NY45Xbd-bEyCYi0XSQ",
+    "title": "Apa jadi jika tidak lepas soal kubur? | UAI",
+    "description": "Apa jadi jika tidak lepas soal kubur? | UAI Ustaz Azhar Idrus Daripada 'Abdullah bin 'Amru bin al-'Ash RA., Nabi Muhammad SAW bersabda: “Sampaikanlah ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/YNRjDCuNa0k/default.jpg",
+      "url": "https://i.ytimg.com/vi/tMBKF35q3ZY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/YNRjDCuNa0k/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/tMBKF35q3ZY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/YNRjDCuNa0k/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/tMBKF35q3ZY/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "مكتبة أروع التلاوات",
+    "channelTitle": "Geng Ngaji",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wuMud4nm1PYkjzsZwfsYs14SeOA\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EW1W54S3xPDasd0wtscgY2uhtwI\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "f1Wlx6tXlhI"
+    "videoId": "HcNHfTKwJ0U"
    },
    "snippet": {
-    "publishedAt": "2018-11-19T11:18:17.000Z",
-    "channelId": "UCyOwLIZ-K4eEqiGGmsISBpg",
-    "title": "Quran Recitation Really Beautiful Amazing | Surah Al-Waqi`ah by Sheikh Saeed Al Khateeb | AWAZ",
-    "description": "Please watch this new video: \"The Most Beautiful Quran Recitation | Emotional Recitation by Sheikh Saeed Al Khateeb || AWAZ\" ...",
+    "publishedAt": "2012-03-28T05:35:44.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Simpan Ayat Quran + Dgn lagu Dalam Handphone",
+    "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/f1Wlx6tXlhI/default.jpg",
+      "url": "https://i.ytimg.com/vi/HcNHfTKwJ0U/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/f1Wlx6tXlhI/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/HcNHfTKwJ0U/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/f1Wlx6tXlhI/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/HcNHfTKwJ0U/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "AWAZ",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mcFXTMF4HAXH74PfoWzekDSUDDo\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gSL34iXOf5FoydRNaNgi6OFxsQ0\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "SOFyTMPBV0A"
+    "videoId": "LVrd4EyYfrg"
    },
    "snippet": {
-    "publishedAt": "2017-01-05T04:11:51.000Z",
-    "channelId": "UCub7s21mrkZ33rebN_prMKA",
-    "title": "Surah Al Waqiah - Mishary Rashid Al Falasy - Terjemahan Bahasa Melayu",
-    "description": "Surah Al Waqiah - Mishary Rashid Al Falasy - Terjemahan Bahasa Melayu.",
+    "publishedAt": "2015-06-24T04:42:55.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Terlebih rakaat. Perlu buat balik atau tidak? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Terlebih rakaat. perlu buat balik atau tidak? Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/SOFyTMPBV0A/default.jpg",
+      "url": "https://i.ytimg.com/vi/LVrd4EyYfrg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/SOFyTMPBV0A/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/LVrd4EyYfrg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/SOFyTMPBV0A/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/LVrd4EyYfrg/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "nor azmi Ahmad",
+    "channelTitle": "Ustaz Azhar Idrus",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_8nlRkFnLcrdBMnJIYjaMngSIIo\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/K4GozxyMjIrUc9Wbc13Cma_Xj_4\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "FFiDzzkVM6o"
+    "videoId": "GoW4CLjbwFU"
    },
    "snippet": {
-    "publishedAt": "2016-06-02T04:27:26.000Z",
-    "channelId": "UCQOD0RBBTpas1ZXVsrR4wNA",
-    "title": "Maryam is reciting Surah Al-Waqi&#39;ah in a heart touching voice",
-    "description": "Maryam is reciting Surah Al-Waqi'ah in a heart touching voice. This video is captured in the South Caribbean Island of Aruba in August 2014. Please \"Share\" this ...",
+    "publishedAt": "2012-03-27T20:05:12.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Air Mazi",
+    "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/FFiDzzkVM6o/default.jpg",
+      "url": "https://i.ytimg.com/vi/GoW4CLjbwFU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/FFiDzzkVM6o/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/GoW4CLjbwFU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/FFiDzzkVM6o/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/GoW4CLjbwFU/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Maryam Masud",
+    "channelTitle": "Tok Batin",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qFjDjkpMc1U9ADDesWk_saq1gnE\"",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZJj1YytSMHX6340dtZIlkvK6z1c\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "tdZTsOBUfDY"
+    "videoId": "nznXL956drc"
    },
    "snippet": {
-    "publishedAt": "2016-03-15T21:14:19.000Z",
-    "channelId": "UCyxM7MgZkDe5stZpb6CiOcA",
-    "title": "Heart Touching Recitation | AL-WAQI&#39;AH (The Inevitable) - Qari Youssef Edghouch",
-    "description": "Like DigitalMimbar on Facebook: http://www.fb.com/TheMimbar Follow DigitalMimbar on Twitter: http://twitter.com/DigitalMimbar Subscribe To DigitalMimbar ...",
+    "publishedAt": "2012-03-28T18:57:35.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Selawat Syifa&#39;/Pemimpin Menyertai Perarakan Agama Lain",
+    "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/tdZTsOBUfDY/default.jpg",
+      "url": "https://i.ytimg.com/vi/nznXL956drc/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/tdZTsOBUfDY/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/nznXL956drc/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/tdZTsOBUfDY/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/nznXL956drc/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "Digital Mimbar",
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jkOKN99G_yC4aOIDWrlbVeN689c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vAMTVMYeapk"
+   },
+   "snippet": {
+    "publishedAt": "2014-11-07T09:06:06.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "UAI - Petua UAI Untuk Kuat Tenaga Batin",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... Album : 1 JAM SOAL JAWAB BERSAMA USTAZ ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vAMTVMYeapk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vAMTVMYeapk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vAMTVMYeapk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ajRvJFWeyP0HQ1CxN6S0hCkdRbg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2ElaBXRnbok"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-25T16:57:54.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Jamak Taqdim",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2ElaBXRnbok/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2ElaBXRnbok/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2ElaBXRnbok/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/r6ouzBsSn8FGm3Y98vhQaI6qRl0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "f45r-Ewx_Wg"
+   },
+   "snippet": {
+    "publishedAt": "2013-06-27T00:32:52.000Z",
+    "channelId": "UCJu3v6oceXfPwiz13QkDLZA",
+    "title": "Koleksi UAI 776   Soal Jawab Haji   Umrah   Ustaz Azhar Idrus",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f45r-Ewx_Wg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f45r-Ewx_Wg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f45r-Ewx_Wg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "budak kampong",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/k8QwXCg00C41cz-Rt_NL1ODaQ-Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GFN-MqUfWGE"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-28T19:40:00.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Tahu Hukum Agama Tapi Tak Setuju Wasiat Arwah Ayah",
+    "description": "Keutamaan Mengamalkan dan Menyebarkan Ilmu. Dari Ibnu Abbas, dia berkata: Rasulullah SAW bersabda, \"Kalian yang telah mendengarkan (hadis dari ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GFN-MqUfWGE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GFN-MqUfWGE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GFN-MqUfWGE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qlL011TLzjeltfaomr-i3PpZCY8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ANod4gMOTw8"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-09T13:11:37.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Apakah Soalan Yang Paling Susah Ustaz Nak Jawab Lawak - Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ANod4gMOTw8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ANod4gMOTw8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ANod4gMOTw8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OybIBizxAfPsb3zQUJCorlHLkDU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4ZKFUGZK1RE"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-27T00:48:35.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Letak Serban Atas Quran",
+    "description": "Keutamaan Mengamalkan dan Menyebarkan Ilmu. Dari Ibnu Abbas, dia berkata: Rasulullah SAW bersabda, \"Kalian yang telah mendengarkan (hadis dari ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4ZKFUGZK1RE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4ZKFUGZK1RE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4ZKFUGZK1RE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/f9aoA6PnJRa79PzQ4_U-vqs1RHI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "faoIIz6-OeE"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-25T16:31:27.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Kedekut Resepi Makanan",
+    "description": "Keutamaan Mengamalkan dan Menyebarkan Ilmu. Dari Ibnu Abbas, dia berkata: Rasulullah SAW bersabda, \"Kalian yang telah mendengarkan (hadis dari ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/faoIIz6-OeE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/faoIIz6-OeE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/faoIIz6-OeE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6nb4jwBYH5Bg9DdXWOEwcC_RQKU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cDD-vRG-89o"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-11T04:48:14.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "lawak habis Sayang Suami   Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cDD-vRG-89o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cDD-vRG-89o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cDD-vRG-89o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QwKXZDgQqrsi7fxClHleBNxtkho\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BMM-KVpUjnQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T11:37:15.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Jam Manunjukkan Habis Waktu Sahur, Tapi Bilal Belum Azan Lagi - Ustaz Azhar Idrus Official",
+    "description": "SOAL JAWAB RAMADHAN Kuliyah Maghrib Jemputan Ustaz Azhar Idrus 04 Mei 2019 ⏰ 07.45 malam Universiti Putra Malaysia, Serdang *Channel Rasmi ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BMM-KVpUjnQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BMM-KVpUjnQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BMM-KVpUjnQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KtHbuW-HR-MsKKtyg4gK3GYWAEo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "02MhTNd70lU"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T08:04:06.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "KELAKAR! Hukum Ibu Minum Susu Sendiri   Mu Jangan Kate Aku Test Doh!   Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/02MhTNd70lU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/02MhTNd70lU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/02MhTNd70lU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3jVlkMuqAIBtASXpAPwhJc15SbU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BUjJpp5caWo"
+   },
+   "snippet": {
+    "publishedAt": "2012-04-05T05:03:30.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Hasil Duit Jual Mercun",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BUjJpp5caWo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BUjJpp5caWo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BUjJpp5caWo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RvHaDhQb4OIhPD2WSWMfs5xKUPg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bQvRoZr4ajY"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:57:59.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Tak Solat Jumaat Kerana Kerja   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bQvRoZr4ajY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bQvRoZr4ajY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bQvRoZr4ajY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/osx6r9E3FfIbD2TtqG3QOs6jN3E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oCT5yDQCuKM"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-28T06:17:12.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Boleh ke Orang Kafir Masuk Masjid",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oCT5yDQCuKM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oCT5yDQCuKM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oCT5yDQCuKM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zj1R3q7nLMtfZBi-aGMRNbVVQCc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cTZdveKthJc"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-28T05:15:24.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Kahwin Di Thailand",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cTZdveKthJc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cTZdveKthJc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cTZdveKthJc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6PtoeeHJoEJyTplYN0Spwh1UGAQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GK9Ab51pdWQ"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-14T12:43:00.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Ber Onani Untuk Hilangkan Tekanan, Stress   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GK9Ab51pdWQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GK9Ab51pdWQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GK9Ab51pdWQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/UHoJoAqGB_adjnfVDkph5wuK1j0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "O2CQusuanEs"
+   },
+   "snippet": {
+    "publishedAt": "2014-11-12T06:26:06.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "TERBARU! UAI - COUPLE Tapi Niat Nak Berkahwin HALAL? Ustaz Yang Menyesatkan [KAPLEY]",
+    "description": "Terbaru! Masjid: Kg Pinang Merah Paka Terengganu Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O2CQusuanEs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O2CQusuanEs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O2CQusuanEs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kqyGrCkoVc_uf3Mef2WI99mKABQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "scvzySPsT7Q"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-16T01:02:20.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Ustaz Azhar Idrus   Ayah Pin Punya Hebat",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/scvzySPsT7Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/scvzySPsT7Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/scvzySPsT7Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BxMTZOE5NYJdcz3Lv7-U53ydR-0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LpT1aSnpd5w"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T08:06:45.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Dengor molek Maksud Bertunang Simple!     Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LpT1aSnpd5w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LpT1aSnpd5w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LpT1aSnpd5w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FgGZ2EuoscioYlB0BqtmjtyM_Ng\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hbDsZrgwNOQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-24T14:33:56.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Onani Pada Bulan Puasa - Ustaz Azhar Idrus Official",
+    "description": "Tazkirah & Soal Jawab Ramadhan - Ustaz Azhar Idrus Official 19 Mei 2019 ⏰ 06.00 Petang Masjid Kolam Kuala Ibai, Kuala Terengganu *Channel Rasmi ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hbDsZrgwNOQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hbDsZrgwNOQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hbDsZrgwNOQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GrzocDCDu0t8SUAFL3VOS75PTow\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ySme7DcF-qo"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:33:17.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Dosa Tak Diampun Walaupun Taubat Nasuha   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ySme7DcF-qo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ySme7DcF-qo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ySme7DcF-qo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yG8sK6VQSnfRPPsFwvOuD4fL27A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "chhjXIrTNUY"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-31T01:32:38.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Boleh Tak Pos Gambar Kemalangan Di Facebook? (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kijing 15 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/chhjXIrTNUY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/chhjXIrTNUY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/chhjXIrTNUY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zBjNRjCXTTVbPOaaTXZJp1lyRBk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "489hDhMpYIw"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-11T09:31:46.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Boleh ke bunuh nyamuk guna raket elektrik? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Boleh ke bunuh nyamuk guna raket elektrik? Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/489hDhMpYIw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/489hDhMpYIw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/489hDhMpYIw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/icLkwBAmoy0XxQlBcvjg3QliCFw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "p9jk-uJXorc"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-31T02:46:00.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Hubungan Dihalang Oleh Ibu Bapa (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kijing 17 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/p9jk-uJXorc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/p9jk-uJXorc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/p9jk-uJXorc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AG4kUMvZwmj6q99iOS4wnRfN-es\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ihP1HRcaBgI"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-26T09:53:06.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Buang Abu Quran Dalam Laut",
+    "description": "Keutamaan Mengamalkan dan Menyebarkan Ilmu. Dari Ibnu Abbas, dia berkata: Rasulullah SAW bersabda, \"Kalian yang telah mendengarkan (hadis dari ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ihP1HRcaBgI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ihP1HRcaBgI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ihP1HRcaBgI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jrXYX24YgexwBmX5ZflcyHedJZg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RLPcLIju8es"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T07:57:43.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "&#39; Sikit Sikit Belebel &#39; Lawak Habis   Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RLPcLIju8es/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RLPcLIju8es/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RLPcLIju8es/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VIksmwlFYCH6ZebCn-ObVtK2MT4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hK1PVNWub0M"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-27T13:00:02.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - UTP 7 (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: UTP 7 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: http://www.dailymotion.com/ustazharidrus ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hK1PVNWub0M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hK1PVNWub0M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hK1PVNWub0M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zBvyloYhQ5KdsSk_Q9fwUcO2uZc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "F6d3WsaDBYk"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T02:27:26.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Geletek Kentut Tahap Kronik  Seminit 142 Kali!  Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F6d3WsaDBYk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F6d3WsaDBYk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F6d3WsaDBYk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/UqAqlBDPBaOih039HYJoW5LxFdU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "blsNk62vIEk"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-10T13:00:03.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Apa Hukum Lap Air Wudhuk? - Ustaz Azhar Idrus Official",
+    "description": "Kuliyah Dhuha Jemputan Dewan Solat Utama, Masjid Al-Muktafi Billah Shah (Masjid Ladang 07 Julai 2018 (SOAL JAWAB FEQAH BAB TAHARAH & SOLAT ) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/blsNk62vIEk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/blsNk62vIEk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/blsNk62vIEk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ynfOHrKnTqEFT8VSLJB9KMGP7n0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "G4aC8OL8ALE"
+   },
+   "snippet": {
+    "publishedAt": "2012-03-26T10:35:40.000Z",
+    "channelId": "UC11F9VZh-qjkyCXmVupqArg",
+    "title": "Ustaz Azhar Idrus(UAI)-Soal Jawab-Cetak Tanpa Izin",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G4aC8OL8ALE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G4aC8OL8ALE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G4aC8OL8ALE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tok Batin",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JlWsAEwwomQLvCyM75jIKfqK4lE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-qml0N0s2vw"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-24T06:00:01.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Apakah saka itu wujud, Apakah ia akan mendampingi anak cucu? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Apakah saka itu wujud, Apakah ia akan mendampingi anak cucu? Subscribe di YouTube: http://smarturl.it/uai ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-qml0N0s2vw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-qml0N0s2vw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-qml0N0s2vw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dk6Xqg7u2NMlX2WMdV-NQFpZ6F8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lpyYSk3Jx40"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T01:36:48.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Hukum Berubat Dengan Bomoh Syirik   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lpyYSk3Jx40/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lpyYSk3Jx40/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lpyYSk3Jx40/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fmdx7xlb0RO4aH0nicHu8RO8pYA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5C1YPXKmGWo"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:32:21.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Berselisih Faham Adik Beradik   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5C1YPXKmGWo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5C1YPXKmGWo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5C1YPXKmGWo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+{
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/O_JGpJJ-JxGO6T9BEVeEDsPO0C4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GX9vSEO3TtA"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-01T07:00:15.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Apa kelebihan air musta&#39;mal? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Apa kelebihan air musta'mal? Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GX9vSEO3TtA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GX9vSEO3TtA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GX9vSEO3TtA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DjSs4X5K_Cb2_uDXFvXobLy4Zf8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7pkJrijJhB8"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-31T01:19:53.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Suka Tengok Cerita Lucah, Isteri Mintak Cerai? (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kijing 10 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7pkJrijJhB8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7pkJrijJhB8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7pkJrijJhB8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_JI4XY9BsWPItzATB1FOdQ8M6IE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4dk01mhXXYo"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-30T10:01:00.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Bilal Azan Salah (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kijing 4 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4dk01mhXXYo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4dk01mhXXYo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4dk01mhXXYo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Hh5qvFkUmMaOfi1YRcFkg7q88gw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "agerAdHrGbQ"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-30T09:58:05.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Niat Mahu Qada&#39; Sembahyang - (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kijing 3 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/agerAdHrGbQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/agerAdHrGbQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/agerAdHrGbQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rmxkhjRckkNuKEZGAvuEyTAq8w4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dbxLAgYr3Nk"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-24T14:38:26.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Masalah Niat Puasa - Ustaz Azhar Idrus Official",
+    "description": "Tazkirah & Soal Jawab Ramadhan - Ustaz Azhar Idrus Official 19 Mei 2019 ⏰ 06.00 Petang Masjid Kolam Kuala Ibai, Kuala Terengganu *Channel Rasmi ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dbxLAgYr3Nk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dbxLAgYr3Nk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dbxLAgYr3Nk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cY6QFVwZtkjWL7qcLh49KFQu2Tk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8HRhp_nlUlo"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-11T09:00:00.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Baca Surah An Nas Sebelum Angkat Takbir - Ustaz Azhar Idrus Official",
+    "description": "Kuliyah Dhuha Jemputan Dewan Solat Utama, Masjid Al-Muktafi Billah Shah (Masjid Ladang 07 Julai 2018 (SOAL JAWAB FEQAH BAB TAHARAH & SOLAT ) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8HRhp_nlUlo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8HRhp_nlUlo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8HRhp_nlUlo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FY0fzbJ_a00R1nvsnX26JWbzBLQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4VdR80zr608"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-14T13:09:26.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Suami KEDEKUT   Ramai Isteri TERTIPU      Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4VdR80zr608/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4VdR80zr608/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4VdR80zr608/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Oab4upHk81PYVzL641zYS59CKDI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NOhpNFaH9zY"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:53:53.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Sisa Makanan Di Celah Gigi Ketika Hendak Solat   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NOhpNFaH9zY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NOhpNFaH9zY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NOhpNFaH9zY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/keUYOuD-6wmKYE3FG0WY1dyrIFU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PV0ByVR3BNQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-10T11:22:13.000Z",
+    "channelId": "UCMagU2GG7VU39B07EYeyWHA",
+    "title": "soal jawab-Ustaz Azhar Idrus UAI@KLCC Dec16 3/3",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PV0ByVR3BNQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PV0ByVR3BNQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PV0ByVR3BNQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "mujaddid my",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mVmSA4Us-Ls5A362ofZ8mqKFEiY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wM9lP3ndI54"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-25T01:35:01.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Cerita Ustaz Dikacau Hantu - Ustaz Azhar Idrus (Official)",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wM9lP3ndI54/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wM9lP3ndI54/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wM9lP3ndI54/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LUN2pbJoVA7_z6OlzhCtprv710Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RFuc8_GTd4g"
+   },
+   "snippet": {
+    "publishedAt": "2014-08-02T22:15:03.000Z",
+    "channelId": "UCDeZu6O0dDAvogs5ZHjVNSQ",
+    "title": "(LAWAK SANGAT) Hingus Keluar Masa Solat - Ustaz Azhar Idrus Terbaru",
+    "description": "Jom Like Page: https://www.facebook.com/pages/Perkongsian-Ilmu-Ustaz-Azhar-Idrus/546563542111386 (Perkongsian ilmu Ustaz Azhar Idrus) Daripada ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RFuc8_GTd4g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RFuc8_GTd4g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RFuc8_GTd4g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ceramah UAI Mantop",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cL8nr_-KZUw_7LUO2weBkUjj4no\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2-lB0zbg7LU"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:28:59.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Bermimpi Jumpa dgn Orang Yang Telah Meninggal   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2-lB0zbg7LU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2-lB0zbg7LU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2-lB0zbg7LU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5V73FahqJNK0AgEjz-Ocwa7TlPQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PndcIMsUZ90"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-10T14:19:00.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Apa makna Rabbi habli minas solihin? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Apa makna Rabbi habli minas solihin? Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PndcIMsUZ90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PndcIMsUZ90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PndcIMsUZ90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1wTr_mybv79kGjZMTXYllDrZrH0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rOAxVZ6DKrA"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-01T07:06:51.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Tolong ajar buang air besar dan kecil ikut sunnah? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Tolong ajar buang air besar dan kecil ikut sunnah? Subscribe di YouTube: http://smarturl.it/uai Follow di ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rOAxVZ6DKrA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rOAxVZ6DKrA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rOAxVZ6DKrA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OJ16zYxz1FngYWlmzkipmpuVsdo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XQqziZ_kbLM"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-02T12:30:23.000Z",
+    "channelId": "UCLaOzRx6H4hr9XKDzMc92SA",
+    "title": "Ustaz Azhar Idrus - Hukum Belajar Ilmu SIHIR",
+    "description": "Sedutan dari Soal Jawab Agama bersama Ustaz Azhar Idrus (UAI) di Pusat Pendidikan & Kebajikan Darul Izzah, Yan, Kedah pada 22 Julai 2017. Bagi sesiapa ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XQqziZ_kbLM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XQqziZ_kbLM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XQqziZ_kbLM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ar-RahmanTV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3ctOmE5ooV71d32nowF49JCy2sM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uF8Qsn230ig"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-31T02:44:09.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Ganti Puasa Hari Jumaat Bolehkah? (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kijing 19 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uF8Qsn230ig/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uF8Qsn230ig/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uF8Qsn230ig/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jSDgdOv_jwK5izM6gtIRwGPDZZY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2pDqBswEBt8"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-24T13:55:56.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Kisah Ustaz Azhar Idrus Jadi Imam Tahlil (Official)",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2pDqBswEBt8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2pDqBswEBt8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2pDqBswEBt8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dEiDJ-5kxvLOPW1Rm1hFTp8IDMA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WZJ9YWvMoM4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T11:34:05.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Kenapa Bulan Puasa Diadakan pada Bulan Ramadhan? - Ustaz Azhar Idrus Official",
+    "description": "SOAL JAWAB RAMADHAN Kuliyah Maghrib Jemputan Ustaz Azhar Idrus 04 Mei 2019 ⏰ 07.45 malam Universiti Putra Malaysia, Serdang *Channel Rasmi ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WZJ9YWvMoM4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WZJ9YWvMoM4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WZJ9YWvMoM4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/hIkaFuuAAU-WNSX1Ud-JbfI-ioU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TMIs5uq-fMY"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:32:22.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "DOA Menjatuhkan Orang Zalim   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TMIs5uq-fMY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TMIs5uq-fMY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TMIs5uq-fMY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HWZW_NkqlcUAJoMfE20eSQHZMaY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KT1phtmyCSI"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T06:51:33.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Hukum Mandi Wajib Lebih Daripada Sekali   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KT1phtmyCSI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KT1phtmyCSI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KT1phtmyCSI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7lH0CdeGFI7R_vO_vI6ehSVsmOA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PzNeJafQKE4"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-18T13:43:37.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Tok Imam Terketar2 Tahan Kentut - Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PzNeJafQKE4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PzNeJafQKE4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PzNeJafQKE4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QeAIoFxvtzni5zDNfE-Jpo6W6xw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zYmKjeusZXw"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:35:55.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Hitam Di Dahi Tanda Kuat Solat   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zYmKjeusZXw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zYmKjeusZXw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zYmKjeusZXw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/c3F4zSmRzz75PXpeBbbz5UNQs54\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FO7PNVND6FQ"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T02:26:56.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "2 Jenis Bodo Ustaz Azhar Idrus UAI 2014",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FO7PNVND6FQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FO7PNVND6FQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FO7PNVND6FQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qcMrOKOWd4v1n0Qlu8Cpbl-WySo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8z2IPfC_7G0"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:47:19.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Pemakai TATU Bertaubat Tapi Tatu Susah Nak Buang   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8z2IPfC_7G0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8z2IPfC_7G0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8z2IPfC_7G0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DzVkAWSM2jfLCjAOMCEV6PgYbwU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "gYkgycHopMA"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-29T12:27:42.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Menangis Tengok Bola Sepak - Ustaz Azhar Idrus Official",
+    "description": "Kuliyah Maghrib & Soal Jawab Masjid Kg Batin Seberang Takir, Kuala Terengganu 30 Oktober 2018 *Channel Rasmi Ustaz Azhar Idrus (UAI) Original* ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gYkgycHopMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gYkgycHopMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gYkgycHopMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SPoozsBQbN8pY4wo23UvBtonbsE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4ePQ5SDTK_4"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-27T13:00:01.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - UTP 4 (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: UTP 4 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: http://www.dailymotion.com/ustazharidrus ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4ePQ5SDTK_4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4ePQ5SDTK_4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4ePQ5SDTK_4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iv7f5fbc6SVT6ezNfu0sE3ZU60A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BKGPWp9aPHo"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:45:55.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Niat Solat Jamak Paling Mudah   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BKGPWp9aPHo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BKGPWp9aPHo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BKGPWp9aPHo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/O2kMfQ2Pl9E15uwcWF95B274sRI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "W8m0FZtN9l4"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-11T05:03:09.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "lawak habis Isteri Suruh Berpoligami Tapi Saya Tak Nak   Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W8m0FZtN9l4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W8m0FZtN9l4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W8m0FZtN9l4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/18STFjjngFnJT3mW4lFgrS7HDrc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OamnE6_y35o"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T01:35:16.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Hukum Bermain Kemaluan Tanpa Onani  Nikmat Berkahwin     Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OamnE6_y35o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OamnE6_y35o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OamnE6_y35o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/M91SMZ1Ali6V5MRR_e68skNL-mY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1Rq5lNNmm-s"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:45:40.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Maksud Bertunang   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Rq5lNNmm-s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Rq5lNNmm-s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Rq5lNNmm-s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/99djIvFlxOurc3pk-pJvS8O5eL4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5DVXzPK-37s"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-10T09:38:13.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Ustaz Azhar Idrus Ayah Pin Turun Beli Rokok 3",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5DVXzPK-37s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5DVXzPK-37s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5DVXzPK-37s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Gk_2pbFKmfRgGtmVVP6lroBZ0fE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4IFILG9qs0E"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-12T07:51:43.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Ustaz Azhar Idrus   Hukum Solat Tarawih Dahulu Lepas tu Solat Isyak",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4IFILG9qs0E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4IFILG9qs0E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4IFILG9qs0E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SGxreZbIApWZeUMb3GPkbLvfQhQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-C4V2285aaQ"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-20T10:47:18.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "SENYUM Power Jimak EMPAT Isteri Tanpa Mandi Wajib   Ustaz Azhar Idrus UAI (Official)",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-C4V2285aaQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-C4V2285aaQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-C4V2285aaQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BFgHlIZEMDT0jECwzOg8FbEGYx8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "B-PM-MtjHsI"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-19T12:52:26.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Cerita UAI Terpotong Kereta Polis! - Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B-PM-MtjHsI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B-PM-MtjHsI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B-PM-MtjHsI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/esEqDFUxW1y5SWALRpiM_63vRHE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "A8uabCtYdT0"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-14T13:01:50.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Nak Tahu TAUBAT Diterima ALLAH Atau Tidak   Ustaz Azhar Idrus",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/A8uabCtYdT0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/A8uabCtYdT0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/A8uabCtYdT0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dZFNRtJlrUYeyyNcW-BKIdhYF-w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JYKcJkbNmIE"
+   },
+   "snippet": {
+    "publishedAt": "2015-03-13T15:05:22.000Z",
+    "channelId": "UCu90H1xWjj-bY0lYLQxrIZQ",
+    "title": "Yasin senario buat lawak dengan UAI",
+    "description": "Yasin senario buat lawak dengan UAI uai, ustaz azhar idrus, ustaz, ustaz azhar, uai lawak, ustaz azhar lawak, ceramah, ceramah ustaz azhar, ceramah ustaz, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JYKcJkbNmIE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JYKcJkbNmIE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JYKcJkbNmIE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Diana Leza",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1gGucQoHjdUrH4scHfWxqBjmXNE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "S3pRBPnvrxs"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:49:35.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Pinjam RM1,000 Bayar RM1,500   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S3pRBPnvrxs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S3pRBPnvrxs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S3pRBPnvrxs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/09kyAS0iEM9Z4TBTXZBODnZxYmk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nAhA_JSqA8w"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-30T09:59:21.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Hukum Sambut Hari IBU? Bongok Sokmo! (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Kijing 2 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nAhA_JSqA8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nAhA_JSqA8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nAhA_JSqA8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sUIbtP6Rn6DIf9zOvXmzcEUsu98\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sUZPXhQFXrY"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-10T11:35:50.000Z",
+    "channelId": "UC-eO7wPzP75WCJCh-LT5P3Q",
+    "title": "Malas Bangun Sahur - Ustaz Azhar Idrus Official",
+    "description": "SOAL JAWAB RAMADHAN Kuliyah Maghrib Jemputan Ustaz Azhar Idrus 04 Mei 2019 ⏰ 07.45 malam Universiti Putra Malaysia, Serdang *Channel Rasmi ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sUZPXhQFXrY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sUZPXhQFXrY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sUZPXhQFXrY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nXvsShi7bUxy7eXqLyaSr_CgWfk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NFsvUY3dhCc"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-28T01:44:52.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - UTP 13 (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: UTP 13 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NFsvUY3dhCc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NFsvUY3dhCc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NFsvUY3dhCc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/a3LhMAXQONpjRKW7EimZKggyHj0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Z4YRgjRxK8Q"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:58:19.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Tanam Uri Kena Letak Paku   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z4YRgjRxK8Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z4YRgjRxK8Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z4YRgjRxK8Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NT6KxgX0f0lS_dw9lb_hSKybDt0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GMh-VLP63Pg"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-15T07:58:57.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Terpijak Tanah Bekas Babi   Ustaz Azhar Idrus UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GMh-VLP63Pg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GMh-VLP63Pg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GMh-VLP63Pg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OhnVIEoY1d5Gy_viWIHFzxjUHlg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bDruJhqmsb8"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-16T02:01:55.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Ust Azhar Idrus  Hukum Nikah &amp; Takde Duit",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bDruJhqmsb8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bDruJhqmsb8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bDruJhqmsb8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xnaIrktaG7rtI3hDVKUyxjHGJJs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9BDxR__tO20"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-27T13:00:01.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - UTP 6 (Soal Jawab Agama)",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: UTP 6 Subscribe di YouTube: http://smarturl.it/uai Follow di DailyMotion: http://www.dailymotion.com/ustazharidrus ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9BDxR__tO20/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9BDxR__tO20/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9BDxR__tO20/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FIWJMEA0prMpoO9R89nM7xDwb54\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EFl1eI-0-HE"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-20T10:47:07.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "TAKBIR Jumpa Polis!   Ustaz Azhar Idrus (Official)",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EFl1eI-0-HE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EFl1eI-0-HE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EFl1eI-0-HE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/E3IaLbpcEzk6rgA8rBRDyIflk5Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qwTYQ8Ke9Ng"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-24T06:00:00.000Z",
+    "channelId": "UCpwZEuAlA60QgjxnpJBQn5Q",
+    "title": "Ustaz Azhar Idrus - Bagaimana cara mengeluarkan zakat perniagaan yang sebenarnya? - Soal Jawab",
+    "description": "Soal Jawab - Ustaz Azhar Idrus (UAI) Soalan: Bagaimana cara mengeluarkan zakat perniagaan yang sebenarnya? Subscribe di YouTube: http://smarturl.it/uai ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qwTYQ8Ke9Ng/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qwTYQ8Ke9Ng/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qwTYQ8Ke9Ng/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ustaz Azhar Idrus",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-cDvdRlu6XcGuMKDN4hri22OLbA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "V3TJ7fRXzyM"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-23T05:48:17.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Adakah Jatuh Talak Isteri Minta Cerai Suami Kata OK   Ustaz Azhar Idrus (Official)",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V3TJ7fRXzyM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V3TJ7fRXzyM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V3TJ7fRXzyM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Z6OWcPafqo81yvHDjDnH0O-4vfM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vLgI1zF9eSc"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-19T12:24:18.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Menantu Biadab, Laki Takut Bini   UAI",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vLgI1zF9eSc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vLgI1zF9eSc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vLgI1zF9eSc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IpXnKjQfizTYosvFljpKv79a960\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4UMhk8uIsfo"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-16T01:31:38.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "ustaz azhar idrus   soalan darah haid dan istihadah",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4UMhk8uIsfo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4UMhk8uIsfo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4UMhk8uIsfo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/35jefbJlXi_5zMIVFFwBHLUgpGQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8AhWBY749a0"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-16T02:04:10.000Z",
+    "channelId": "UCJFnl-ePHMYSTrMf45HX6wg",
+    "title": "Ust Azhar Idrus  UAI ; Mengajar Duit   Bangga   Pilihanraya ; Judi",
+    "description": "Dapatkan DVD \"1 JAM SOAL JAWAB BERSAMA USTAZ AZHAR IDRUS\" di pasaran, PERCUMA CD AUDIO... 2in1... Album : 1 JAM SOAL JAWAB BERSAMA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8AhWBY749a0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8AhWBY749a0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8AhWBY749a0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MH Pro Channel",
     "liveBroadcastContent": "none"
    }
   }
+
  ]
 }
